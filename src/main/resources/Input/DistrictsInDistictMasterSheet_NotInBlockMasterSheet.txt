@@ -1,0 +1,17 @@
+State: HARYANA district is in District master sheet but not in block sheet: PALWAL
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: ANANTNAG
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: BARAMULA
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: CHILAS
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: GILGIT
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: GILGIT WAZARAT
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: KATHUA
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: LEH AND LADAKH
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: MIRPUR
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: MUZAFFARABAD
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: PUNCH
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: RIASI
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: TRIBAL TERRITORY
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: UDHAMPUR
+State: JAMMU AND KASHMIR district is in District master sheet but not in block sheet: JAMMU
+State: UTTARPRADESH district is in District master sheet but not in block sheet: AMETHI
+State: UTTARPRADESH district is in District master sheet but not in block sheet: KANSHIRAMNAGAR

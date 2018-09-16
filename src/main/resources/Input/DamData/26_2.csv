@@ -1,0 +1,45 @@
+Sl    No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam,Latitude of dam,Year of completion,River,Nearest city,seismic zone,Type of dam,"Height above
+lowest foundation (m)",Length of dam (m),Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir
+Area (103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+40,OR10MH0040,TALKHOL,,"830 - 15' - 20"" E","210 - 12' - 00"" N",1976,Sanjo nalla,Padampur,-,TE,19.75,573,154.5,2550,675,1930,I,156.7
+41,OR10HH0041,BALIMELA,,"820 - 07' - 22"" E","180 - 08' - 25"" N",1977,Sileru,Chitrakonda,-,TE,70,1821,13856,369530,169080,267590,I/H/N,10930
+42,OR10LH0042,DHULIPAUNSIA,,"850 - 01' - 34"" E","200 - 10' - 24"" N",1977,Dhusia Nalla,Dasapalla,-,TE,12.91,573,60.78,3950,,2580,I,39.64
+43,OR10MH0043,KARANJKOTE,,"820 - 56' - 30"" E","200 - 03' - 30"" N",1977,Karanjkote nalla,Dharamgarh,-,TE,19.59,380,82.4,1920,459,1750,I,175
+44,OR10MH0044,RAMAGUDA,,"840 - 42' - 00"" E","190 - 18' - 00"" N",1977,Ramaguda nalla,Berhampur,-,TE,15.85,1006,178.4,1530,470,1500,I,30.6
+45,OR10MH0045,SANASIALINAI,,"860 - 10' - 20"" E","210 -58' - 50"" N",1977,Sanasialinai,Karanjia,-,TE,16.76,632.5,162,1870,376,1700,I,99.09
+46,OR10MH0046,ARADEI,,"850 - 37' - 00"" E","210 - 35' - 00"" N",1978,Aradei nalla,Keonjhar,-,TE,16.41,1112,220,1480,580,1480,I,223
+47,OR10MH0047,DERJANG,,"850 - 21' - 00"" E","200 - 51' - 00"" N",1978,Lingara & Mathili,Angul,-,TE/PG,27.81,1875,11825,46000,8660,46000,I/S,2831
+48,OR10MH0048,KOSKA,,"850 - 01' - 00"" E","200 - 19' - 00"" N",1978,Bandha pathar,Khandapara,-,TE,16.74,322.9,274.8,3820,931,3150,I,255.67
+49,OR10LH0049,PADAMPUR NALLA,,"820 - 59' - 35"" E","210 - 02' - 10"" N",1978,Padampur nalla,Padampur,-,TE,14.17,1828.8,4.87,7103,1780,5285,I,303
+50,OR10MH0050,SAIPALA,,"820 - 40' - 00"" E","200 - 48' - 00"" N",1978,Trb to Ong,Nawapara,-,TE,20.12,330,203.76,21300,5376,18346,I,792
+51,OR10MH0051,SANMACHHAKANDANA,,"850 - 34' - 00"" E","200 - 30' - 00"" N",1978,Machhakandana,Keonjhar,-,TE,16.15,975.56,286,4530,410,4100,I/S,226.5
+52,OR10MH0052,SUNDAR,,"820 - 35' - 30"" E","200 - 35' - 30"" N",1978,Trb to Ong,Nawapara,-,TE,20,2700,,47000,10000,44400,I,812.5
+53,OR10MH0053,TANGARAKANA,,"820 - 22' - 30"" E","190 - 43' - 50"" N",1978,Vansadhara,Bhawanipatna,-,TE,21.74,570,156.05,820,170,580,I,152.3
+54,OR10LH0054,CHHAMUNDIA,,"860 - 06' - 30"" E","220 - 02' - 00"" N",1979,Chhamundia,Karanjia,-,TE,12.5,385.28,48.9,1189,297,1010,I,101.92
+55,OR10HH0055,KHADAKHAI,,"860 - 14' - 19"" E","200 - 08' - 30"" N",1979,KhadakhaI,Baripada,-,TE/PG,32.5,365.4,,63600,9800,56220,I,2240
+56,OR10MH0056,MATHANPAL,,"830 - 14' - 00"" E","200 - 18' - 00"" N",1979,Konda,Titilagarh,-,TE,15.24,1454,2260,5130,1160,4180,I,283
+57,OR10MH0057,ARIKUL,,"860 - 36' - 06"" E","210 - 48' - 22"" N",1980,Arikul Nala,Baripada,-,TE,16.8,976,318.84,2830,393,2320,I,274.63
+58,OR10LH0058,BAGHUA (MI),,"840 - 57' - 00"" E","190 - 57' - 30"" N",1980,Baghua,Odagaon,-,TE,13.41,1134,241.68,3686,1300,2260,I,190
+59,OR10MH0059,BHETABAR,,"850 - 21' - 00"" E","200 - 03' - 30"" N",1980,Kankadajhar,Rampur,-,TE,16.16,1402,295.92,3280,1400,2890,I,379
+60,OR10MH0060,KANGANI NALLA,,"840 - 22' - 36"" E","200 - 22' - 04"" N",1980,Kangani nalla,Phulbani,-,TE,21.74,281.5,,2660,,2200,I,248
+61,OR10MH0061,SATIGUDA(MAL),,"810 - 56' - 00"" E","180 - 21' - 42"" N",1980,Satiguda nalla,Malkangiri,-,TE,25.5,1615,1402,76200,11470,68510,I,1457.75
+62,OR10MH0062,TENAR,,"850 - 30' - 00"" E","210 - 20' - 00"" N",1980,Tenar nalla,Telkoi,-,TE,17.06,896.11,,2630,631,2672,I,282.22
+63,OR10LH0063,BANKSAL,,"840 - 22' - 00"" E","210 - 38' - 00"" N",1981,Banksal nalla,Kuchinda,-,TE,14.63,609,110,4980,3660,4310,I,420.16
+64,OR10MH0064,KALO,,"850 - 27' - 30"" E","210 - 31' - 15"" N",1981,Kalo River,Baripada,-,TE,24.24,2458,983.33,29700,5350,24240,I,1750
+65,OR10LH0065,MAHARANISAGAR,,"850 - 02' - 30"" E","190 - 32' - 20"" N",1981,Maharani sagar n.,Rambha,-,TE,10.65,780,107.6,850,410,670,I,69.5
+66,OR10MH0066,MALKANGIRI,,"820 - 50' - 00"" E","190 - 55' - 00"" N",1981,Malkangiri nalla,Rayagada,-,TE,16.7,122.5,46.29,300,1829,260,I,46
+67,OR10MH0067,NESA,,"860 - 08' - 40"" E","200 - 24' - 00"" N",1981,Nesa,Baripada,-,TE,18,830,304.83,7800,1830,6580,I,280
+68,OR10LH0068,PAUNSIA NALLA,,"860 - 35' - 30"" E","210 - 45' - 00"" N",1981,Paunsia nalla,Baripada,-,TE,12.53,960.53,120,2490,850,2261,I,138
+69,OR10MH0069,TIKILIPADA,,"840 - 26' - 15"" E","210 - 30' - 43"" N",1981,Dudhia nalla,Jamankira,-,TE,18.75,282.42,139,1550,29785,1380,I,103.93
+70,OR10LH0070,BHALUGUDA,,"830 - 40' - 00"" E","190 - 37' - 00"" N",1982,Bhalughai nalla,Muniguda,-,TE,13.81,570,88.67,670,800,430,I,129.19
+71,OR10MH0071,DADARAGHATI,,"850 -17' - 30"" E","210 - 03' - 45"" N",1982,Gambharia nalla,Perjang,-,PG,29,240,55,27770,847,24070,I,368
+72,OR10MH0072,DASAMANTHAPUR,,"820 - 52' - 00"" E","190 - 02' - 10"" N",1982,Dasmantapur nalla,Rayagada,-,TE,18.2,265,71.38,440,122,300,I,90.6
+73,OR10MH0073,KODABAHAL,,"830 - 66' - 10"" E","180 -89' - 30"" N",1982,Kodabahal nalla,Junagarh,-,TE,21.52,210.35,201.16,960,440,740,I,58.32
+74,OR10MH0074,LAXMIPUR,,"830 - 56' - 30"" E","190 - 17' - 30"" N",1982,Nissar nalla,Laxmipur,-,TE,19,349,40.96,470,110,320,I,96
+75,OR10LH0075,PANASKHAL,,"860 - 54' - 00"" E","200 - 05' - 00"" N",1982,Panaskhal nalla,Dasapalla,-,TE,14.32,915,122.7,1130,441,910,I,78.8
+76,OR10LH0076,RAGHUBEDA,,"850- -48' -21"" E","210 -28' - 13"" N",1982,Raghubeda nalla,Keonjhar,-,TE/PG,13.29,710,600,532,1635,310,I,122.42
+77,OR10LH0077,BAGHIJHARAN,,"820 - 51' - 00"" E","200 - 31' - 00"" N",1983,Katangi nalla,Patnagarh,-,TE,13.31,1524,65,1120,340,920,I,117
+78,OR10LH0078,BEDAPADA,,"850 - 25' - 00"" E","200 - 44' - 00"" N",1983,Sialpia,Hindol,-,TE,13,975,174,1160,447,800,I,140
+79,OR10MH0079,BEHERA,,"820 - 35' - 00"" E","190 - 45' - 00"" N",1983,Behera Nalla,Bhawanipatna,-,PG,25.26,111,29.5,5040,910,4300,I,456.4
+80,OR10MH0080,BENIKPUR,,"830 - 24' - 00"" E","190 - 39' - 00"" N",1983,Uttei,Bhawanipatna,-,TE,19.3,306.5,80.5,350,820,220,I,49.52
+81,OR10MH0081,CHHATENJORE,,"830 - 43' - 00"" E","200 - 01' - 00"" N",1983,Chhatenjore,Sundargarh,-,TE/PG,15.15,865,124.35,1270,501,970,I,112

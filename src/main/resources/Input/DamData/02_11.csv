@@ -1,0 +1,40 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+219,AP01LH0231,"Pedda Cheru,
+Cherkonda",,"78? 40' 00""","16? 40' 30""",NA,,Hyderabad,,TE,13,602,-,1753,864,-,I,179
+220,AP01MH0232,"Pedda cheru,
+Chintapalli",,"78? 49' 45""","16? 47' 32""",NA,Krishna,Chintapalli,,TE,15,1216,,1300,-,1170,I,-
+221,AP01LH0233,"Pedda cheru, Iylapur
+(V)",,"78? 46' 48""","18? 53' 00""",NA,,Korutla,,TE,11.5,1928,1650,1402,300,1402,I,55.64
+222,AP01LH0234,"Pedda Cheru, Inapur",,"77? 47' 34""","17? 08' 24""",NA,,Doma,,TE,10,560,_,3093,_,2922,I,117.3
+223,AP01LH0235,"Pedda Cheru,
+Indurthy",,"78? 52' 27""","16? 59' 30""",NA,Local Stream,Deverkonda.,,TE,10,1364,-,3944,3250,-,I,584
+224,AP01LH0236,"Pedda cheru, Kodad",,"79? 59' 45""","16? 56' 05""",NA,Krishna,Kodad,,TE,10,2307.64,_,3965,3020,3569,I,185
+225,AP01LH0237,"Pedda Cheru,
+Kodlapelly (V)",,"78? 53' 51""","18? 48' 30""",NA,Godavari,Jagtial,,TE,10.2,2562,1330,1162,372.16,1162,I,95.85
+226,AP01LH0238,"Pedda cheru,
+Lingapur (V)",,"79? 03' 25""","18? 44' 45""",NA,,Pegadapally,,TE,11,2321,1350,1000,250,1000,I,283
+227,AP01LH0239,"Pedda
+cheru,Lokaram(V),",,"80? 31' 05""","17? 14' 10""",NA,,Kalluru,,TE,10.2,1986,1.67,1790,1400,1670,I,76.2
+228,AP01LH0240,Pedda,,"77? 31 35""","16? 52' 0""",NA,Peddavagu,Hyderabad,,TE,11,1101,103.15,1067,889,756,I,120
+229,AP01MH0241,"Pedda cheru,
+Medaram(M)",,"79? 13' 00""","18? 43' 00""",NA,Godavari,Peddapally,,TE,15,1560,_,1506,118,1281,I,8603
+230,AP01LH0242,"Pedda cheru,
+Potharam (V)",,"80? 12' 20""","17? 29' 39""",NA,,Kodimyal,,TE,10.8,268,1055,918,242,918,I,211.27
+231,AP01MH0243,"Pedda cheru,
+Shivanagudem",,"78? 52' 57""","16? 59' 30""",NA,Krishna,Marriguda,,TE,20,1364,_,3944.2,1793.6,3550,I,584
+232,AP01LH0244,"Pedda Cheru, Soan",,"78? 22' 56""","19? 02' 17""",NA,,Nirmal,,TE,10,1506,,6314.65,800,5684,I,125.27
+233,AP01LH0245,"Pedda cheru,
+Stambampally (V)",,"79? 09' 00""","18? 51' 30""",NA,,Dharmapuri,,TE,10,990,2050,1742,300,1742,I,78.38
+234,AP01LH0246,"Pedda cheru,
+Swamulavari
+Lingotam",,"78? 54' 00""","16? 53' 15""",NA,Local Stream,Nalgonda,,TE,10,518,-,1117,1203,-,I,59
+235,AP01LH0247,"Pedda cheru,
+Thangadpally",,"78? 51' 30""","17? 13' 15""",NA,Local Stream,Hyderabad,,TE,13,690,-,3884,1629,-,I,156
+236,AP01LH0248,"Pedda cheru,
+Vennached",,"77? 47' 00""","16? 58' 30""",NA,,Hyderabad,,TE,10,989,-,2891,697,-,I,102
+237,AP01MH0249,"Pedda cheru,
+Yellareddy",,"78? 18' 30""","18? 21' 30""",NA,,Hyderabad,,TE,19,1889,-,6113,-,-,I,195
+238,AP01MH0250,"Peddarayanicheru,
+Lingal",,"78? 52' 08""","16? 16' 17""",NA,,Mahabubnagar,,TE,17.3,326,-,1350,-,-,I,72

@@ -1,0 +1,42 @@
+Sl    No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam,Latitude of dam,Year of completion,River,Nearest city,seismic zone,Type of dam,"Height above
+lowest foundation (m)",Length of dam (m),Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir
+Area (103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+1,OR10MH0001,SORODA,,"840 - 26' - 00"" E","190 - 45' - 00"" N",1896,Padma,Soroda,-,TE,17.9,5815,1700,497.5,9100,49750,I/S,500
+2,OR10MH0002,HALADIA,,"860 - 42' - 46"" E","200 - 03' - 40"" N",1910,Haladia,Baripada,-,TE,23.1,4200,1697,58100,640,46870,I,182
+3,OR10HH0003,HIRAKUD,,"830 - 52' - 00"" E","210 - 32' - 00"" N",1957,Mahanadi,Sambalpur,-,TE/PG,60.96,4800,19330,8136000,743000,5818000,I/H/C/S,42450
+4,OR10HH0004,JALAPUT,,"820 - 23' - 00"" E","180 - 27' - 00"" N",1957,Sileru,Jalaput,-,PG,60.65,1425,286.18,70610,97120,816390,H,5664
+5,OR10LH0005,BHATRAJORE,,"830 - 00' - 45"" E","190 - 50' - 15"" N",1958,Bhatrajore,Junagarh,-,TE,12.19,670.6,150,4250,638,2940,I,433.16
+6,OR10HH0006,MANDIRA,,"840 - 40' - 00"" E","220 - 16' - 00"" N",1959,Shankha,Rourkela,-,TE,35.37,426.8,26732,316960,44360,311020,S,8494
+7,OR10MH0007,DHANEI,,"840 - 53' - 45"" E","190 - 47' - 30"" N",1965,Dhanei,Kodala,-,TE,20.57,1341,152.64,15320,4320,11710,I,355
+8,OR10MH0008,BHASKEL,,"820 - 08' - 00"" E","190 - 42' - 30"" N",1966,Bhaskelnalla,Umarkote,-,TE,22.86,1672.8,,29830,6144,27670,I,566
+9,OR10MH0009,BUDHABUDHIANI,,"850 - 00' - 00"" E","190 - 52' - 00"" N",1966,Budhabudiani,Nayagarh,-,TE,24.39,1341,435,22000,2695,15000,I,481.31
+10,OR10MH0010,PANASAPAL,,"850 - 30' - 00"" E","200 - 85' -00"" N",1968,Panaspal nalla,Hindol,-,TE,16.46,914.48,108.5,1490,232,1220,I,142.36
+11,OR10MH0011,KODIGAON,,"820 - 49' - 00"" E","180 - 42' - 30"" N",1969,Gadagada nalla,Sunabeda,-,TE,17.4,422.15,139,2720,230,2120,I,197.23
+12,OR10LH0012,LAUPAL,,"840 - 27' - 00"" E","200 - 47' - 00"" N",1970,Laupal,Athmallick,-,TE,10.5,1170.5,130,2880,250,2700,I,111.83
+13,OR10HH0013,SALIA,,"850 - 05' - 03"" E","190 - 48' - 00"" N",1970,Salia,Balugaon,-,TE,32.91,423.63,382.05,60660,4080,52760,I,1019.42
+14,OR10MH0014,KUKURPETA,,"840 - 33' - 50"" E","200 - 02' - 10"" N",1971,Bara nalla,Angul,-,TE,15.24,1127.76,678,2370,391,1100,I,201
+15,OR10LH0015,LAIGAM,,"840 - 21' - 00"" E","200 - 41' - 00"" N",1971,Gouduni nalla,Boudh,-,TE,14.33,579.27,,20200,511,1800,I,353.75
+16,OR10LH0016,GANIANALLA,,"840 - 39' - 00"" E","190 - 21' - 00"" N",1973,Ganianalla,Digapahandi,-,TE,14.93,1585,149.7,1860,324,1740,I,128.82
+17,OR10MH0017,JHUMUKA,,"880 - 50' - 10"" E","300 - 30' - 00"" N",1973,Jhumukanalla,Bhubaneswar,-,TE,20.68,402.34,124.6,6220,1053,5436,I,188.48
+18,OR10LH0018,BADJORE(MI),,"860 - 47' - 00"" E","210 - 49' - 30"" N",1974,Badjore nalla,Baripada,-,TE,12.65,1583,90,4020,1736,1540,I,328
+19,OR10MH0019,BALASKUMPA,,"840 - 19' - 06"" E","200 - 24' - 36"" N",1974,Tributary of Pilasalki,Purunapani,-,TE,17.69,421,,1150,,1010,I,130.18
+20,OR10MH0020,GHODAHADA,,"840 -20' - 00"" E","190 - 17' - 00"" N",1974,Ghodahada,Digapahandi,-,TE,25.95,1795,1394,24190,3522,20300,I,906
+21,OR10MH0021,ALIKUAN,,"840 - 30' - 00"" E","190 - 40' - 00"" N",1975,Badanalla nalla,Digapahandi,-,TE,21.9,1600,345.5,2650,418,1650,I,235
+22,OR10LH0022,GUNDURPOSI,,"850 - 45' - 00"" E","200 - 45' - 00"" N",1975,Gundurposi nalla,Dhenkanal,-,TE,11.11,1097.56,151,4250,1140,4020,I,197.3
+23,OR10LH0023,HAGURI,,"840 - 50' - 00"" E","200 - 17' - 00"" N",1975,Haguri Nalla,Dasapalla,-,TE,12.8,738,210.72,1710,,1560,I,141.6
+24,OR10MH0024,JHARANAI,,"840 - 55' - 00"" E","190 - 40' - 00"" N",1975,Jharanai,Kodala,-,TE,28,274.5,183,1420,680,1390,I,103.91
+25,OR10MH0025,KALIJODI,,"850 - 50' - 00"" E","200 - 35' - 00"" N",1975,Kalijodi nalla,Dhenkanal,-,TE,15.54,290,92.18,1200,520,800,I,133
+26,OR10MH0026,KANHEINALLA,,"840 - 38' - 00"" E","190 - 17' - 00"" N",1975,Kanheinalla,Berhampur,-,TE,18.29,1021,207.47,1720,290,1270,I,113
+27,OR10MH0027,KANSABANSA,,"840 - 50' - 00"" E","200 - 57' - 30"" N",1975,Kansabansa,Rourkela,-,TE,16.77,648.2,960,2480,581,2180,I,188.3
+28,OR10LH0028,KANTESIR,,"830 - 16' - 00"" E","200 - 12' - 30"" N",1975,Kantesir nalla,Kesinga,-,TE,12.46,1074,61.65,1333,585,1330,I,90.27
+29,OR10MH0029,KUMBHO,,"830 - 25' - 45"" E","210 - 18' - 45"" N",1975,Dharkuta Nalla,Baragarh,-,TE,18.24,158.5,48.22,4060,1140,3770,I,230.88
+30,OR10MH0030,LANKAGADA,,"840 - 50' - 00"" E","190 - 55' - 00"" N",1975,Bhusunda nalla,Digapahandi,-,TE,18.29,451,172.15,1470,144,1420,I,113.2
+31,OR10LH0031,MAHISANALLA,,"840 - 49' - 40"" E","200 - 15' - 10"" N",1975,Mahisanalla,Dasapalla,-,TE,12.2,914.65,156.16,2550,,2210,I,214.61
+32,OR10MH0032,DAMSAL,,"850 - 43' - 49"" E","210 - 03' - 34"" N",1976,Kharkhai,J.K.Road,-,TE,18.26,399.4,239.6,270,687,240,I,436
+33,OR10MH0033,DEBIJHARA,,"850 - 07' - 00"" E","190 - 43' - 00"" N",1976,Debijhara nalla,Balugaon,-,TE,15.34,399.4,84.5,23750,395,1150,I,103.64
+34,OR10LH0034,GHAGARA,,"840 - 57' - 00"" E","200 - 24' - 00"" N",1976,Ghagara nalla,Dasapalla,-,TE,14.89,707.32,205.05,991,316,807,I,90.6
+35,OR10LH0035,JODABADIA,,"850 - 28' - 00"" E","200 - 18' - 00"" N",1976,Jodabadia nalla,Kamakhyanaga,-,TE,11.89,1635,177.69,950,150,810,I,132.5
+36,OR10LH0036,KALAKALA,,"850 - 58' - 00"" E","200 - 42' - 30"" N",1976,Gabapala,Bairee,-,TE,11.45,929.22,165.15,4640,550,2900,I,170.37
+37,OR10MH0037,PITAMAHAL,,"840 - 42' - 00"" E","220 - 02' - 00"" N",1976,Pitamahal,Rourkela,-,TE/PG,25.11,660.2,896,23620,3550,20170,I,501.71
+38,OR10HH0038,SALANDI,,"860 - 18' - 00"" E","210 - 17' - 00"" N",1976,Salandi,Bhadrak,-,TE/PG,51.82,817.4,601,565000,31820,556500,I/C,3256
+39,OR10LH0039,SARAPA,,"850 - 21' - 30"" E","200 - 44' - 30"" N",1976,Karanda nalla,Hindol,-,TE,13.72,963.92,165,2180,748,1730,I,257.64

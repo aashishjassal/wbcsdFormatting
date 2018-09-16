@@ -1,0 +1,41 @@
+"Sl
+No",Project Identification Code,Name of Dam,Year of completion,River,Nearest city,Type of dam,Height above lowest foundation,Length of dam,Volume content of dam,Gross Storage capacity,"Reservoir
+Area",Effective Storage capacity,Purpose,Designed Spillway capacity
+46,TN12MH0046,Uppar(Erode),1968,Uppar,Dharapuram,TE/PG,19.82,2398.17,354,16310,4530,14920,I,708
+47,TN12MH0047,Chittar-I,1970,Chittar,Kuzhithurai,TE/PG,25.91,753.13,-,17271.49,2930,11125.06,I,399.32
+48,TN12MH0048,Chittar-II,1970,Chittar,Kuzhithurai,TE/PG,25.91,1049.44,783,28577.34,4140,16992.5,I,195.41
+49,TN12MH0049,Kuthiraiyar,1990,Kuthiraiyar,Palani,TE/PG,33.38,840,-,7164,590,7164,I,572.72
+50,TN12MH0050,Manimukthanadhi,1970,Manimukthanadhi,Kallakurichi,TE/PG,21,3618,497,20856,7370,19901,I,926.06
+51,KL12MH0051,*Peruvaripallam,1971,Peruvaripallam,Pollachi,TE,27.74,466,362,17560,2900,11020,I/H,93.46
+52,TN12HH0052,Upper Aliyar,1971,Aliyar,Pollachi,PG,81,315,283,26570,-,25840,H,1528
+53,TN12HH0053,Kodayar-I,1972,Kodayar,Kallidaikurichi,PG,88,166,163,98690,8300,98510,H,257
+54,TN12HH0054,Kodayar-II,1972,Kodayar,Nagercoil,PG,61,152,79,888,41800,883,H,787
+55,TN12VH0055,Sholayar,1971,Sholayar,Valparai,TE/PG,105.16,1244.19,2830,152700,5260,142900,I/H,1474.9
+56,TN12HH0056,Gatana,1974,Karunaiyaru,Alwarkurichi,TE/PG,32,2645,1817,12127.12,800,12127.12,I,758.89
+57,TN12HH0057,Parappalar,1974,Parappalar,Palani,PG,41.14,81.08,18,5600,1140,5600,I,741.89
+58,TN12MH0058,Ponnaniyar,1974,Ponnaniyar,Trichy,TE,45.62,247,-,3396,650,3396,I,199.1
+59,TN12HH0059,Ramanadhi,1976,Ramanadhi,Thirunelveli,TE/PG,30.76,839,1338,4301.6,390,4301.6,I,295.91
+60,TN12MH0060,Upper Nirar Weir,1975,Nirar,Valparai,PG,27.52,132.59,148,990,80,,I/H,1069.23
+61,TN12HH0061,Chinnakuttiyar,1976,C.Kutiyar,Ambasamudaram,PG,39,277,70,2770,-,2620,H,65
+62,TN12MH0062,Kuttiyar,1976,Kuttiyar,Ambasamudaram,PG,25,93,9.42,230,-,190,H,38
+63,TN12MH0063,"Pilavukkal Project
+Kovilar",1976,Kovilar,Srivilliputhur,TE/PG,18,680.73,-,3770,740,-,I,223.3
+64,TN12MH0064,"Pilavukkal Project
+Periyar",1976,Periyar,Srivilliputhur,TE/PG,27.43,908.4,-,5440,760,-,I,286.56
+65,TN12HH0065,"Pykara New
+Forebay",1976,Pykara,Uthagamandalam,PG,45,236,78,5850,-,-,H,1092
+66,TN12MH0066,Chinnar,1977,Chinnar,Palacode,TE,21.67,365,368,14150,1700,13980,I,770.3
+67,TN12HH0067,Karuppanadhi,1978,Karuppanadhi,Kadayanallur,TE/PG,38.64,890,-,5235.5,500,5235.5,I,356.79
+68,TN12HH0068,Eravangalar,1978,Eravangalar,Chinnamanur,PG,30,242,54,2400,290,2090,H,106
+69,TN12MH0069,Gunderipallam,1978,Gunderipallam,Erode,TE/PG,17.7,927.09,-,7200,610,7200,I,299.63
+70,TN12HH0070,Highwavys,1978,Highwavys stream,Chinnamanur,TE/PG,35,175,20,2440,285,2400,H,66
+71,TN12HH0071,Manalar,1978,Manalar,Chinnamanur,PG,40,185,49,13580,306,12250,H,327
+72,TN12HH0072,Palar Poranthalar,1978,Palar Poranthalar,Palani,TE/PG,34.9,2513.59,1478,43130,5180,43130,I,1217.6
+73,TN12MH0073,Varadhamanadhi,1978,Varadhamanadhi,Palani,TE/PG,45.4,355.8,-,3130,390,3130,I,406.39
+74,TN12MH0074,Varattupallam,1978,Varattupallam,Bhavani,TE/PG,17.05,1966.5,-,3950,890,3910,I,284.33
+75,TN12MH0075,"Vattamalaikarai
+Odai",1979,V.K. Odai,Dharapuram,TE,23.1,2040,638,7590,2060,6890,I,533.83
+76,TN12MH0076,Vennirar,1978,Vennirar,Chinnamanur,PG,29,96,17,144,-,-,H,77
+77,TN12MH0077,Marudhanadhi,1979,Marudhanadhi,Vathalagundu,TE/PG,26.69,823,-,5334.55,720,5334.55,I,420
+78,TN12HH0078,Lower Nirar,1982,Nirar,Valparai,PG,50.29,188.98,80,7730,520,4930,I/H,1303
+79,TN12MH0079,Pambar,1983,Pambar,Uthangarai,TE,22.5,652,122,7924,2430,7018,I,1513.39

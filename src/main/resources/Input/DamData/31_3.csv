@@ -1,0 +1,47 @@
+"Sl
+No",Project Identification Code,Name of Dam,Year of completion,River,Nearest city,Type of dam,Height above lowest foundation,Length of dam,Volume content of dam,Gross Storage capacity,"Reservoir
+Area",Effective Storage capacity,Purpose,Designed Spillway capacity
+80,TN12LH0080,Thumbalahalli,1983,Poolapatti,Palacode,TE,17.1,1043.5,136,3680,1930,,I,577.3
+81,TN12HH0081,Kadambarai,1984,Kadambarai,Pollachi,TE/PG,67.5,808,1332,30850,,24800,H,518
+82,TN12MH0082,Kesarigullihalla,1985,K.gulihalla,Belahalli,TE,23.7,1400,265,3795,1053,3566,I,464.09
+83,TN12HH0083,Vaniar,1985,Vaniar,Pappireddy patti,TE,43,1147,1213,11829,109,11829,I,655
+84,TN12MH0084,Nagavathi,1987,Nagavathi,Dharmapuri,TE,21,288,76,4650,1177,4387,I,579.41
+85,TN12HH0085,Servalar,1986,Servalar,Ambasamudaram,PG,57,465,227,35000,-,-,I/H,1820
+86,TN12MH0086,Sulagirichinnar,1985,Sulagiri,Sulagiri,TE,25.3,415,229,2298,445,2208,I,547
+87,TN12MH0087,Thoppaiyar,1986,Thoppaiyar,Dharmapuri,TE,25.6,435,141,8433,1199,8433,I,980.69
+88,TN12MH0088,Vandal weir,1986,Thoraikkadavu,Pollachi,PG,20.5,204,24.3,-,-,-,H,794.7
+89,TN12MH0089,Siddhamalli,1987,Siddhamalli odai,Ariyalur,TE/PG,15.15,5053,454.5,6418.44,266180,6418.44,I,450
+90,TN12MH0090,Perumpallam,1990,Perumpallam,Erode,TE/PG,17.09,2060,-,3280,652.9,3180,I,437.8
+91,TN12LH0091,Noyyal athupalayam,1992,Noyyal,Muthur,TE/PG,14.06,2890,-,6600,1693,6430,I,2527
+92,TN12MH0092,"Noyyal
+Orathupalayam",1992,Noyyal,Chennimalai,TE/PG,21.69,2381.9,-,17440,2245,17440,I,2527
+93,TN12HH0093,Anaimadavu,1993,Anaimadavu,Salem,TE/PG,27.94,672.4,32.81,7560,0.11,-,I,911.08
+94,TN12HH0094,Kariakovil,1993,Kariakovil,Salem,TE,27.2,748.5,42.71,5380,0.08,-,I,770.21
+95,TN12LH0095,Kelavarapalli,1993,Pennaiyar,Hosur,TE,20.9,546.8,-,13612,3495,13160,I/S,2490
+96,TN12MH0096,Kodaganar,1993,Kodaganar,Vedasandur,TE,17.75,2895,256,12300,4120,11540,I,8500
+97,TN12MH0097,Poigaiyar,2002,Poigaiyar,Aralvoimozhi,TE/PG,13.7,1202,-,2967.26,-,2799.44,I,113.83
+98,TN12MH0098,Mordhana,2001,Koudhanyanadhi,Vellore,TE/PG,30.25,873,-,7396,871.18,6513,I,10541
+99,TN12HH0099,Sothuparai,2001,Varahanadhi,Periakulam,PG,57,345,-,2836.23,145,2822.93,I,807
+100,TN12HH0100,Adavinainar Kovil,2002,Hanumanthanadhi,Shencottai,PG,48.4,670,-,4963.82,-,4963.82,I,356.79
+101,TN12MH0101,Kodumudiyar,2004,Kodumudiyar,Valliyoor,TE/PG,33.8,411,840,3578.25,534,3448.36,I,483.76
+102,TN12MH0102,Vadakku Pachaiyar,2003,"Vadakku
+Pachaiyar",Kalakadu,TE/PG,24.6,3115,-,12500.39,-,25017.2,I,483.18
+103,TN12LH0103,Nagariar sasthakovil,2004,Nagariar,Rajapalyam,TE/PG,23.9,1410,-,1032.1,798,1032.1,I,234.94
+104,TN12LH0104,Nambiar,2003,Nambiar,Valliyoor,TE/PG,16.15,2605,715,2329.09,1522,2329.09,I,1274
+105,TN12MH0105,Nallathangal Odai,2007,Nallathangal Odai,Dharapuram,TE/PG,22,3450,681.62,6330,3135,6330,I,873.76
+106,TN12MH0106,Nanganjiar,2008,Nanganjiar,Ottanchatram,TE,21.5,2680,-,7200,3980,6590,I,3468.58
+107,TN12MH0107,Shenbagathope,2008,Kamandalar,Polur,TE/PG,26.5,889,322.21,8122,1051.2,8113,I,1197.69
+108,TN12LH0108,Shanmuganadhi,2004,Varattar,Cumbum,TE/PG,20,638,-,2251.83,344,1775.54,I,265
+109,TN12MH0109,Gundar,1983,Gundar,Shencottai,TE/PG,15.7,390,172.12,707.5,140,707.5,I,264.68
+110,TN12LH0110,Vembakottai,1986,Vaippar,Sivakasi,TE/PG,12,3400,-,11283.21,-,11283.21,I,1656.25
+111,TN12MH0111,Anaikuttam,1986,Arujuna,Sivakasi,TE/PG,18.7,2940,-,3558.78,-,3473.88,I,1708.6
+112,TN12MH0112,Golwarpatti,1993,Arujuna & Gowsiha,Sattur,TE/PG,15.9,5700,-,5055.91,-,5037.4,I,2848.43
+113,TN12MH0113,Rajathopekanar,1997,Palar,Vellore,TE/PG,15.94,260,-,603,-,581,I/S,127.16
+114,TN12HH0114,Mirugandanadhi,2006,Mirugandanadhi,Polur,TE,30,778,-,2468,-,2315,I,429.62
+115,TN12MH0115,"Varattar
+Vallimadurai",2007,Varattar,Harur,TE,21,1200,-,3122,-,3051,I,162
+116,TN12MH0116,Andiappanur Odai,2007,Pambar,Vellore,TE/PG,22.5,1185,-,3277,-,3175,I,422.68
+117,TN12LH0117,Vandal Odai,2007,Vandal Odai,Ambasamudram,TE/PG,14,1350,-,1641.4,-,1641.4,I,126.68
+118,TN12MH0118,Sirumalaiyar Odai,2009,Sirumalaiyar,Nilakottai,TE/PG,19.28,925.8,-,438.65,-,438.65,I,166.11
+119,TN12MH0119,Kuppanatham,2009,Cheyyar,Thiruvannamalai,TE/PG,25.2,750,586.05,19810,2.79,19221,I,1359.2
+120,TN12MH0120,Mambazha- thuraiyar,2011,Mambazha- thuraiyar,Kanyakumari,TE/PG,24,360,-,1260.48,-,11818.08,I,163.94

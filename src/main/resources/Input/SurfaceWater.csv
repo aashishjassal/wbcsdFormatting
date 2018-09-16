@@ -1,0 +1,558 @@
+State,District,Observation Area,Latitude,Longitude,Simple parameters,Appearance,Color,Odour,Regular Monitoring,pH,E C,Oil & Grease,Suspended Solids,Dissolved Oxygen,Chemical Oxygen Demand,Bio-chemical  Oxygen Demand (BOD),Nitrite-Nitrogen as N,Nitrate-Nitrogen as N,Nitrite-Nitrogen and Nitrate- Nitrogen (NO2 +NO3),Free Ammonia,Total Residual Chlorine,Cyanide as CN,Fluoride as F,Sulphides as S,Dissolved Phosphates as P,Sodium Absorption  Ratio (SAR),Total Coliforms,Fecal Coliforms,Special parameters,Total Phosphorous  as P,Total Kjeldal Nitrogen,Total Ammonia (NH4+NH3)-Nitrogen,Phenolic compounds   as C6H5OH,Surfactants,Organo-chlorine Pesticides,PAH,PCB and PCT,Zinc as Zn,Nickel as Ni,Copper as Cu,Hexavalent Chromium as Cr6+,Total Chromium as Cr,Arsenic as As,Lead as Pb,Cadmium as Cd,Mercury as Hg,Manganese as Mn,Iron as Fe,Vanadium as V,Selenium as Se,Boron as B
+Uttar Pradesh,Agra,"
+Water Works, near intake",N27°12’09.9” ,E078°01’59.0”,,Pale Yellow,15,Agreeable,,7.47,614,< 1,18,6.2,18,4,0.02,4.74,4.76,<0.1,<0.1,<0.02,0.5,< 0.1,0.9,1.54,500,7,,1.3,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.05,< 0.01,< 0.01,<0.05,< 0.01,< 0.01,<0.01,<0.01,<0.001,0.04,0.28,<0.01,<0.01,0.08
+Uttar Pradesh,Agra,"
+Hathi Ghat near Railway Bridge, Agra Fort",N27°11’26.8”,E078°01’33.7”,,Pale Yellow,10,Agreeable,,6.92,690,< 1,12,6,16,4,0.03,3.72,3.75,<0.1,<0.1,<0.02,0.6,< 0.1,0.7,1.86,900,26,,0.9,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.06,< 0.01,< 0.01,<0.05,< 0.01,< 0.01,<0.01,<0.01,<0.001,0.03,0.2,<0.01,<0.01,0.09
+Uttar Pradesh,Agra,"
+East Gate of Taj Mahal at Dasahara Ghat",N27°10’34.5”,E078°02’38.9”,,Grayish,20,Agreeable,,6.98,740,< 1,58,5.2,64,15,0.05,2.26,2.31,<0.1,<0.1,<0.02,0.6,< 0.1,1.6,1.94,6000,400,,1.9,4.2,2.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.07,< 0.01,< 0.01,<0.05,< 0.01,< 0.01,<0.01,<0.01,<0.001,0.05,0.48,<0.01,<0.01,0.1
+Uttar Pradesh,Agra,"
+Kailash Ghat near Kailash Village, Up Stream",N27°14’18.5”,E077°56’08.5”,,Colour less,5,Agreeable,,7.5,550,< 1,20,6.1,22,5,0.02,5.65,5.67,<0.1,<0.1,<0.02,0.5,< 0.1,0.5,1.23,1600,170,,0.8,1.6,1.2,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.06,< 0.01,< 0.01,<0.05,< 0.01,< 0.01,<0.01,<0.01,<0.001,0.01,0.18,<0.01,<0.01,0.07
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,Ahmedabad,"
+Naroda GIDC outlet to Mega Pipeline",N 23°04’40.0”,E072°39’50.7”,,Brown,110,Un Agreeable,,7.1,3000,2,84,<1,84,23,0.01,4.29,4.3,<0.1,<0.1,<0.02,0.9,1.92,0.79,21.28,1600,300,,0.96,29,17,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,0.06,<0.05,0.06,<0.01,0.01,<0.01,<0.001,0.05,0.8,<0.01,<0.01,0.24
+Gujarat,Ahmedabad,"
+Kharicut upstream near Naroda GIDC",N 23°04’40.8”,E072°39’51.1’’,,Colourless,5,Agreeable,,8.1,254,<1,12,7.2,12,3,0.02,3.16,3.18,<0.1,<0.1,<0.02,0.5,<0.1,0.18,0.38,50,30,,0.28,1.4,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.1,<0.01,<0.01,0.05
+Gujarat,Ahmedabad,"
+Outlet of Odhav CETP, GIDC Odhav",N 23°01’27.0”,E072°38’43.3”,,Brown,140,Un Agreeable,,7.2,9500,6,72,1.4,374,80,0.23,7.45,7.68,<0.1,<0.1,<0.02,1.4,0.84,0.9,20.92,22,17,,1.28,48,29,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.09,0.05,0.09,<0.05,0.12,<0.01,0.02,<0.01,<0.001,0.18,1.6,<0.01,<0.01,0.9
+Gujarat,Ahmedabad,"
+Outlet of GVMM CETP, GVMM Industrial Area.",N 23°01’19.0”,E072°40’47.5”,,Light Brown,60,Un Agreeable,,6.8,7000,3,86,2.8,182,45,0.21,9.26,9.47,<0.1,<0.1,<0.02,1.1,<0.1,0.79,6.73,14,2,,1.14,12,7,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.08,0.03,0.05,<0.05,0.09,<0.01,0.02,<0.01,<0.001,0.14,0.64,<0.01,<0.01,0.42
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orissa,ANGUL TALCHER,"
+Lingra Nalla
+Upstream",N 20°50.383’,E 85°04.631’,,Pale Brown,20,Agreeable,,7.28,700,<1,16,5.6,32,8,0.05,3.61,3.66,<0.1,<0.1,<0.02,0.6,0.8,<0.1,2.94,4,<2,,<0.1,4.2,2.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.04,0.26,<0.01,<0.01,0.08
+Orissa,ANGUL TALCHER,"
+Lingra Nalla
+Downstream",N 20°49.206’, E 85°05.343’,,Colourless,10,Agreeable,,7.46,720,<1,14,6,20,4,0.04,2.26,2.3,<0.1,<0.1,<0.02,0.8,0.3,<0.1,1.64,12,<2,,<0.1,2.1,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.03,0.24,<0.01,<0.01,0.08
+Orissa,ANGUL TALCHER,"
+Bramhani River UpStream",N 20°59.338’ ,E 85°15.313’,,Colourless,5,Agreeable,,7.86,132,<1,12,6.2,12,3,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.23,4,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.11,<0.01,<0.01,0.03
+Orissa,ANGUL TALCHER,"
+Bramhani River DownStream",N 20°54.968’ ,E 85°14.306’,,Colourless,10,Agreeable,,7.8,130,<1,14,6.1,10,2,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.23,6,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.07,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.11,<0.01,<0.01,0.03
+Orissa,ANGUL TALCHER,"`
+Nandira
+River",N 20°55.873’, E 85°09.210’,,Colourless,10,Agreeable,,7.93,500,<1,18,5.9,12,3,<0.01,0.9,0.9,<0.1,<0.1,<0.02,1,<0.1,0.11,0.79,9,<2,,0.18,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.1,<0.01,<0.01,0.12
+Orissa,ANGUL TALCHER,"
+NTPC Kaniha Tikra River",N 21°05.887’, E 85°03.09.4’,,Colourless,10,Agreeable,,7.99,330,<1,14,6.1,8,2,<0.01,<0.23,0.23,<0.1,<0.1,<0.02,1.3,<0.1,0.21,0.41,4,<2,,0.26,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.09,<0.01,<0.01,0.1
+Orissa,ANGUL TALCHER,"
+Shingazort
+(Khaina)",N 21°59.318’ ,E 85°10.026’,,Colourless,10,Agreeable,,8.13,130,<1,26,5.8,12,3,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.9,<0.1,0.15,0.23,4,<2,,0.2,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,0.01,<0.05,<0.01,<0.01,0.01,<0.01,<0.001,0.01,0.14,<0.01,<0.01,0.05
+Orissa,ANGUL TALCHER,"
+Ankura",N 21°25.090’ ,E 85°04.105’,,Colourless,5,Agreeable,,7.95,790,<1,29,6,8,2,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.7,<0.1,<0.1,0.68,2,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.08,<0.01,<0.01,0.09
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,ANKLESHWAR,"
+Amla Khadi",N 21°36’52.80’’ ,E 072°59’59.09’’,,"Light
+Greenish",10,Agreeable,,7.84,1700,1,26,2.4,28,7,0.03,0.9,0.93,<0.1,<0.1,<0.02,0.8,<0.1,0.23,4.59,5,<2,,0.5,4.9,3.5,<0.001,0.12,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.45,<0.01,<0.01,0.16
+Gujarat,ANKLESHWAR,"
+Vand Khadi",N 21°34’17.70’’ ,E 072°58’25.70’’’,,"Light
+Brownish",20,Agreeable,,6.74,1200,1,32,4.2,20,4,0.02,0.68,0.7,<0.1,<0.1,<0.02,1,<0.1,<0.1,2.14,20,7,,<0.1,4.2,2.8,<0.001,0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.05,0.58,<0.01,<0.01,0.14
+Gujarat,ANKLESHWAR,"
+Amaravathi
+River",N 21°38’48.32’’ ,E 073°04’49.24’’,,Colourless,5,Agreeable,,7.65,950,1,18,5.3,12,3,0.01,2.26,2.27,<0.1,<0.1,<0.02,0.7,<0.1,0.17,2.6,50,8,,0.2,2.1,1.4,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.15,<0.01,<0.01,0.06
+Gujarat,ANKLESHWAR,"
+Chapra Khadi",N 21°40’38.10’’ ,E 073°00’58.10’’,,Light Brownish,40,Un-agreeable,,7.46,4880,3,56,1.6,78,26,0.05,1.35,1.4,<0.1,<0.1,<0.02,1.4,0.8,0.29,10.43,21,5,,0.5,11,7,<0.001,0.14,Not Detected,Not Detected,Not Detected,0.02,0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.06,0.5,<0.01,<0.01,0.42
+Gujarat,ANKLESHWAR,"
+CETP
+Outlet water",N 21°37’’10.06’’ ,E 072°59’04.6’’,,Brown,150,Un-agreeable,,7.13,5000,6,108,1.1,368,105,0.15,7,7.15,2.1,<0.1,<0.02,1,3.6,1.8,8.62,140,30,,2.1,126,82,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,0.01,0.05,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.34,0.92,<0.01,<0.01,0.48
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Bengal,ASANSOLE,"
+Damodar River near Suryanagar",N 23°38.647’ ,E 086°53.857’,,Colourless,5,Agreeable,,8.18,205,<1,28,5.9,8,2,0.01,0.45,0.46,< 0.1,< 0.1,< 0.02,0.4,< 0.1,< 0.1,0.73,140,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.21,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,0.02,0.15,< 0.01,< 0.01,0.09
+West Bengal,ASANSOLE,"
+Barakar river near Kulti",N 23°44.830’ ,E 086°48.905’,,Colourless,5,Agreeable,,8.56,164,1,18,5.6,12,3,0.02,0.23,0.25,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.15,0.7,280,7,,0.25,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.05,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.12,< 0.01,< 0.01,0.05
+West Bengal,ASANSOLE,"
+Pond near SDO Office, near Spandan udyan",N 23°41.379’ ,E 086°56.847’,,Colourless,5,Agreeable,,8.11,884,2,32,5.1,24,5,0.02,1.35,1.37,< 0.1,< 0.1,< 0.02,0.6,< 0.1,0.18,3,900,11,,0.32,3.5,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.04,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.13,< 0.01,< 0.01,0.12
+West Bengal,ASANSOLE,"
+Pond at
+Hirapur",N 23°39.456’ ,E 086°56.108’,,Light yellow,20,Agreeable,,8.13,796,2,36,4.9,32,7,0.05,4.74,4.79,< 0.1,< 0.1,< 0.02,0.8,< 0.1,0.37,3.13,500,4,,0.54,4.2,1.9,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.11,< 0.01,< 0.01,0.09
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maharashtra,AURANGABAD,"
+Sufna River at Chikaltana bridge",N 19°51’54.3 ,E 75°24’48.6’’,,Greyish,30,Un-Agreeable,,7.76,1170,9,146,<1,436,170,0.03,6.1,6.13,1.2,<0.1,<0.02,0.9,20,3.07,5.64,220,12,,4.2,112,80,0.008,0.2,Not Detected,Not Detected,Not Detected,<0.01,0.03,<0.01,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,0.18,0.25,0.03,0.06,0.81
+Maharashtra,AURANGABAD,"
+CETP Discharge point Outlet at CETP",N 19°49’38.1’’ ,E 75°14’26.1’’,,"Light
+Greyish",15,Un-Agreeable,,7.5,1814,4,78,2.4,108,40,0.04,2.26,2.3,0.5,<0.1,<0.02,0.8,12.64,4.26,3.55,70,6,,5.6,61,40,0.004,0.12,Not Detected,Not Detected,Not Detected,0.01,0.02,<0.01,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,0.23,0.28,0.02,<0.01,0.33
+Maharashtra,AURANGABAD,"
+Khama river Up-stream (Near Dune Road)",N 19°49’03.6’’ ,E 75°15’04.8’’,,Greyish,30,Un-Agreeable,,7.1,1606,8,248,<1,272,105,0.06,4.29,4.35,0.6,<0.1,<0.02,0.4,12,4.18,2.77,140,11,,5.2,72,54,0.006,0.18,Not Detected,Not Detected,Not Detected,0.09,0.02,0.03,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,0.27,2.28,0.03,<0.01,0.32
+Maharashtra,AURANGABAD,"
+Khama River after discharge point of CETP (D/s)",N 19°49’02.8’’ ,E 75°15’04.9’’,,"Light
+Greyish",20,Un-Agreeable,,7.35,1732,5,82,2.5,128,50,0.02,1.35,1.37,0.4,<0.1,<0.02,0.7,10.4,5,3.52,110,4,,6.2,58,34,0.004,0.15,Not Detected,Not Detected,Not Detected,0.04,0.02,<0.01,<0.05,0.05,<0.01,<0.01,<0.01,<0.001,<0.01,0.2,0.06,<0.01,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Karnataka,BHADRAVATHI,"
+Bhadra River
+– U/s of MPM In-take Point","N 13°48'41.4"" ","E 75°43'00.0""",,Colourless,5,Agreeable,,7.47,170,<1,24,6,22,5,0.01,0.68,0.69,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.28,14,<2,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.09,<0.01,<0.01,0.02
+Karnataka,BHADRAVATHI,"
+Bhadra River
+– D/s of MPM Discharge point","N 13°50'30.5"" ","E 75°42'32.0""",,Light brown,5,Agreeable,,7.77,170,<1,28,5.6,20,4,0.01,0.9,0.91,<0.1,<0.1,<0.02,0.2,<0.1,<0.1,0.42,21,4,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.1,<0.01,<0.01,0.02
+Karnataka,BHADRAVATHI,"
+Bhadra River D/s of Bhadravathi Town","N 13°50'40.3"" ","E 75°41'47.8""",,Colourless,5,Agreeable,,7.53,120,<1,32,5.8,18,4,0.02,0.9,0.92,<0.1,<0.1,<0.02,0.2,<0.1,<0.1,0.24,22,4,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.12,<0.01,<0.01,0.02
+Karnataka,BHADRAVATHI,"
+Jannapura
+Pond","N 13°50'11.7"" ","E 75°40'49.2""",,Colourless,5,Agreeable,,7.42,535,<1,36,5.2,20,4,<0.01,2,2,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,1.01,17,<2,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.14,0.01,<0.01,0.04
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,BHAVNAGAR,"
+Nari Village Pond Bt. H Chitra GIDC",N21°46’20.1” ,E072°04’45.7”,,Light Brown,25,"Un-
+Agreeable",,7.37,930,<1,92,6.4,44,10,<0.01,1.35,1.35,<0.1,<0.1,<0.02,0.4,1.44,1.1,5.7,20,4,,1.3,2.1,1.4,0.001,<0.1,Not Detected,Not Detected,Not Detected,0.05,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.18,0.9,0.2,<0.01,0.18
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maharashtra,CHANDRAPUR,"
+Wardha River near Intake point for ACC - Ghugus",N19°54’19.7” ,E079°06’53.9”,,Colourless,<5,Agreeable,,8.23,536,<1,<10,6.2,10,3,<0.01,0.27,0.27,<0.1,<0.1,<0.02,0.6,<0.1,0.12,0.92,140,7,,0.16,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.001,<0.01,0.05,<0.01,<0.01,0.05
+Maharashtra,CHANDRAPUR,"
+Wardha river – Near High flood Level Naigaon",N19°57’21.4” ,E079°05’53.1”,,Colourless,<5,Agreeable,,8.17,532,<1,<10,5.8,12,3,0.06,0.23,0.29,<0.1,<0.1,<0.02,0.5,<0.1,0.14,1.15,170,9,,0.18,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.001,<0.01,0.04,<0.01,<0.01,0.06
+Maharashtra,CHANDRAPUR,"
+Iral River, Chandrapur (near bridge)",N19°59’32.1” ,E079°15’47.7”,,Colourless,<5,Agreeable,,7.71,864,<1,16,4.2,18,4,0.02,1.1,1.12,<0.1,<0.1,<0.02,0.9,<0.1,0.18,2.04,900,240,,0.24,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.001,<0.01,0.06,<0.01,<0.01,0.32
+Maharashtra,CHANDRAPUR,"
+Pond near fort at Ballarpur BILT Paper mill",N19°48’14.3” ,E079°22’07.4”,,"Light
+Brownish",50,Un-agreeable,,8.05,826,<1,26,4.8,48,11,0.28,3.5,3.78,<0.1,<0.1,<0.02,0.8,<0.1,0.34,2.46,700,110,,0.48,2.6,1.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.001,0.01,0.09,<0.01,<0.01,0.09
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu,COIMBATORE,"
+Ukkadam big tank near bus stand",N 10 °59’40.8’’ ,E076°57’ 40.6’’,,Light Grey,50,Un-Agreeable,,8.41,2850,<1,360,2.7,164,45,1.03,3.34,4.42,<0.1,<0.1,<0.02,1.2,2.6,0.44,9.42,7,<2,,0.62,40,28,<0.001,<0.1,Not detected,Not detected,Not detected,0.08,0.05,0.04,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,0.05,3.95,0.06,<0.01,0.61
+Tamil Nadu,COIMBATORE,"
+Kurichi lake near temple",N 10°58’03.4’’ ,E076°58’04.4’’,,Light Grey,20,Agreeable,,8.36,2500,4,184,3.6,228,60,0.31,1.58,1.89,<0.1,<0.1,<0.02,0.9,8.2,0.52,7.99,4,<2,,0.7,15,7,<0.001,<0.1,Not detected,Not detected,Not detected,0.12,0.03,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.09,0.06,0.01,<0.01,0.25
+Tamil Nadu,COIMBATORE,"
+Sangullam lake",N 10°57’30.2’’ ,E076°56’25.6’’,,Lightgreen,60,Un-Agreeable,,8.32,2100,<1,216,3.2,256,65,0.26,2.26,2.52,<0.1,<0.1,<0.02,0.8,3.5,<0.1,4.7,2,<2,,<0.1,12,6,<0.001,<0.1,Not detected,Not detected,Not detected,0.05,0.02,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.06,0.09,<0.01,<0.01,0.27
+Tamil Nadu,COIMBATORE,"
+Near Railway Bridge Noyal River",N 10°58’27.5’’ ,E076°59’44.5’’,,Colourless,10,Agreeable,,8.4,2900,<1,32,5.8,20,4,0.02,0.45,0.47,<0.1,<0.1,<0.02,0.9,<0.1,0.35,3.2,6,<2,,0.48,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.01,0.01,<0.01,0.32
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kerala,GREATER COCHIN,"
+Wettukaday
+– D/s of
+Periyar River",N 10 °48’86.2’’,E076°22’44.7’’,,Light Brown,10,Agreeable,,6.88,12460,1,26,5.4,38,9,0.02,1.13,1.15,<0.1,<0.1,<0.02,1,0.4,<0.1,23.48,22,<2,,0.15,4.8,2.7,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.28,<0.01,<0.01,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,0.01,0.3,<0.01,0.01,1.29
+Kerala,GREATER COCHIN,"
+Pathalam Bridge – U/s of Periyar River",N 10 °54’27.9’’,E076°06’91.0’’,,Colourless,10,Agreeable,,7.25,273,1,18,5.6,24,5,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.6,0.3,0.12,1.2,23,<2,,0.18,4.5,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,0.03,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.31,<0.01,<0.01,0.12
+Kerala,GREATER COCHIN,"
+Near Neptune Ready mix U/s. of Periyar River",N 10 °54’27.1’’,E076°06’93.2’’,,Colourless,10,Agreeable,,6.84,354,1,16,5.2,20,4,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.8,<0.1,0.22,1.11,30,4,,0.3,1.4,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.02,<0.01,<0.05,0.08,<0.01,<0.01,<0.01,<0.001,0.01,0.2,<0.01,<0.01,0.13
+Kerala,GREATER COCHIN,"
+Sub-chemie Kadaya – Periyar River at Edayar Industries Area",N 10 °57’77.8’’,E076° 16’ 59.9’’,,"Light
+Brownish",20,Agreeable,,6.84,14550,2,28,5.1,34,8,<0.01,0.45,0.45,<0.1,<0.1,<0.02,1.1,0.8,0.16,19.32,50,8,,0.25,6.7,3.1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.17,0.1,0.1,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.04,0.5,<0.01,<0.01,0.76
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu,CUDDALORE,"
+Pondyankupp am village U/s of Uppanar River",N 11° 37.782' ,E079°43.959',,Colourless,5,Agreeable,,7.84,16000,<1,14,4.8,18,3,0.01,0.9,0.91,<0.1,<0.1,<0.02,1,<0.1,<0.1,25.56,8,<2,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.02,<0.01,0.05,1.46
+Tamil Nadu,CUDDALORE,"
+Nochikadu Village U/s of Uppanar River",N 11° 40.408' ,E079°44.391',,Colourless,5,Agreeable,,7.62,18600,<1,12,4.6,20,3,0.02,0.9,0.92,<0.1,<0.1,<0.02,1.2,<0.1,<0.1,42.59,4,<2,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,0.02,<0.01,<0.01,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,0.01,0.09,<0.01,0.03,1.92
+Tamil Nadu,CUDDALORE,"
+Behind Kudikadu Village",N 11°40.712' ,E079°45.591',,Colourless,10,Agreeable,,7.74,39000,<1,14,4.4,24,4,0.01,0.68,0.69,<0.1,<0.1,<0.02,1.2,<0.1,<0.1,42.77,<2,<2,,<0.1,1.01,<1,<0.001,<0.1,Not detected,Not detected,Not detected,0.06,<0.01,<0.01,<0.05,0.04,<0.01,<0.01,<0.01,<0.001,0.01,0.04,0.01,0.12,2.79
+Tamil Nadu,CUDDALORE,"
+Thikal Thouithy Village D/s of SIPCOT",N 11°41.501' ,E079°45.966',,Colourlesss,5,Agreeable,,7.89,39000,<1,12,4.8,22,4,0.02,0.68,0.7,<0.1,<0.1,<0.02,1.2,<0.1,<0.1,46.72,<2,<2,,<0.1,1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,0.06,<0.01,<0.01,<0.05,0.04,<0.01,<0.01,<0.01,<0.001,0.01,0.02,0.01,0.11,2.68
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jharkhand,DHANBAD,"
+Maithan
+Dam",N 23°46.850’ ,E 86°47.977’,,Pale Yellow,10,Agreeable,,7.96,168,<1,36,5.2,18,4,0.02,1.13,1.15,< 0.1,< 0.1,< 0.02,0.3,< 0.1,< 0.1,0.77,90,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.06,< 0.01,< 0.01,< 0.05,0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.1,< 0.01,< 0.01,0.05
+Jharkhand,DHANBAD,"
+Barakar
+River",N 23°47.459’ ,E 86°49.081’,,Colourless,5,Agreeable,,7.65,170,<1,18,5.6,10,2,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.3,< 0.1,<0.1,0.68,70,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.04,< 0.01,< 0.01,< 0.05,0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.09,< 0.01,< 0.01,0.04
+Jharkhand,DHANBAD,"
+Damodar River at Sindri",N 23°38.878’ ,E 86°27.466’,,Colour less,5,Agreeable,,7.85,380,<1,24,5.4,12,3,0.01,1.58,1.59,< 0.1,< 0.1,< 0.02,0.4,< 0.1,< 0.1,0.88,110,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.1,< 0.01,< 0.01,0.06
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maharashtra,DOMBIVALLI,"
+Before CETP textile nalla water (Phase – I)",N19°13’02.1” ,E073°06’26.8”,,Grey,100,Un-Agreeable,,7.6,800,6,146,<1,348,95,0.02,3.83,3.85,<0.1,<0.1,<0.02,0.6,6.56,1.8,1.06,26,<2,,2.7,28,17,0.003,<0.1,Not Detected,Not Detected,Not Detected,0.03,0.02,0.02,<0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.62,1.2,<0.01,<0.01,0.15
+Maharashtra,DOMBIVALLI,"
+Khambal pada nalla (Phase – I)",N19°13’07.7” ,E073°06’20.9”,,Grey,100,Un-Agreeable,,7.43,4500,12,448,<1,1096,320,0.05,2.71,2.76,<0.1,<0.1,<0.02,0.7,8.91,0.85,17.75,21,<2,,1.6,62,29,0.01,0.2,Not Detected,Not Detected,Not Detected,0.06,0.04,0.03,0.05,0.1,<0.01,<0.01,<0.01,<0.001,0.84,1.36,<0.01,<0.01,0.45
+Maharashtra,DOMBIVALLI,"
+Nalla water before CETP Chemical (Phase – II)",N19°12’16.2” ,E073°06’0.5”,,Greenish,20,Un-Agreeable,,7.58,2000,5,112,1.1,174,38,0.02,1.58,1.6,<0.1,<0.1,<0.02,0.6,1.14,1.14,6.42,23,<2,,1.8,14,7,0.002,<0.1,Not Detected,Not Detected,Not Detected,0.05,0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.05,0.46,<0.01,<0.01,0.06
+Maharashtra,DOMBIVALLI,"
+Nalla water at Ramchandr a nagar (Bhoparnatl a Phase – II)",N19°12’16.0” ,E073°05’47.9”,,Greenish,60,Un-Agreeable,,7.67,2200,7,186,<1,376,100,0.05,2.03,2.08,<0.1,<0.1,<0.02,0.8,8.2,0.21,6.71,70,<2,,0.5,30,18,0.004,<0.1,Not Detected,Not Detected,Not Detected,0.03,0.01,0.01,<0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.18,0.6,<0.01,<0.01,0.18
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haryana,FARIDABAD,"
+Canal U/s Near Phar, Khari bridge",N28°25’16.5” ,E077°19’50.0”,,Light Greyish,20,Un-Agreeable,,7.19,940,3,104,1.2,106,27,0.01,2.03,2.04,<0.1,<0.1,<0.02,0.7,1.2,1.32,1.12,14000,3300,,1.56,18,9,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.09,0.56,<0.01,<0.01,0.05
+Haryana,FARIDABAD,"
+Yamuna River U/s at Manjhawali Village",N28°22’20.0” ,E077°29’16.8”,,Light Greyish,30,Un-Agreeable,,7.17,1214,4,148,2.3,134,35,0.01,1.81,1.82,<0.1,<0.1,<0.02,0.5,1.8,4.12,2.26,7000,1700,,4.86,24,14,<0.001,0.11,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.1,0.72,<0.01,<0.01,0.06
+Haryana,FARIDABAD,"
+Yamuna River D/s near Manjhawali village",N28°22’7.7” ,E077°29’18.0”,,Greyish,20,Un-Agreeable,,7.31,1230,5,136,2.1,128,34,0.02,1.13,1.15,<0.1,<0.1,<0.02,0.6,1.4,3.6,2.23,5000,1300,,4.12,23,12,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.08,0.64,<0.01,<0.01,0.07
+Haryana,FARIDABAD,"
+Agra Canal
+Down Stream",N28°20’54.6” ,E071°20’32.3”,,Light Greyish,15,Un-Agreeable,,7.21,1000,6,92,1.8,118,29,0.01,0.9,0.91,<0.1,<0.1,<0.02,0.7,1.2,1.63,2.55,17000,5000,,1.8,26,18,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.06,0.7,<0.01,<0.01,0.08
+Haryana,FARIDABAD,"
+Gurgoan canal
+Up Stream",N28°21’20.0” ,E077°29’28.4”,,Light Greyish,10,Un-Agreeable,,7.04,922,4,62,1.6,98,25,0.01,2.03,2.04,<0.1,<0.1,<0.02,0.6,1,2.18,2.3,3300,1100,,2.4,19,10,<0.001,0.12,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.05,0.54,<0.01,<0.01,0.06
+Haryana,FARIDABAD,"
+Gurgoan canal
+Down Stream",N28°20’52.3” ,E077°18’58.5”,,Light Greenish,20,Un-Agreeable,,7.08,952,5,74,1.2,112,28,0.02,2.93,2.95,< 0.1,<0.1,<0.02,0.7,1.5,2.03,2.12,5000,1400,,2.3,25,13,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.07,0.62,<0.01,<0.01,0.07
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uttar Pradesh,GHAZIABAD,"
+Hindan river upstream",N28°40’24.3” ,E077°24’05.7”,,Brownish,40,Un - Agreeable,,7.24,440,1,38,<1,64,15,0.02,0.68,0.7,< 0.1,< 0.1,< 0.02,0.5,0.4,0.32,0.76,280,21,,0.46,8.1,4.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.2,<0.01,<0.01,0.05
+Uttar Pradesh,GHAZIABAD,"
+Hindan river
+Railway Bridge",N28°39’59.8” ,E077°23’58.2”,,Brownish,40,Un-Agreeable,,7.34,400,1,18,<1,58,14,<0.01,0.45,0.45,< 0.1,< 0.1,< 0.02,0.5,0.3,0.5,0.82,500,110,,0.62,9,5.9,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.32,<0.01,<0.01,0.07
+Uttar Pradesh,GHAZIABAD,"
+Hindan river
+Olive Country",N28°39’23.7” ,E077°22’32.6”,,Brownish,40,Un - Agreeable,,7.36,380,1,16,<1,52,13,0.04,0.45,0.49,< 0.1,< 0.1,< 0.02,0.5,0.3,0.2,0.85,350,90,,0.4,8.4,5.6,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.19,<0.01,<0.01,0.05
+Uttar Pradesh,GHAZIABAD,"
+Hindan river downstream",N28°39.245’ ,E077°22.109’,,Brownish,40,Un - Agreeable,,7.18,390,2,37,1.8,68,16,1.28,0.45,1.73,< 0.1,< 0.1,< 0.02,0.5,0.6,0.36,0.78,900,350,,0.48,9.8,6.2,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.1,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,0.02,< 0.01,< 0.001,0.11,1.8,< 0.01,< 0.01,0.05
+Uttar Pradesh,GHAZIABAD,"
+Gang nahar
+Upstream",N28°41’43.6” ,E077°33’43.7”,,Colourless,5,Agreeable,,7.82,200,<1,10,5.4,6,<2,<0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.4,<0.1,<0.1,0.14,7,<2,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,<0.01,0.02,< 0.01,0.01,0.03
+Uttar Pradesh,GHAZIABAD,"
+Gang nahar downstream",N28°41’25.8” ,E077°33’26.4”,,Colourless,5,Agreeable,,7.78,210,<1,12,5.6,8,<2,<0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.4,<0.1,<0.1,0.13,9,<2,,<0.1,<1,<1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,<0.01,0.02,< 0.01,< 0.01,0.03
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Bengal,HALDIA,"
+Haldi River
+near IOCI Guest House",N 22°01.316’ ,E 088°03.185’,,Pale brown,20,Un-Agreeable,,7.49,5000,3,146,6.1,70,17,0.01,0.68,0.69,<0.1,<0.1,<0.02,0.5,<0.1,0.12,4.94,14,2,,0.2,7,4.2,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.04,0.02,0.03,<0.05,0.01,<0.01,0.03,<0.01,<0.001,0.12,1.2,<0.01,<0.01,0.34
+West Bengal,HALDIA,"
+Hoogly
+River at
+Patikhali",N 22°03.493’ ,E 088°08.660’,,Pale brown,20,Un-Agreeable,,7.74,8000,2,168,4.2,58,14,<0.01,0.68,0.68,<0.1,<0.1,<0.02,0.6,<0.1,0.24,12.72,900,240,,0.38,5.6,2.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.08,0.01,0.04,<0.05,0.01,<0.01,0.04,<0.01,<0.001,0.38,1.8,<0.01,<0.01,0.98
+West Bengal,HALDIA,"
+Pond
+Behind Shakuntala housing complex",N 22°04.275’ ,E 088°08.344’,,Pale brown,10,Un-Agreeable,,7.5,700,<1,24,6.1,10,2,<0.01,1.58,1.58,<0.1,<0.1,<0.02,0.4,<0.1,0.16,2.53,80,50,,0.3,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,0.03,<0.05,0.01,<0.01,0.02,<0.01,<0.001,0.03,0.2,<0.01,<0.01,0.1
+West Bengal,HALDIA,"
+Pond opp.
+WBIIDC Office",N 22°03.613’ ,E 088°04.652’,,Pale brown,5,Un-Agreeable,,7.62,800,<1,28,5.6,18,4,0.09,0.9,0.99,<0.1,<0.1,<0.02,0.5,<0.1,0.12,2.42,240,30,,0.2,1.1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,0.01,<0.05,<0.01,<0.01,0.02,<0.01,<0.001,0.05,0.28,<0.01,<0.01,0.09
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Bengal,HOWRAH,"
+Pond near Seacom Engg. College",N 22°34.342’ ,E 88°11.948’,,Pale Brown,10,Agreeable,,7.47,2100,1,36,5.1,22,5,0.02,2.03,2.05,<0.1,<0.1,<0.02,0.4,<0.1,0.21,5.96,1600,8,,0.34,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,0.01,<0.05,0.01,<0.01,0.01,<0.01,<0.001,0.02,0.2,<0.01,<0.01,0.18
+West Bengal,HOWRAH,"
+Pond near Biprannapa ra Primary School",N 22°34.816’ ,E 88°18.552’,,Pale Brown,15,Agreeable,,7.3,850,1,42,5,26,6,<0.01,1.35,1.35,<0.1,<0.1,<0.02,0.5,<0.1,0.28,2.16,900,22,,0.42,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.03,0.01,0.02,<0.05,0.01,<0.01,0.01,<0.01,<0.001,0.05,0.24,<0.01,<0.01,0.12
+West Bengal,HOWRAH,"
+Pond Near Betor Health Centre",N 22°34.802’ ,E 88°18.084’,,Pale Brown,10,Agreeable,,7.09,578,2,52,4.9,36,8,0.02,3.61,3.63,<0.1,<0.1,<0.02,0.4,<0.1,0.32,0.72,1600,170,,0.54,1.4,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,0.01,<0.05,<0.01,<0.01,0.01,<0.01,<0.001,0.04,0.28,<0.01,<0.01,0.06
+West Bengal,HOWRAH,"
+Ganga River water near Salkia",N 22°35.816’ ,E 88°20.866’,,Pale Brown,10,Agreeable,,7.07,412,1,40,5.4,14,3,0.02,0.68,0.7,<0.1,<0.1,<0.02,0.4,<0.1,0.28,0.72,350,23,,0.46,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,0.01,<0.05,0.01,<0.01,0.01,<0.01,<0.001,0.02,0.16,<0.01,<0.01,0.07
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orissa,IB VALLEY,"
+IB River
+Near NH-
+200 Bridge",N 21°51.906’ ,E 83°57.058’,,Colourless,5,Agreeable,,7.42,170,<1,12,6,10,3,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.43,6,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.05,<0.01,<0.01,0.03
+Orissa,IB VALLEY,"
+IB River in between Reservoir of Vedanta",N 21°49.208’ ,E 83°56.702’,,Colourless,5,Agreeable,,7.95,174,<1,14,5.9,12,3,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.48,14,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.06,<0.01,<0.01,0.02
+Orissa,IB VALLEY,"
+Lilari Nalla (Mines Drainage Water)",N 21°46.251 ,E 83°52.353’,,Colourless,10,Agreeable,,7.46,600,<1,26,5.8,16,4,<0.01,0.9,0.9,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.16,22,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.18,<0.01,<0.01,0.05
+Orissa,IB VALLEY,"
+Hirakud Reservoir near IB Thermal Power Station",N 21°46.805’ ,E 83°02.101’,,Colourless,5,Agreeable,,8.01,170,<1,16,6,12,3,<0.01,0.33,0.33,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.26,11,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.07,<0.01,<0.01,0.02
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Madhya Pradesh,INDORE,"
+After Confluence of Khen River and Kabit
+Kheri after STP Downstream",N 22°46’15.9” ,E 075°52’38.7”,,Light Brown,35,Un-Agreeable,,7.61,1240,2,38,<1,64,17,1.36,2.51,3.87,<0.1,<0.1,<0.02,0.23,<0.1,4.91,3.78,1700,140,,5.46,5.4,2.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.09,0.17,<0.01,<0.01,0.09
+Madhya Pradesh,INDORE,"
+Upstream of Khen River In-front of Kamala Nehru Park",N 22°42’12.9” ,E 075°52’37.5”,,Light Brown,30,Un-Agreeable,,7.33,1370,3,42,<1,90,28,0.19,3,3.19,<0.1,<0.1,<0.02,0.4,<0.1,5.26,3.62,2200,170,,5.74,6.4,3.5,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.07,0.21,<0.01,<0.01,0.08
+Madhya Pradesh,INDORE,"
+Bilawali Pond (water supply for drinking)",N 22°39’49.9” ,E 075°52’17.5”,,Colourless,5,Agreeable,,8.02,348,<1,10,6.4,14,3,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.46,34,<2,,0.49,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.05,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.03,<0.01,<0.01,0.03
+Madhya Pradesh,INDORE,"
+Yaswant sagar dam at Raw water treatment plant",N 22°45’30.6” ,E 075°46’29.3”,,Colourless,5,Agreeable,,8.16,490,<1,10,5.9,12,3,0.02,0.49,0.51,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,1.51,27,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.04,<0.01,<0.01,0.12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orissa,JHARSUGUDA,"
+Bheden River (Near Kheruwal Bridge)",N 21°41.516’ ,E 84°2.920’,,Colourless,5,Agreeable,,8.15,380,1,34,5.9,28,6,0.01,0.23,0.24,<0.1,<0.1,<0.02,0.5,<0.1,<0.1,0.68,27,<2,,<0.1,2.1,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.18,<0.01,<0.01,0.05
+Orissa,JHARSUGUDA,"
+IB River (Confluence Point of Bheden and IB)",N 21°48.492’ ,E 83°56.645’,,Colourless,10,Agreeable,,8.04,240,<1,18,6.2,22,5,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.44,17,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.23,<0.01,<0.01,0.04
+Orissa,JHARSUGUDA,"
+Kharkari Nalla (Vedanta Boundry)",N 21°47.916’ ,E 84°2.076’,,Colourless,10,Agreeable,,8.12,440,<1,38,6.1,24,6,0.02,0.45,0.47,<0.1,<0.1,<0.02,0.9,<0.1,<0.1,1.63,21,<2,,<0.1,2.4,1.7,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.25,<0.01,<0.01,0.08
+Orissa,JHARSUGUDA,"
+Hirakud Reservoir at Sarnbatour",N 21°29.250’ ,E 83°51.016’,,Colourless,10,Agreeable,,8.05,155,<1,46,6.3,18,4,0.02,0.23,0.25,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.29,14,<2,,<0.1,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.29,<0.01,<0.01,0.04
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rajasthan,JODHPUR,"
+Kayalana lake upstream , jodhpur",N26°18’00.4” ,E072°58’24.0”,,Colourless,5,Agreeable,,7.27,292,< 1,14,6.2,12,3,0.01,0.68,0.69,< 0.1,< 0.1,< 0.02,0.4,< 0.1,< 0.1,0.44,500,70,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,< 0.01,0.09
+Rajasthan,JODHPUR,"
+Kayalana lake downstream (takhat sagar ) Jodhpur",N26°17’55.1” ,E072°58’17.3”,,Colourless,5,Agreeable,,7.83,298,< 1,12,5.6,18,4,0.01,1.16,1.17,< 0.1,< 0.1,< 0.02,0.5,< 0.1,< 0.1,0.44,1400,280,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.06,< 0.01,< 0.01,0.06
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,JUNAGARH,"
+Hasanpur","N 21°34'33.32"" ",E 70°31'01.40’’,,Colourless,5,Agreeable,,7.4,510,<1,12,7.6,10,2,<0.01,0.45,0.45,<0.1,<0.1,<0.02,0.5,<0.1,0.06,1.45,5,<2,,0.09,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.14,<0.01,<0.01,0.04
+Gujarat,JUNAGARH,"
+Willingdon Dam",N 21°30'15.1’’ ,E 70°28'53.2’’,,Colourless,10,Agreeable,,8,480,<1,18,5.2,14,3,0.01,0.68,0.69,<0.1,<0.1,<0.02,0.5,<0.1,0.05,0.74,9,<2,,0.07,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.03,0.18,<0.01,<0.01,0.03
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uttar Pradesh,KANPUR,"
+Pandu River Up Stream, Near Delhi- Allahabad Highway",N26°27’21.8” ,E080°12’43.2”,,Pale yellow,20,Agreeable,,7.58,332,2,46,6,38,12,0.02,2.03,2.05,< 0.1,< 0.1,< 0.02,0.4,< 0.1,0.76,1.08,140,7,,0.92,5.6,2.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.24,< 0.01,< 0.01,0.05
+Uttar Pradesh,KANPUR,"
+Ganga River Up Stream, Near Bithur Village",N26°37’00.4” ,E080°16’25.6”,,Colourless,10,Agreeable,,7.6,344,1,28,6.5,22,5,0.02,1.58,1.6,< 0.1,< 0.1,< 0.02,0.4,< 0.1,0.52,0.48,1600,280,,0.7,4.2,2,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.03,0.18,< 0.01,< 0.01,0.05
+Uttar Pradesh,KANPUR,"
+Ganga Down Stream Near Dhowdi
+Ghat",N26°22’45.3” ,E080°29’31.7”,,Colourless,10,Agreeable,,7.74,400,1,38,5.9,36,9,0.01,2.71,2.72,< 0.1,< 0.1,< 0.02,0.5,< 0.1,0.68,0.79,140,2,,0.84,4.9,2.1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.18,< 0.01,< 0.01,0.06
+Uttar Pradesh,KANPUR,"
+Pandu River Down Stream, Near Naubasta",N26°22’15.8” ,E080°18’25.4”,,Pale yellow,30,Agreeable,,7.42,340,3,98,5.4,84,19,0.06,3.84,3.9,< 0.1,< 0.1,< 0.02,0.4,0.8,1.16,0.4,500,11,,1.42,14,8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.05,0.32,< 0.01,< 0.01,0.05
+Uttar Pradesh,KANPUR,"
+Ganga Lower Canal Near Panki Power Plant",N26°28’29.2” ,E080°14’47.8”,,Colourless,10,Agreeable,,7.53,230,1,28,6.2,28,6,0.03,0.9,0.93,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.46,0.26,350,14,,0.58,4,2.1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.03,0.18,< 0.01,< 0.01,0.04
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chhattisgarh,KORBA,"
+U/S  Hasdeo River at Jora Ghat",N 22°31.309’ ,E 082°37.719’,,Colourless,5,Agreeable,,7.74,102,< 1,< 10,5.6,12,3,< 0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.2,< 0.1,0.24,0.37,22,<2,,0.3,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,0.01,0.09,< 0.01,< 0.01,0.02
+Chhattisgarh,KORBA,"
+Ahiran River BCW Hasdeo River TPS",N 22°21.676’ ,E 082°40.260’,,Colourless,5,Agreeable,,8.05,347,< 1,28,5.4,20,4,0.02,0.45,0.47,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.32,0.66,33,<2,,0.4,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.25,< 0.01,< 0.01,0.05
+Chhattisgarh,KORBA,"
+Dengu Nalla BCW Hasdeo River",N 22°22.644’ ,E 082°43.659’,,Colourless,5,Agreeable,,7.72,180,< 1,20,5.5,16,3,< 0.01,0.45,0.45,< 0.1,< 0.1,< 0.02,0.2,< 0.1,0.2,0.62,27,<2,,0.26,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.16,< 0.01,< 0.01,0.03
+Chhattisgarh,KORBA,"
+Final discharge Hasdeo River",N 22°20.488’ ,E 082°41.368’,,Colourless,5,Agreeable,,7.71,210,< 1,24,5.3,22,5,0.01,0.45,0.46,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.26,0.55,40,<2,,0.32,2.1,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,< 0.01,0.18,< 0.01,< 0.01,0.05
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Punjab,LUDHIANA,"
+Sirhend Canal, near neelom Bridge",N30°50’55.7” ,E076°06’22.9”,,Colourless,5,Agreeable,,7.97,270,< 1,12,5.8,12,3,0.01,1.13,1.14,< 0.1,< 0.1,< 0.02,0.3,< 0.1,< 0.1,0.32,110,14,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.12,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.1,< 0.01,< 0.01,0.11
+Punjab,LUDHIANA,"
+Sirhend Canal, near Gurthali Bridge",N30°46’57.9” ,E076°00’53.9”,,Colourless,5,Agreeable,,7.91,255,< 1,14,5.9,10,3,0.01,0.45,0.46,< 0.1,< 0.1,< 0.02,0.3,< 0.1,< 0.1,0.29,220,50,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.1,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,0.01,0.12
+Punjab,LUDHIANA,"
+111MLD STP Outlet, Bhattain",N30°58’04.3” ,E075°50’04.5”,,Light Brown,25,Agreeable,,7.34,1580,< 1,56,3.2,56,14,0.02,2.48,2.5,< 0.1,< 0.1,< 0.02,0.8,0.6,3.98,5.53,1700,210,,4.6,24,18,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.15,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.09,0.46,< 0.01,< 0.01,0.21
+Punjab,LUDHIANA,"
+Satluj River Up Stream, near kasabad",N30°59’27.2” ,E075°50’29.5”,,Colourless,< 5,Agreeable,,7.67,301,< 1,< 10,5.8,12,3,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.2,0.38,21,< 2,,0.32,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.07,< 0.01,< 0.01,0.16
+Punjab,LUDHIANA,"
+Satluj River Dn/S, Left Bank after confluence",N30°59’43.8” ,E075°49’48.0”,,Light Brown,20,Agreeable,,7.37,430,< 1,24,4.8,34,8,0.02,1.38,1.4,< 0.1,< 0.1,< 0.02,0.6,0.2,3.39,0.9,1000,700,,3.82,2.6,1.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.03,0.38,< 0.01,< 0.01,0.21
+Punjab,LUDHIANA,"
+Satluj River Dn/S, Right Bank after confluence",N30°59’48.9” ,E075°50’0.76”,,Light Brown,20,Agreeable,,7.22,420,< 1,28,4.7,38,9,0.03,2.5,2.53,< 0.1,< 0.1,< 0.02,0.7,0.4,3.21,0.8,1600,900,,3.68,3.2,1.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.3,< 0.01,< 0.01,0.21
+Punjab,LUDHIANA,"
+CETP Outlet (RO Permeat)",N30°53’11.9” ,E075°55’44.4”,,Colourless,< 5,Agreeable,,7.39,510,< 1,< 10,5,8,2,0.01,2.1,2.11,< 0.1,< 0.1,< 0.02,0.7,< 0.1,0.2,1.89,7,< 2,,0.28,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,< 0.01,1.4
+Punjab,LUDHIANA,"
+STP Outlet, Balloke",N30°56’08.7” ,E075°46’57.2”,,Light Brown,20,Un – Agreeable,,7.32,1080,2,72,2.1,58,15,0.02,4.74,4.76,< 0.1,< 0.1,< 0.02,0.6,0.4,1.75,2.19,6000,3300,,1.9,21,12,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.06,0.05,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.08,0.6,< 0.01,< 0.01,0.53
+Punjab,LUDHIANA,"
+Buddah Nallah, Baliapur",N30°58’22.0” ,E075°39’04.4”,,Blackish,50,Un Agreeable,,7.19,1600,6,184,< 1,248,85,0.02,3.61,3.93,< 0.1,< 0.1,< 0.02,0.8,3.8,4.71,4.29,1700,1400,,5.26,35,19,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.09,0.56,< 0.01,< 0.01,0.22
+Punjab,LUDHIANA,"
+Satluj River Up Steam left bank, near baliapur",N30°58’45.7” ,E075°38’58.3”,,Colourless,5,Agreeable,,7.5,618,1,12,5.2,10,3,0.01,4.52,4.53,< 0.1,< 0.1,< 0.02,0.5,< 0.1,1.98,1.89,800,500,,2.32,1.4,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.01,0.12,< 0.01,< 0.01,0.25
+Punjab,LUDHIANA,"Satluj River Up Steam Right bank, near baliapur",N30°58’53.5” ,E075°39’8.7”,,Colourless,5,Agreeable,,7.22,628,1,14,5.1,12,3,< 0.01,4.74,4.74,< 0.1,< 0.1,< 0.02,0.5,< 0.1,1.12,1.95,1200,500,,1.46,1.6,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,<0.001,0.01,0.1,< 0.01,< 0.01,0.21
+Punjab,LUDHIANA,Satluj River near sindhvabet,N30°57’57.9” ,E075°28’54.3”,,Greyish,30,Un Agreeable,,7.41,1040,2,84,2.8,108,32,0.03,2.94,2.97,< 0.1,< 0.1,< 0.02,0.7,2.8,2.22,2.9,1100,600,,3.5,20,11,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,< 0.01,0.14
+Punjab,LUDHIANA,"
+Satluj River Down Steam left bank, near baliapur",N30°58’28.7” ,E075°37’35.5”,,Greyish,40,Un Agreeable,,7.23,1590,3,96,2,134,37,0.04,1.8,1.84,< 0.1,< 0.1,< 0.02,0.8,3.2,6.18,3.37,1700,900,,6.9,29,15,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.04,0.52,< 0.01,< 0.01,0.2
+Punjab,LUDHIANA,"
+Abhor Canal",N30°46’42.0” ,E075°51’18.9”,,Colourless,< 5,Agreeable,,8.04,265,< 1,< 10,5.4,14,3,< 0.01,0.9,0.9,< 0.1,< 0.1,< 0.02,0.3,< 0.1,1.89,0.13,900,700,,2.32,1.4,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,<0.01,< 0.01,< 0.01,< 0.001,0.02,0.16,< 0.01,< 0.01,0.47
+Punjab,LUDHIANA,"
+Buddha Nallah near Kumbhkala village",N30°55’14.8” ,E076°03’54.7”,,"Pale
+Brownish",10,Agreeable,,7.56,643,1,18,5.2,18,4,0.01,3.39,3.4,< 0.1,< 0.1,< 0.02,0.4,1.2,1.63,0.67,1400,600,,1.96,1.8,1.2,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.05,0.26,< 0.01,< 0.01,0.21
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu,MANALI,"
+Bucki ngham
+Canal – U/s","N 13°08'29.4"" ","E 80°16'42.7""",,Greyish,50,Un- Agreeable,,7.12,1900,7,80,<0.1,80,22,0.15,2.25,2.4,<0.1,<0.1,<0.02,0.4,1.2,1.08,5.47,20,9,,1.4,20,13,0.002,<0.1,Not detected,Not detected,Not detected,0.03,0.04,<0.01,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,0.18,0.28,<0.01,<0.01,0.29
+Tamil Nadu,MANALI,"
+Buckingham
+Canal – D/s","N 13°10'31.3"" ","E 80°17'27.5""",,Greyish,50,Un- Agreeable,,7.13,2400,6,64,<0.1,64,20,0.11,1.81,1.92,<0.1,<0.1,<0.02,0.5,0.8,0.96,6.84,26,7,,1.2,17,11,0.005,<0.1,Not detected,Not detected,Not detected,0.04,0.02,<0.01,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,0.19,0.21,<0.01,<0.01,0.32
+Tamil Nadu,MANALI,"
+Amullavai
+Canal U/s","N 13°10'47.5"" ","E 80°15'22.8""",,Light brown,40,Un- Agreeable,,7.92,1480,4,48,3.1,62,18,0.23,0.45,0.68,<0.1,<0.1,<0.02,0.6,1.4,0.1,5.44,17,6,,0.3,3.5,2.8,0.003,<0.1,Not detected,Not detected,Not detected,0.03,0.03,<0.01,<0.05,0.06,<0.01,<0.01,<0.01,<0.001,0.02,0.27,<0.01,<0.01,0.29
+Tamil Nadu,MANALI,"
+Amullavai
+Canal D/s","N 13°08'29.4"" ","E 80°16'11.7""",,Light brown,40,"Un-agreeable
+(Smell o f Ammonia)",,9.2,10600,8,54,<0.1,84,21,0.5,5.41,5.91,5.6,<0.1,<0.02,0.9,0.3,0.08,48.46,14,2,,0.2,18,14,0.005,<0.1,Not detected,Not detected,Not detected,0.26,0.07,0.01,<0.05,0.04,<0.01,<0.01,<0.01,<0.001,0.03,0.57,0.01,<0.01,0.69
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Punjab,MANDI GOBINDGARH,"
+Ambamajra Road, Sarhind choi",N30°37’36.5” ,E076°19’17.5”,,Brownish,30,Un-Agreeable,,7.47,1190,2,32,<1,82,21,0.1,8.58,8.68,0.2,< 0.1,< 0.02,1.3,1.8,2.78,2.16,17000,5000,,3.14,18.4,7.8,< 0.001,0.18,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.08,0.72,< 0.01,< 0.01,0.16
+Punjab,MANDI GOBINDGARH,"
+Katera pond",N30°37’30.4” ,E076°17’49.2”,,Pale yellow,20,Agreeable,,8.05,1480,3,80,<1,138,40,0.01,1.81,1.82,0.9,< 0.1,< 0.02,1.2,3.8,5.1,4.25,35000,14000,,6.8,29.4,14,< 0.001,0.4,Not Detected,Not Detected,Not Detected,0.04,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.07,0.34,< 0.01,< 0.01,0.2
+Punjab,MANDI GOBINDGARH,"
+Disposal Point of municipal Corp",N30°37’17.8” ,E076°18’48.5”,,Grey,30,Un-Agreeable,,7.37,1120,4,128,< 1,168,45,0.02,1.58,1.6,0.8,< 0.1,< 0.02,1.3,6,3.74,1.44,28000,11000,,4.02,28,15,< 0.001,0.2,Not Detected,Not Detected,Not Detected,0.1,< 0.01,0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.06,0.57,< 0.01,< 0.01,0.16
+Punjab,MANDI GOBINDGARH,"
+Chapra pond",N30°40’27.0” ,E076°15’57.2”,,Greenish,40,Un - Agreeable,,7.85,1620,5,114,< 1,236,70,0.05,4.97,5.02,1.2,< 0.1,< 0.02,1.2,10.4,4.16,2.34,22000,9000,,4.84,36,19,< 0.001,0.62,Not Detected,Not Detected,Not Detected,0.05,< 0.01,0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.12,0.7,< 0.01,< 0.01,0.39
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Karnataka,MANGALORE,"
+Atturkudi
+Stream",N 13°00’13.2’’ ,E074°50’52.3’’,,Colourless,5,Agreeable,,6.9,560,<1,14,5.6,8,2,0.02,7,7.02,<0.1,<0.1,<0.02,0.5,<0.1,<0.1,1.77,30,<2,,<0.1,<1,<1,<0.001,<0.1,Not detected,Not detected,Not detected,0.01,<0.01,<0.01,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,0.02,0.21,<0.01,<0.01,0.07
+Karnataka,MANGALORE,"
+Gurupura
+River",N 12°55’56.0’’ ,E074°55’02.7’’,,Colourless,10,Agreeable,,7.91,834,<1,34,5.6,28,5,0.01,2.94,2.95,<0.1,<0.1,<0.02,0.7,<0.1,<0.1,2.98,26,<2,,<0.1,2.1,1.4,<0.001,<0.1,Not detected,Not detected,Not detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.12,<0.01,<0.01,0.04
+Karnataka,MANGALORE,"
+Chitrapura
+Beach",N 12°57’24.8’’ ,E074°47’59.2’’,,Colourless,10,Agreeable,,7.98,52500,1,30,4.8,32,6,0.01,0.24,0.25,<0.1,<0.1,<0.02,1.2,<0.1,<0.1,53.06,180,23,,<0.1,2.4,1.7,<0.001,<0.1,Not detected,Not detected,Not detected,0.02,0.01,0.02,<0.05,0.05,<0.01,<0.01,<0.01,<0.001,0.02,0.44,0.01,0.14,2.7
+Karnataka,MANGALORE,"
+Pilikula
+Pond",N 12°55’48.4’’ ,E074°53’42.9’’,,Colourless,10,Agreeable,,7.87,70,1,22,5.2,24,5,<0.01,0.45,0.45,<0.1,<0.1,<0.02,0.3,<0.1,<0.1,0.3,50,2,,<0.1,2.2,1.9,<0.001,<0.1,Not detected,Not detected,Not detected,<0.01,<0.01,0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.15,<0.01,0.01,0.06
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maharashtra,NAVI MUMBAI,"
+Creek Water (Vashi Bridge)",N19°03’50.2” ”,E072°58’40.5,,Colourless,5,Agreeable,,7.02,55400,<1,36,5.1,34,8,0.06,3.61,3.67,<0.1,<0.1,<0.02,1.2,0.4,0.25,56.35,110,7,,0.36,2.8,1.7,0.002,<0.1,Not Detected,Not Detected,Not Detected,0.04,0.01,<0.01,<0.05,0.01,<0.01,0.01,<0.01,0.001,0.01,0.25,0.02,<0.01,3.6
+Maharashtra,NAVI MUMBAI,"
+CBD Lake (Near Bachat Bhavan)",N19°01’20.7” ,E073°02’14.2”,,Colourless,5,Agreeable,,7.54,2700,<1,24,5.4,18,4,0.03,0.68,0.71,<0.1,<0.1,<0.02,0.8,0.2,0.1,3.39,90,<2,,0.18,<1,<1,0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,0.001,<0.01,0.09,0.01,<0.01,0.15
+Maharashtra,NAVI MUMBAI,"
+Rabale
+Lake",N19°08’38.5” ,E073°00’07.2”,,Colourless,5,Agreeable,,7.56,1600,<1,16,5.6,14,3,0.04,0.68,0.72,<0.1,<0.1,<0.02,0.5,0.2,0.12,1.59,70,<2,,0.14,<1,<1,0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,0.001,<0.01,0.07,0.01,<0.01,0.12
+Maharashtra,NAVI MUMBAI,"
+Nocil Nalla",N19°07’58.8” ,E073°00’14.7”,,Greenish,30,Agreeable,,2,18900,5,192,<1,244,60,0.03,32.06,32.09,<0.1,<0.1,<0.02,1.4,3.6,1.28,1.31,1300,170,,1.6,23,12,0.005,0.16,Not Detected,Not Detected,Not Detected,0.12,0.02,0.18,<0.05,0.15,<0.01,0.04,<0.01,0.004,0.32,1.8,0.02,0.01,1.12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Delhi,New Delhi,"
+Okhla Bird
+Sanctuary",N 28°33’06” ,E077°19’06.3”,,"Light
+Brownish",20,Un-agreeable,,7.02,570,2,46,4.8,92,20,0.02,1.13,1.15,<0.1,<0.1,<0.02,0.6,0.8,1.64,1.47,900,140,,2.1,23,12,0.004,<0.1,Not Detected,Not Detected,Not Detected,0.01,0.03,<0.01,<0.05,0.06,<0.01,<0.01,<0.01,<0.001,0.25,0.86,<0.01,<0.01,0.18
+Delhi,New Delhi,"
+Yamuna River -Indra Prastha",N28°35’59.4” ,E077°15’16.8”,,Blackish,25,Un-agreeable,,7.15,1180,8,138,1.6,192,58,0.01,0.9,0.91,<0.1,<0.1,<0.02,0.7,1.4,1.2,2.98,9000,2600,,1.6,28,16,0.002,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.03,<0.01,<0.05,0.06,<0.01,<0.01,<0.01,<0.001,0.3,0.99,<0.01,<0.01,0.21
+Delhi,New Delhi,"
+Yamuna River near Sachivalaya bridge",N28°37’38.4” ,E077°15’11.9”,,Blackish,20,Un-agreeable,,7.06,1200,7,124,1.8,168,52,0.02,1.35,1.37,<0.1,<0.1,<0.02,0.6,1,0.6,2.79,7000,2100,,0.8,25,14,0.002,<0.1,Not Detected,Not Detected,Not Detected,0.07,0.03,<0.01,<0.05,0.04,<0.01,<0.01,<0.01,<0.001,0.38,1.02,<0.01,<0.01,0.24
+Delhi,New Delhi,"
+Yamuna River near Kashmiri Gate",N28°39’53.7” ,E077°14’17.9”,,Greyish,20,Un-agreeable,,7.15,1220,5,72,2.8,134,36,0.01,0.68,0.69,<0.1,<0.1,<0.02,0.6,0.8,0.47,3.12,5000,1400,,0.7,21,13,0.001,<0.1,Not Detected,Not Detected,Not Detected,0.12,<0.01,<0.01,<0.05,0.09,<0.01,<0.01,<0.01,<0.001,0.18,0.93,<0.01,<0.01,0.25
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uttar Pradesh,NOIDA,"
+Hindon River Near Yamuna express highway,",N28°26’52.5” ,E077°29’22.0”,,Light brown,20,Agreeable,,7.2,522,1,98,2.7,72,20,0.02,3.16,3.18,< 0.1,< 0.1,< 0.02,0.6,1.76,<0.1,0.97,2600,1400,,<0.1,14.8,7,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.04,0.26,< 0.01,< 0.01,0.08
+Uttar Pradesh,NOIDA,"
+Hindon River Near kulleswara village",N28°31’51.3” ,E077°26’00.2”,,Light brown,20,Agreeable,,7.2,440,1,88,3.1,60,17,0.04,4.52,4.56,< 0.1,< 0.1,< 0.02,0.7,1.6,0.28,0.81,2700,1400,,0.42,13.6,6.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.05,0.24,< 0.01,< 0.01,0.1
+Uttar Pradesh,NOIDA,"
+Hindon river, Lakkada village",N28°31’22.3” ,E077°25’59.9”,,Light brown,20,Agreeable,,7.12,420,1,84,4.8,64,18,< 0.01,5.87,5.87,< 0.1,< 0.1,< 0.02,0.6,1.28,0.36,0.79,3300,1700,,0.54,12,5.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.04,0.26,< 0.01,< 0.01,0.09
+Uttar Pradesh,NOIDA,"
+Hindon river,Opp. Kulleswara village",N28°31’49.7” ,E077°25’58.4”,,Light brown,20,Agreeable,,7.19,434,1,92,3.2,68,19,0.02,6.1,6.12,< 0.1,< 0.1,< 0.02,0.6,<0.1,0.41,0.77,9000,2600,,0.62,15.4,7.6,< 0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.04,0.22,< 0.01,< 0.01,0.09
+Uttar Pradesh,NOIDA,"
+Hindon River,Near Hallivardhana pur village",N28°32’10.9” ,E077°26’04.1”,,Light brown,20,Agreeable,,7.04,395,1,74,3.2,56,14,0.02,5.87,5.89,< 0.1,< 0.1,< 0.02,0.5,0.64,0.35,0.88,8000,2200,,0.54,5.4,2.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.3,<0.01,<0.01,0.09
+Uttar Pradesh,NOIDA,"
+Hindon river,Near Talleswaar village,left bank",N28°25’15.5” ,E077°30’22.0”,,Light brown,10,Agreeable,,7.28,465,1,78,3,54,15,0.02,5.65,5.67,< 0.1,< 0.1,< 0.02,0.7,< 0.1,0.35,0.94,5000,2100,,0.52,6,3.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.03,0.18,<0.01,<0.01,0.08
+Uttar Pradesh,NOIDA,"
+Hindon river,Near Talleswaar village, Right bank",N28°25’14.8” ,E077°30’19.6”,,Light brown,10,Agreeable,,7.57,484,1,72,3.1,48,14,0.02,5.87,5.89,< 0.1,< 0.1,< 0.02,0.5,< 0.1,< 0.1,0.97,3400,1700,,<0.1,5.2,2.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.18,<0.01,<0.01,0.08
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rajasthan,Pali,"
+Lodiyactala b near Gandhi stechue circle",N25°46’58.8” ,E073°19’44.4”,,Light Yellow,30,Un-Agreeable,,8.19,760,2,118,4.5,76,19,0.02,0.45,0.47,< 0.1,< 0.1,< 0.02,0.7,0.4,0.68,3.28,14000,500,,0.84,9.5,5.3,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,<0.01,0.17,<0.01,< 0.01,0.3
+Rajasthan,Pali,"
+Bandi river downstream
+, Jaipur –Palli
+Highway",N25°46’03.1” ,E073°21’14.5”,,Light Yellow,25,Un - Agreeable,,7.57,984,2,56,4.6,52,13,0.09,2.03,2.12,< 0.1,< 0.1,< 0.02,1.3,0.3,0.54,4.22,9000,220,,0.76,6.3,3.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,<0.01,< 0.01,< 0.01,< 0.05,<0.01,<0.01,< 0.01,< 0.01,< 0.001,<0.01,<0.01,<0.01,<0.01,2.1
+Rajasthan,Pali,"
+Lakhotiya talab Pali",N25°46’54.8” ,E073°19’53.6”,,Colour less,< 5,Agreeable,,8.16,510,< 1,12,5.9,14,3,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.5,< 0.1,< 0.1,1.43,2400,80,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,<0.01,< 0.01,< 0.01,0.15
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haryana,Panipat,"
+Garunda drain",N29°27’20.0’’ ,E076°58’13.7’’,,Light brown,50,Un-Agreeable,,7.56,1420,6,56,< 1,98,36,0.02,8.58,8.6,< 0.1,< 0.1,< 0.02,1,6.7,5.2,3.18,5000,1700,,5.8,41,29,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.24,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.34,< 0.01,< 0.01,0.49
+Haryana,Panipat,"
+Pamipat drain No.2",N29°26’34.3’’ ,E076°58’15.1,,Colourless,10,Agreeable,,7.7,272,1,24,4.5,38,9,0.01,0.9,0.91,< 0.1,< 0.1,< 0.02,0.4,< 0.1,0.18,0.24,21,< 2,,< 0.1,4.2,2.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.1,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.01,0.1,< 0.01,< 0.01,0.44
+Haryana,Panipat,"
+Panipat drain No.1",N29°23’39.0’’ ,E076°59’26.8’’,,Grayish,60,Un-Agreeable,,7.32,2000,9,86,< 1,272,75,0.04,3.84,3.88,< 0.1,< 0.1,< 0.02,1.1,4.2,5.78,3.83,2700,2100,,6.2,52,38,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.38,< 0.01,< 0.01,0.57
+Haryana,Panipat,"
+Yamuna River
+Down Stream",N29°23’60.3’’ ,E077°09’18.4’’,,Colourless,5,Agreeable,,7.67,408,< 1,14,6.4,18,4,0.01,0.45,0.46,< 0.1,< 0.1,< 0.02,0.6,< 0.1,0.28,0.34,350,280,,0.42,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.08,< 0.01,< 0.01,0.44
+Haryana,Panipat,"
+Yamuna River Up Stream",N29°24’58.2’’ ,E077°18’24.2’’,,Colourless,5,Agreeable,,7.66,400,1,16,6.2,20,5,< 0.01,0.45,0.45,< 0.1,< 0.1,< 0.02,0.5,< 0.1,< 0.1,0.37,110,40,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.26,< 0.01,< 0.01,0.6
+Haryana,Panipat,"
+Panipat drain Up/s near Chajjpur",N29°22’55.5’’ ,E077°04’00.6’’,,Colourless,10,Agreeable,,7.6,272,1,32,5.6,34,8,< 0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.4,0.5,< 0.1,0.41,500,350,,< 0.1,7,4.2,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,0.02,< 0.01,< 0.05,0.01,< 0.01,< 0.01,< 0.01,0.001,0.05,0.3,< 0.01,< 0.01,0.81
+Haryana,Panipat,"
+Panipat drain Dn/s near Chajjpur",N29°22’54.1’’ ,E077°03’59.6’’,,Colourless,5,Agreeable,,7.62,278,1,34,5,38,9,< 0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.4,0.6,< 0.1,0.42,90,60,,< 0.1,4.9,3.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.12,< 0.01,< 0.01,0.43
+Haryana,Panipat,"
+Kala Amb pond near war memeorial",N29°23’53.6’’ ,E077°01’13.9’’,,Pale Yellow,15,Agreeable,,7.96,1410,4,38,4.2,96,24,0.02,3.16,3.18,< 0.1,< 0.1,< 0.02,0.9,1.8,0.92,3.44,1100,270,,1.06,10,7,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.46,< 0.01,< 0.01,0.52
+Haryana,Panipat,"
+Surface water Panipat canal
+gohana road",N29°22’38.7’’ ,E076°56’51.9’’,,Colourless,5,Agreeable,,7.98,224,2,24,5.9,24,5,< 0.01,0.45,0.45,< 0.1,< 0.1,< 0.02,0.4,0.2,< 0.1,0.35,180,23,,< 0.1,2.1,1.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.08,< 0.01,< 0.01,0.4
+Haryana,Panipat,"
+STP 10 MLD
+outlet",N29°22’16.1’’ ,E076°56’36.1’’,,Greyish,80,Un-Agreeable,,7.2,2310,9,136,< 1,560,130,0.02,8.81,8.83,0.3,< 0.1,< 0.02,1.2,7.4,4.31,1.95,3400,1000,,4.68,39,27,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.05,0.5,0.01,< 0.01,0.41
+Haryana,Panipat,"
+STP 10 MLD
+inlet",N29°22’17.4’’ ,E076°56’42.6’’,,Greyish,100,Un-Agreeable,,7.05,1340,12,158,< 1,612,230,0.04,4.29,4.33,< 0.1,< 0.1,< 0.02,1.1,11.5,5.8,2.8,5000,1700,,6.1,52,38,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.11,0.76,< 0.01,< 0.01,0.48
+Haryana,Panipat,"
+Surface water Panipat canal IOC munek Road",N29°23’34.8’’ ,E076°56’40.5’’,,Colour Less,5,Agreeable,,7.73,230,< 1,28,6,18,4,< 0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.3,< 0.1,< 0.1,0.16,240,30,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.07,< 0.01,< 0.01,0.44
+Haryana,Panipat,"
+STP 35 MLD
+inlet",N29°20’06.6’’ ,E076°59’36.5’’,,Greyish,60,Un-Agreeable,,7.35,2460,10,128,< 1,460,160,0.04,3.16,3.2,0.4,< 0.1,< 0.02,1.2,3.6,3.6,7.15,11000,4000,,4.2,56,38,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.05,< 0.01,0.01,< 0.05,0.02,< 0.01,< 0.01,< 0.01,< 0.001,0.03,0.95,< 0.01,< 0.01,0.4
+Haryana,Panipat,"
+STP 35 MLD
+outlet",N29°19’58.5’’ ,E076°79’48.7’’,,"Brownish
+grey",50,Un-Agreeable,,7.81,3610,6,104,< 1,224,54,0.02,5.65,5.67,0.2,< 0.1,< 0.02,1.3,1.9,2.9,7.27,170,60,,3.2,42,24,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.04,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.38,< 0.01,< 0.01,0.44
+Haryana,Panipat,"
+CETP 21
+MLD outlet",N29°20’58.3’’ ,E076°59’44.9’’,,"Pale
+Yellowish",120,Un-Agreeable,,8.04,4620,4,56,< 1,104,23,0.02,9.03,9.05,< 0.1,< 0.1,< 0.02,1,6.1,0.4,15.46,4000,2200,,0.6,20,12,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.3,< 0.01,< 0.01,0.43
+Haryana,Panipat,"
+CETP 21 MLD
+inlet",N29°21’11.1’’ ,E076°59’46.1’’,,Grey,100,Un-Agreeable,,7.66,4360,7,112,< 1,304,110,0.05,5.87,5.93,< 0.1,< 0.1,< 0.02,1,8.6,3.2,22.29,11000,5000,,3.9,38,21,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.06,0.01,0.01,< 0.05,0.02,< 0.01,< 0.01,< 0.01,< 0.001,0.04,0.68,< 0.01,< 0.01,0.62
+Haryana,Panipat,"
+Panipat Drain Near Simla Gujran",N29°19’12.0’’ ,E077°03’31.3’’,,Greyish,60,UnAgreeable,,7.62,2600,2,62,< 1,108,25,0.05,2.71,2.76,< 0.1,< 0.1,< 0.02,1.2,1.9,2.62,-,1100,140,,3.04,23,15,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.06,0.54,< 0.01,< 0.01,0.52
+Haryana,Panipat,"
+Main drain before mixing",N29°16’26.1’’ ,E077°07’28.7’’,,"Light
+Greyish",15,Agreeable,,7.54,390,1,46,5,48,11,0.03,0.45,0.48,< 0.1,< 0.1,< 0.02,0.7,2,0.4,0.97,280,170,,0.56,11,7,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.01,0.18,< 0.01,< 0.01,0.42
+Haryana,Panipat,"
+main drain
++ Yamuna during mixing",N29°16’25.4’’ ,E077°07’29.1’’,,Pale grey,10,Agreeable,,7.95,492,1,34,5.2,40,9,0.02,0.23,0.25,< 0.1,< 0.1,< 0.02,0.6,0.6,0.2,0.77,220,130,,0.32,5.6,3.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.01,0.12,< 0.01,< 0.01,0.41
+Haryana,Panipat,"
+River Yamuna
+After mixing",N29°16’13.7’’ ,E077°07’34.4’’,,"Light
+Greyish",5,Agreeable,,7.92,498,1,32,5.6,26,6,0.02,0.9,0.92,< 0.1,< 0.1,< 0.02,0.7,0.4,0.2,0.87,180,70,,0.3,2.8,1.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,< 0.01,0.42
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Andhra Pradesh,PATANCHERU & BOLLARAM,"
+Nakkavagu at
+Bachegudem",N 17°33.637’ ,E 078°13.943’,,Light Greyish,30,Un-Agreeable,,8.09,1340,5,62,2.6,84,28,0.35,6.3,6.65,0.3,<0.1,<0.02,1.2,2.4,2.25,3.05,80,70,,2.9,23,19,0.005,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.04,0.01,<0.05,0.07,<0.01,<0.01,<0.01,<0.001,0.02,0.33,<0.01,<0.01,0.14
+Andhra Pradesh,PATANCHERU & BOLLARAM,"
+Isukavagu at PETL",N 17°32.384’ ,E 078°14.628’,,Greyish,40,Un-Agreeable,,8.02,1520,7,76,<1,128,45,0.1,0.9,1,0.4,<0.1,<0.02,1.4,2.9,3.05,3.21,20,9,,3.8,28,23,0.005,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.04,< 0.01,<0.05,0.06,<0.01,<0.01,<0.01,<0.001,0.03,0.32,<0.01,<0.01,0.18
+Andhra Pradesh,PATANCHERU & BOLLARAM,"
+Krishna reddypet Tank",N 17°32.044’ ,E 078°17.933’,,Greenish,40,Un- Agreeable,,8.21,5600,4,84,1.1,346,90,0.05,4.3,4.35,0.2,<0.1,<0.02,1.3,1.6,0.72,10.01,21,17,,1.34,30,25,0.015,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.08,< 0.01,<0.05,0.12,0.04,<0.01,<0.01,<0.001,0.65,0.43,0.01,<0.01,1.2
+Andhra Pradesh,PATANCHERU & BOLLARAM,"
+Asanikunta
+Tank",N 17°33.164’ ,E 078°19.989’,,Blackish,200,Un- Agreeable,,8.14,10220,12,592,<1,1860,630,0.05,8.1,8.15,1.4,<0.1,<0.02,2.1,16,8.82,8.89,22,11,,10.2,114,85,0.01,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.16,< 0.01,<0.05,0.4,<0.01,0.04,<0.01,<0.001,1.16,2.93,0.01,<0.01,2.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uttar Pradesh,SINGRAULI,"
+Balia Nala D/s near Bridge, Shaktinagar",N24°05’56.6” ,E082°42’05.3”,,Light Yellow,20,Agreeable,,7.72,480,1,56,5.2,42,10,0.02,2.94,2.96,< 0.1,< 0.1,< 0.02,0.4,< 0.1,0.2,1.25,23,< 2,,0.28,3.5,2.1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.05,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.06,0.45,0.05,< 0.01,0.12
+Uttar Pradesh,SINGRAULI,"
+Balia Nala U/s Bridge, Kadia colony",N24°07’08.9” ,E082°40’38.6”,,Grey,20,Agreeable,,7.76,576,3,114,3.8,96,21,0.06,4.74,4.8,< 0.1,< 0.1,< 0.02,0.5,< 0.1,0.46,0.82,26,< 2,,0.58,6.3,3.5,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.06,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.02,0.6,< 0.01,< 0.01,0.04
+Uttar Pradesh,SINGRAULI,"
+Lake water near Senior Transit Camp, NCL,
+Bina",N24°09’28.8” ,E082°46’11.7”,,Colourless,5,Agreeable,,7.84,598,< 1,18,6,12,3,0.02,3.39,3.41,< 0.1,< 0.1,< 0.02,0.4,< 0.1,0.1,0.84,50,< 2,,0.14,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.03,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.15,< 0.01,< 0.01,0.15
+Uttar Pradesh,SINGRAULI,"
+Kava nala, Anpara",N24°11’52.0” ,E082°45’43.3”,,Light greenish,10,Agreeable,,8.32,515,1,42,5.4,28,6,0.02,0.23,0.25,< 0.1,< 0.1,< 0.02,0.5,< 0.1,0.12,1.65,110,< 2,,0.15,2.1,1.4,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.14,< 0.01,< 0.01,0.12
+Uttar Pradesh,SINGRAULI,"
+Rihand river near Kohadowal village",N24°07’27.7” ,E082°46’28.0”,,Colourless,5,Agreeable,,7.8,124,< 1,24,6.2,12,3,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.2,< 0.1,< 0.1,0.39,< 2,< 2,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.18,< 0.01,< 0.01,0.04
+Uttar Pradesh,SINGRAULI,"
+Surya Nala, near police station bridge,
+Vindhyanagar",N24°05’03.0” ,E082°39’45.4”,,Pale Yellow,10,Agreeable,,7.46,348,1,36,5.2,20,4,< 0.01,2.26,2.26,< 0.1,< 0.1,< 0.02,0.5,< 0.1,0.59,1.04,< 2,< 2,,0.7,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.05,0.26,< 0.01,< 0.01,0.08
+Uttar Pradesh,SINGRAULI,"
+Rihand Reservoir near Baliyari village U/s",N24°02’22.6” ,E082°38’12.2”,,Pale Yellow,5,Agreeable,,8.1,542,< 1,28,6.4,14,3,1.85,5.65,7.5,< 0.1,< 0.1,< 0.02,0.4,< 0.1,< 0.1,0.87,< 2,< 2,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.02,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.03,0.16,< 0.01,< 0.01,0.04
+Uttar Pradesh,SINGRAULI,"
+Kanchana nallah near chauhan cold
+storage, Kachni",N24°04’31.1” ,E082°35’15.9”,,Pale Yellow,5,Agreeable,,7.75,438,1,38,6.1,12,3,0.01,3.61,3.62,< 0.1,< 0.1,< 0.02,0.5,< 0.1,0.1,1.19,2200,17,,0.12,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.01,0.1,< 0.01,< 0.01,0.03
+Uttar Pradesh,SINGRAULI,"
+Balia Nallah near Dudichua STP",N24°07’20.1” ,E082°40’3.9”,,Grey,50,Agreeable,,7.58,635,5,146,3.6,92,21,0.37,4.74,5.11,< 0.1,< 0.1,< 0.02,0.6,< 0.1,0.52,0.75,3000,50,,0.68,8.4,5.6,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.8,< 0.01,< 0.01,0.05
+Uttar Pradesh,SINGRAULI,"
+Rihand river, Singrauli to rihand nagar road under rail bridge",N24°02’01.7” ,E082°37’28.6”,,Pale Yellow,5,Agreeable,,8.03,427,1,38,5.2,20,4,< 0.01,0.9,0.9,< 0.1,< 0.1,< 0.02,0.4,< 0.1,< 0.1,1.13,900,17,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.03,< 0.01,< 0.01,0.03
+Uttar Pradesh,SINGRAULI,"
+Murdhwa
+Nallah",N24°13’33.8” ,E083°02’32.6”,,Pale yellow,15,Agreeable,,7.59,996,3,76,4.1,68,16,0.03,0.9,0.93,< 0.1,< 0.1,< 0.02,0.7,< 0.1,0.36,0.63,2800,70,,0.45,5.6,2.8,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,0.08,0.04,< 0.01,< 0.01,0.07
+Uttar Pradesh,SINGRAULI,"
+Rihand Reservior, Up Stream",N24°11’42.6” ,E083°02’41.2”,,Colourless,5,Agreeable,,8.42,152,< 1,12,6.4,8,2,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.2,< 0.1,0.14,0.47,22,< 2,,0.26,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.06,< 0.01,< 0.01,0.03
+Uttar Pradesh,SINGRAULI,"
+Dongia
+Nallah",N24°11’55.1” ,E083°02’36.1”,,Light Yellow,20,Agreeable,,8.17,5000,2,78,3.8,50,12,< 0.01,2.48,2.48,< 0.1,< 0.1,< 0.02,0.4,0.2,0.47,15.3,350,9,,0.62,4.9,2.1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.08,< 0.01,0.01,0.06
+Uttar Pradesh,SINGRAULI,"
+Rihand Dam Down Stream",N24°12’33.7” ,E083°00’06.2”,,Pale Yellow,5,Agreeable,,7.94,134,< 1,24,6.4,10,2,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.2,< 0.1,0.15,0.37,500,< 2,,0.18,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.02,< 0.01,< 0.01,< 0.01
+Uttar Pradesh,SINGRAULI,"
+Sone River down stream",N24°27’38.1” ,E082°58’18.1”,,Pale Yellow,5,Agreeable,,7.67,130,1,46,4.3,38,10,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.2,< 0.1,0.22,0.45,40,< 2,,0.38,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.09,< 0.01,< 0.01,0.03
+Uttar Pradesh,SINGRAULI,"
+Sone River up stream, near somnath mandir, gotheni",N24°32’45.8” ,E082°58’42.0”,,Pale Yellow,10,Agreeable,,7.96,252,1,34,4.8,18,4,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.3,< 0.1,0.33,0.39,240,11,,0.47,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,< 0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.05,< 0.01,< 0.01,0.02
+Uttar Pradesh,SINGRAULI,"
+Sone River near toll Bridge",N24°32’10.2” ,E083°01’20.4”,,Colourless,5,Agreeable,,8.1,253,1,28,4.6,12,3,0.01,0.23,0.24,< 0.1,< 0.1,< 0.02,0.3,<  0.1,0.16,0.38,220,14,,0.21,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.17,< 0.01,< 0.01,0.02
+Uttar Pradesh,SINGRAULI,"
+Sone River
+Down Stream",N24°31’52.4” ,E083°01’16.8”,,Colourless,5,Agreeable,,7.93,132,1,18,4.9,10,3,< 0.01,0.23,0.23,< 0.1,< 0.1,< 0.02,0.2,< 0.1,< 0.1,0.42,110,8,,< 0.1,< 1,< 1,< 0.001,< 0.1,Not Detected,Not Detected,Not Detected,0.01,< 0.01,< 0.01,< 0.05,< 0.01,< 0.01,< 0.01,< 0.01,< 0.001,< 0.01,0.15,< 0.01,< 0.01,0.03
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maharashtra,Tarapur,"
+BPT Navapur out fall",N19°46’09.0” ,E72°41’10.0”,,Brown,>100,Un-Agreeable,,6.92,55300,6,260,<1,82,34,0.04,3.39,3.43,<0.1,<0.1,<0.02,1.2,4.8,0.28,56.67,12,<2,,0.34,21,1.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.03,<0.01,<0.05,0.13,<0.01,0.01,<0.01,<0.001,0.12,2.54,<0.01,<0.01,0.64
+Maharashtra,Tarapur,"
+Over Flow of
+Sump No. - 1",N19°46’40.0” ,E72°44’16.2”,,"Light
+Brownish",20,Un-Agreeable,,6,2000,7,118,<1,76,19,0.1,4.74,4.84,<0.1,<0.1,<0.02,1.4,1.28,0.13,3.46,90,<2,,0.18,7,3.5,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.01,<0.01,<0.05,0.03,<0.01,<0.01,<0.01,<0.001,<0.01,0.07,<0.01,<0.01,0.07
+Maharashtra,Tarapur,"
+Nalla Carrying domestic sewage at Saravalli",N19°46’49.5” ,E72°44’23.2”,,Greyish,10,Un-Agreeable,,7.07,1200,2,46,2.8,42,10,1.15,7.68,8.83,<0.1,<0.1,<0.02,1.2,1.92,0.17,1.53,2800,90,,0.24,1.4,0.56,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.02,0.02,<0.01,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,<0.01,0.03,0.01,<0.01,0.07
+Maharashtra,Tarapur,"
+Nalla to Dhandi Creek",N19°49’01.3” ,E72°43’34.9”,,"Grey
+(dark black)",20,Un-Agreeable,,7.36,13720,8,146,<1,672,280,0.16,29.35,29.51,0.6,<0.1,<0.02,0.4,3.52,0.21,14.98,110,22,,0.36,58,31,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.06,0.04,0.08,<0.05,0.1,<0.01,0.02,<0.01,<0.001,0.21,0.97,<0.01,<0.01,0.21
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,Vapi,"
+River Damanganga after Silvassa",N 20°17’53.9” ,E 072°58’34.8”,,Colourless,<5,Agreeable,,7.74,390,<1,<10,6.8,18,4,0.01,0.45,0.46,<0.1,<0.1,<0.02,0.4,<0.1,<0.1,0.72,<2,<2,,0.07,0.7,0.56,<0.001,0.1,Not Detected,Not Detected,Not Detected,0.04,<0.01,<0.01,<0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.14,<0.01,<0.01,0.04
+Gujarat,Vapi,"
+Bhilkhadi Downstream near Pumping station - 1",N 20°22’29.4” ,E 072°55’51.7”,,Bluish Green,200,Un-agreeable,,7.47,5190,6,94,<1,308,82,0.03,1.81,1.84,0.8,<0.1,<0.02,0.6,3.8,1.2,5.25,17,7,,1.52,51,35,<0.001,0.12,Not Detected,Not Detected,Not Detected,0.18,0.09,0.16,<0.05,0.05,<0.01,0.02,<0.01,<0.001,0.52,0.98,<0.01,<0.01,0.18
+Gujarat,Vapi,"
+Bhilkhadi near NH - 8",N 20°24’23.1” ,E 072°54’53.9”,,Light Brown,10,Un-agreeable,,7.92,1020,1,48,2,62,15,0.02,1.13,1.15,<0.1,<0.1,<0.02,0.8,<0.1,0.79,0.57,220,50,,0.96,7,4.2,<0.001,0.14,Not Detected,Not Detected,Not Detected,0.12,0.03,0.04,<0.05,0.02,<0.01,<0.01,<0.01,<0.001,0.16,0.24,<0.01,<0.01,0.12
+Gujarat,Vapi,"
+River Kolak near Koteshwar Mandir",N 20°26’16.8” ,E 072°54’04.7”,,Pale yellowish,10,Agreeable,,7.24,690,<1,16,1.8,28,7,0.01,1.35,1.36,<0.1,<0.1,<0.02,0.8,<0.1,0.49,1.1,34,22,,0.7,1.12,0.84,<0.001,0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.12,<0.01,<0.01,0.06
+Gujarat,Vapi,"
+River Damanganga at Jari Causeway",N 20°22’17.9” ,E 072°52’50.8”,,Light Brown,20,Agreeable,,7.1,2500,<1,28,1.4,52,12,0.2,1.81,2.01,<0.1,<0.1,<0.02,0.9,<0.1,<0.1,2.47,50,17,,0.1,2.1,1.4,<0.001,0.14,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,0.01,<0.01,<0.01,<0.01,<0.001,0.03,0.18,<0.01,<0.01,0.18
+Gujarat,Vapi,"
+CETP Outlet",N 20°20’35.9” ,E 072°54’23.4”,,Brown,350,Un-agreeable,,7.16,8000,5,46,<1.0,280,74,0.02,2.03,2.05,0.21,<0.1,<0.02,1.2,3.7,<0.1,4.59,70,23,,0.12,48,32,<0.001,0.1,Not Detected,Not Detected,Not Detected,0.1,0.06,0.07,<0.05,0.1,<0.01,0.03,<0.01,<0.001,0.28,0.96,<0.01,<0.01,0.86
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uttar Pradesh,Varanasi,"
+Dashashwa medh Ghat, Ganga river,",N25°18’21.8” ,E083°00’44.1”,,Colourless,5,Agreeable,,8.24,530,<1,24,6.2,24,5,0.02,2.03,2.05,<0.1,<0.1,<0.02,0.4,0.12,0.12,1.38,900,11,,0.18,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.18,<0.01,<0.01,0.07
+Uttar Pradesh,Varanasi,"
+Assi ghat , Ganga river",N25°17’30.4” ,E083°00’30.7”,,Colourless,5,Agreeable,,8.02,524,<1,18,6.4,20,4,0.03,2.03,2.06,<0.1,<0.1,<0.02,0.4,0.14,0.16,1.39,500,7,,0.2,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.2,<0.01,<0.01,0.08
+Uttar Pradesh,Varanasi,"
+Near High tension wire poles, Ganga river, Down  Stream",N25°19’44.4” ,E083°03’22.4”,,Colourless,5,Agreeable,,8.16,510,<1,20,6.4,18,4,0.05,2.03,2.08,<0.1,<0.1,<0.02,0.5,0.18,0.18,1.36,500,21,,0.24,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.24,<0.01,<0.01,0.07
+Uttar Pradesh,Varanasi,"
+Varuna river, Down Stream",N25°19’46.0” ,E083°02’38.7”,,Colourless,10,Agreeable,,7.62,442,<1,48,6,38,10,0.05,2.48,2.53,<0.1,<0.1,<0.02,0.3,0.46,0.44,0.87,2600,1400,,0.62,3.9,2.1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.36,<0.01,<0.01,0.06
+Uttar Pradesh,Varanasi,"
+Ganga river U/s Near floating bridge, Ramnagar fort",N25°16’20.8” ,E083°01’17.8”,,Colourless,5,Agreeable,,7.95,510,<1,20,6.2,28,6,0.03,2.48,2.51,<0.1,<0.1,<0.02,0.5,< 0.1,0.16,1.36,1600,7,,0.24,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.09,<0.01,<0.01,0.07
+Uttar Pradesh,Varanasi,"
+Pishach
+Mochan pond",N25°19’19.9” ,E082°59’47.7”,,Colourless,20,Agreeable,,8.16,715,3,34,5.9,46,11,0.04,2.71,2.75,<0.1,<0.1,<0.02,0.6,< 0.1,0.62,4.03,140,9,,0.84,3.4,2.1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.04,0.28,<0.01,<0.01,0.09
+Uttar Pradesh,Varanasi,"
+Varuna river, m/s, Near new varuna bridge",N25°20’25.2” ,E082°58’51.1”,,Colourless,5,Agreeable,,8.03,320,1,26,6.1,24,7,0.04,2.03,2.07,<0.1,<0.1,<0.02,0.4,< 0.1,0.24,0.5,500,21,,0.36,2.6,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.1,<0.01,<0.01,0.06
+Uttar Pradesh,Varanasi,"
+Varuna river, u/s Near Rameswar mahadev dham bridge",N25°23’15.3” ,E082°51’15.0”,,Colourless,20,Agreeable,,7.92,320,1,32,6,32,9,0.05,1.35,1.4,<0.1,<0.1,<0.02,0.3,< 0.1,0.32,0.73,350,17,,0.48,3.2,1.8,<0.001,<0.1,Not Detected,Not Detected,Not Detected,< 0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.03,0.26,<0.01,<0.01,0.07
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gujarat,Vatva,"
+River Sabarmati at Miroli Pumping station",N 22°52’34.1” ,E 072°30’09.8”,,Light Green,50,Un- Agreeable,,7.13,1950,6,174,<1,168,50,<0.01,4.06,4.06,<0.1,<0.1,<0.02,0.8,7.2,3.01,8.61,13,4,,3.62,48,26,<0.001,0.1,Not Detected,Not Detected,Not Detected,0.12,0.02,0.01,<0.05,0.03,<0.01,0.01,<0.01,<0.001,0.9,1.8,<0.01,<0.01,0.14
+Gujarat,Vatva,"
+Mega outfall
+near Narol",N 22°58’46.4” ,E 072°32’39.3”,,Blackish,110,Un- Agreeable,,7.51,5500,19,212,<1,496,150,0.01,3.61,3.62,<0.1,<0.1,<0.02,0.9,54,1.83,14.96,30,23,,2.64,82,40,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.28,0.05,0.03,<0.05,0.16,<0.01,0.02,<0.01,<0.001,1.8,3.7,<0.01,<0.01,0.42
+Gujarat,Vatva,"
+Outlet of CETP – GIDC VATVA",N 22°57’15.9” ,E 072°38’21.1”,,Brown,140,Un- Agreeable,,7.45,7100,9,112,3.6,288,85,0.02,6.77,6.79,<0.1,<0.1,<0.02,1,0.8,0.69,21.79,17,13,,1.04,54,29,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.17,0.03,0.03,<0.05,0.14,<0.01,0.02,<0.01,<0.001,1.5,3.2,<0.01,<0.01,0.59
+Gujarat,Vatva,"
+Kharicut canal downstrea m near Vinzol Bridge",N 22°57’07.1” ,E 072°38’24.2”,,"Light
+Brown",20,Un- Agreeable,,7.32,370,1,26,6.8,24,7,0.02,1.13,1.15,<0.1,<0.1,<0.02,0.9,0.4,0.81,1.49,300,23,,1.42,7,3.6,<0.001,0.12,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.01,0.24,<0.01,<0.01,0.06
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamil Nadu,Vellore,"
+Pullianthan qal Eri",N 12°57’48.9’’ ,E079°17’39.2’’,,Greenish,40,Un-Agreeable,,8.25,2700,5,114,2.2,140,38,0.01,1.81,1.82,0.6,<0.1,<0.02,1,2.1,0.45,5.5,11,<2,,0.68,15,8,<0.001,<0.1,Not detected,Not detected,Not detected,0.1,0.01,<0.01,<0.05,0.1,<0.01,<0.01,<0.01,<0.001,0.18,1.24,<0.01,<0.01,0.45
+Tamil Nadu,Vellore,"
+Pullianqan
+Eri",N 12°56’43.3’’ ,E079°18’37.6’’,,Dark Brown,350,Un-Agreeable,,8.17,7700,26,216,<1,1456,410,0.05,5.87,5.92,2.5,<0.1,<0.02,1.2,9.2,0.61,27.11,17,<2,,0.84,68,34,<0.005,<0.1,Not detected,Not detected,Not detected,0.06,0.03,<0.01,<0.05,0.86,<0.01,0.02,<0.01,<0.001,0.3,1.8,<0.01,<0.01,0.92
+Tamil Nadu,Vellore,"
+Karai Eri",N 12°56’19.5’’ ,E079°18’46.8’’,,Brown,250,Un-Agreeable,,8.3,6600,18,80,<1,548,150,0.04,5.19,5.23,1.6,<0.1,<0.02,0.9,7.4,0.43,21.56,21,<2,,0.62,34,21,0.002,<0.1,Not detected,Not detected,Not detected,0.04,0.02,<0.01,<0.05,0.52,<0.01,0.01,<0.01,<0.001,0.25,1.5,<0.01,<0.01,0.84
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Andhra Pradesh,VISAKHAPATNAM,"
+Ghambirage dda",N 17 ° 52.457’ ,E 83 °21.115’,,"Light
+Brown",10,Agreeable,,8.1,630,1,46,5.2,26,7,0.01,1.8,1.81,<0.1,<0.1,<0.02,0.9,<0.1,<0.1,0.61,13,<2,,0.1,2.8,1.4,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,0.02,0.19,<0.01,0.08,0.15
+Andhra Pradesh,VISAKHAPATNAM,"
+Mudrhara Lava Reservoir",N 17 ° 45.816’ ,E 83 °17.897’,,Colourless,10,Agreeable,,8.2,600,1,14,5.6,10,3,<0.01,0.68,0.68,<0.1,<0.1,<0.02,0.6,<0.1,<0.1,1.55,11,<2,,0.12,<1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.09,<0.01,<0.01,0.08
+Andhra Pradesh,VISAKHAPATNAM,"
+Mehadrige dda Reservoir",N 17 ° 40.863’ ,E 83°12.004’,,Colourless,10,Agreeable,,8.01,380,1,18,5.5,16,4,<0.01,0.23,0.23,<0.1,<0.1,<0.02,0.6,<0.1,<0.1,1.67,8,<2,,0.1,1,<1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,<0.01,0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.12,<0.01,<0.01,0.15
+Andhra Pradesh,VISAKHAPATNAM,"
+Kanithi
+Reservoir",N 17 ° 44.704’ ,E 83°09.842’,,Colourless,10,Agreeable,,7.95,330,1,24,5.4,20,5,<0.01,0.45,0.45,<0.1,<0.1,<0.02,0.4,<0.1,0.1,0.99,9,<2,,0.16,1.4,1,<0.001,<0.1,Not Detected,Not Detected,Not Detected,0.01,<0.01,<0.01,<0.05,<0.01,<0.01,<0.01,<0.01,<0.001,<0.01,0.15,<0.01,<0.01,0.1

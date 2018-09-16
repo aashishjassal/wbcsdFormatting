@@ -1,0 +1,32 @@
+Sl    No,Project Identification Code,Name of Dam,Year of completion,River,Nearest city,Type,Height above lowest foundation,Length of dam,Volume content of dam,Gross Storage capacity,"Reservoir
+Area",Effective Storage capacity,Pur- pose,Designed Spillway capacity
+181,KA06MH0181,Karanja Dam,1989,Karanja,Bidar,TE,28.1,3480,1449.41,217660,56730,207050,I,7080
+182,KA06MH0182,Obichudanahally Tank,1989,Arkavathy,Bangalore,TE,28.7,637,33.04,4670,440,3300,I,81.46
+183,KA06MH0183,Upper Hirenala Tank,1989,Hirenala,Kushtagi,TE,18.27,1935,6.54,6538,1370,5658,I,657.13
+184,KA06HH0184,Varahi H.E.Pickup,1989,Varahi,Shimoga,PG,39.6,244,90.28,82350,6973,39872,H,6205
+185,KA06LH0185,Kadlewadi Tank,1990,Kadlewadi,Bijapur,PG.TE,11.52,1080,65.06,2453.1,785,2157,I,198.36
+186,KA06LH0186,Yallammavadi Tank,1990,Local Nala Krishna /,Yellamwadi,TE,10.3,775,71.86,1479.61,710,1286.52,I,210
+187,KA06MH0187,Attiveri Tank,1991,Bedthi,Hubli,TE,21.43,773.31,464,4002,400,3210,I,127.44
+188,KA06MH0188,Bhairapur Tank,1991,Local Nala Krishna /,Sankeshwar,TE,15.3,600.5,264.25,1355.04,310,1180,I,74.49
+189,KA06MH0189,Durgadhalla Tank,1991,Tattihalla Nala,Dharwad,TE,22.78,962.77,866,5480,850,5180,I,254.84
+190,KA06LH0190,Kadasagatti Tank,1991,Local Nala,Bailahongala,TE,10.68,706,127.53,339.18,355,290,I,65.62
+191,KA06LH0191,Gobbur Tank,1993,Gobbur Nala,Afzalpur,TE,10.3,1525,161.5,3020,1506.8,2390,I,722
+192,KA06LH0192,Hiresangagutti,1993,Hiresangagutti,Bagalkot,PG.TE,11.45,260,20.18,380.19,324,3124.4,I,156.48
+,KA06HH0193,Manchanabele,1993,Arkavathy,Ramanagaram,"PG,TE",38.71,362.2,662.51,34603,3650,30044,I,2234
+194,KA06VH0194,Lakhya Dam,1994,Lakhya hole,Kudremukh,TE,108,1048,11000,273790,6050,245000,T & S,33
+195,KA06MH0195,Mundawad Tank,1994,Shirahatti Nala,Gadag,TE,20.19,994,1476,2959,1417,2690,I,710
+196,KA06MH0196,Iggalur Dam,1996,Shimsha,Mandya,"PG,TE",17.07,1234.4,324.63,5153,1710,3030,I,5521
+197,KA06MH0197,Chulkinala Dam,1997,Chulkinala,Basava Kalyan,TE,18,2340,557.28,26561,7369,25010,I & S,1170
+198,KA06HH0198,Kadra Dam,1997,Kali,Karwar,"PG,TE",40.5,2313,4207,388920,34330,209060,H,8299
+199,KA06HH0199,Amarja Dam,1998,Amarja,Gulbarga,"PG,TE",31.85,960,873,44010,6400,40070,I & S,2832
+200,KA06HH0200,Almatti Dam,2000,Krishna,Bagalkote,"PG,TE",52.24,1564.83,1349.99,3485620,487870,2985620,I & H,31007
+201,KA06HH0201,Gerusoppa Dam,2000,Sharavathi,Honnavar,"PG,TE",62,421,664,130891,5980,58210,H,6245
+202,KA06HH0202,Kodasalli,2000,Kali,Karwar,"PG,TE",52.1,534,574,286490,17140,178820,H,7460
+203,KA06MH0203,Kodli-Allapur,2000,Local / Mullamari  D175,Gulbarga,TE,16.93,510,495,5011.82,985,4511.4,I,198
+204,KA06HH0204,Bennithora Dam,2001,Bennithora,Gulbarga,"PG,TE",31.39,2340,748.7,149980,30540,140700,I,12176
+205,KA06MH0205,Lower Mullamari Dam,2001,Mullamari,Gulbarga,"PG,TE",24.46,1546,296.39,49130,8450,43270,I,3189
+206,KA06MH0206,Yagachi Dam,2001,Yagachi,Belur Town,"PG,TE",26.24,1280,945.66,89.54,19618.19,80782.3,I,2020
+207,KA06MH0207,Gandorinala Dam,2002,Gandorinala,Gulbarga,"PG,TE",24.27,1813.5,1488.9,53450,6640,49450,I,2223
+208,KA06MH0208,Hirehalla Dam,2002,Hirehalla & Veerapurhalla,Koppal,"PG,TE",17.62,3606.6,2340,47600,12470,37950,I,2945
+209,KA06MH0209,Maskinala,2003,Maskinala,Raichur,"PG,TE",29.88,814,586.64,13110,1728,10697,I,2590
+210,KA06MH0210,Arkavathy Dam,2004,Arkavathy,Kanakapura,"PG,TE",29.69,720,419.82,44940,6650,40493,I,5946.54

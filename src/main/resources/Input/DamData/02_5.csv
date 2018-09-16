@@ -1,0 +1,31 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+89,AP01MH0094,Muraripalli Tank,,"79? 20' 45""","16? 43' 08""",1975,Krishna,Y.Palem,,TE,18.68,732,-,6597,-,6597,I,-
+90,AP01LH0095,"Pedda cheruvu tank, Nagasamudram",,"77? 39' 07""","14? 18' 28""",1975,,C.K.palli,,TE,14,1295.68,-,5290,2810,4066,I,2899
+91,AP01LH0096,"Rangasamudram
+Tank",,"78? 18' 45""","13? 42' 00""",1975,,Ramasamudram,,TE,14,1590,-,3689,2702,3689,I,232.74
+92,AP01MH0097,Varaha,,"80? 40' 30""","17? 48' 30""",1975,Varaha,Visakhapatnam,,TE,25,1652,1019,13178,2330,12214,I,523
+93,AP01**0098,"Gotta Barrage (
+Vamsadhara Project
+)",,"83? 58' 0""","18? 12' 0""",1977,Vamsadhara,Hiramandalam,,PG,6.78,475.79,-,17.32,2770,17,I,8213
+94,AP01HH0099,Kalyani dam,,"79? 16' 20""","13? 19' 11""",1977,Kalyani,Tirupati,,PG,36,500,-,25790,22550,24830,I,1615
+95,AP01LH0100,"Kaleti Vagu
+Reservoir",,"78? 27' 26""","14? 44' 06""",1977,,Vempalli,,TE,11.2,1850,,6400,1900,6400,I,683
+96,AP01MH0101,Mehadrigedda,,"83? 11' 27""","17? 45' 54""",1977,Mehadrigedda,Visakhapatnam,,TE,15,1609,-,33128,10813,29538,I,1502
+97,AP01HH0102,"Sriram Sagar Project
+(SRSP)",,"78? 20' 00""","18? 58' 00""",1977,Godavari,Nizamabad,,TE/PG,43,15600,13095,3172000,450820,2322000,S,45300
+98,AP01HH0103,Thandava,,"82? 05' 20""","18? 45' 50""",1977,Thandava,Visakhapatnam,,TE,33,258,199,14045,18650,124690,I,1218
+99,AP01MH0104,Vottigedda Reservoir,,"83? 36' 15""","18? 50' 55""",1972,Vottigeddda,Visakhapatnam,,TE,27,2543,301,27149,4405,25165,H,1509
+100,AP01HH0105,"Forbay Lower Sileru (
+S.H.E.S)",,"81? 38' 0""","17? 49' 0""",1978,Sileru,Visakhapatnam,,TE,67,548,2669,4070,1370,-,I,167
+101,AP01MH0106,"Peddabommalapura
+m Reservoir",,"79? 08' 42""","16? 30' 12""",1978,,Dornal,,TE,17.3,640,-,3763,-,3763,I,-
+102,AP01LH0107,Pittakayagulla,,"79? 18' 50""","15? 23' 45""",1978,Vemuluri Stream,Markapur,,TE,12.5,-,-,3306,-,3003,I,429
+103,AP01MH0108,Swarna Project,,"78? 12' 00""","19? 14' 00""",1978,Swarna,Nirmal,,TE/PG,24,3204,465,42038,10355,35857,I,2267
+104,AP01MH0109,Gajuladinne Project,,"77? 37' 20""","15? 41' 48""",1979,Handri,Kurnool,,TE,19,4400,-,148780,31988,121196,I,2267
+105,AP01LH0111,Sadasivakona,,"79? 36' 56""","13? 35' 56""",1979,Sadasivakona,Tirupathi,,TE,14.03,619,137,4315,-,-,I,180
+106,AP01HH0112,Pedderu,,"78? 22' 11""","13? 52' 38""",1980,Pedderu,Chittoor,,PG,35,590,122,15857,1999,14974,I,3171
+107,AP01LH0113,"Saddikutimadugu
+Reservoir",,"79? 50' 39""","13? 26' 25""",1980,,Thirupathi,,TE,10.94,800,_,1634,809.72,1634,I,--
+108,AP01MH0114,Gandipalem Project,,"79? 18' 0""","14? 50' 0""",1990,Pillaperu,Nellore,,TE/PG,21,388,815,53277,9460,49452,I,1658

@@ -1,0 +1,32 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+261,AP01MH0274,"Tajangi Reservoir,
+Tajangi(v)",,"82? 29' 45""","17? 52' 30""",NA,,Chintapalli,,TE,17.3,220,-,1360,,1360,I,12500
+262,AP01LH0275,"Teegalavagu Project, Pochampally(V)",,"79? 40' 53""","18? 00' 10""",NA,Godavari,Peddapally,,TE,11,1200,_,4247,320,3610,I,347
+263,AP01LH0276,"Thalla cheru,
+Gambhirpur (V), Metpally (M)",,"78? 44' 40""","18? 41' 10""",NA,,Kathlapur,,TE,10.17,1646,1302,1106,610.2,1106,I,203.33
+264,AP01LH0277,"Ura Tank, S.R.
+Puram",,"79? 09' 00""","15? 00' 30""",NA,Pennar,S.R.Pur,,TE,13.86,869,,1132,-,1132,I,283
+265,AP01LH0278,Veerladevi cheru,,"79? 51' 10""","16? 57' 40""",NA,Local Stream,Huzurnagar,,TE,11,1918,-,5160,-,-,I,354
+266,AP01LH0279,Virupana tank,,"77? 48' 00""","14? 15' 00""",NA,,Kothacheruvu,,TE,12,589,---,144,_,3426,I,6.68
+267,AP01LH0280,Y.T.cheruvu,,"77? 35' 09""","15? 09' 00""",NA,,Guntakal,,TE,10,2078,---,12195.88,5434.65,9381,I,226
+268,AP01LH0281,"Zildartippa,
+Molachintapalli",,"78? 27' 00""","16? 10' 30""",NA,Mahabubnagar,TE,,TE,10,288,-,1582.45,392.5,-,I,212
+269,AP01LH0282,Dharmavaram tank,,"77? 44' 15""","14? 24' 00""",NA,,Dharamavaram,,TE,11,6393,-,13720,6480,10560,I,27402
+270,AP01MH0283,Andra Reservoir,,"83? 12' 09""","18? 21' 0""",2000,Champavathi,Vijayanagaram,,TE,22,1890,-,27750,4406,26400,I,910
+271,AP01HH0284,Bahuda Reservoir,,"78? 51' 52""","13? 15' 21""",U/C,,Kadapa,,TE,31.77,-,-,14060,-,-,-,-
+272,AP01MH0285,Budhpur,,"77? 36' 05""","16? 27' 33""",U/C,,Atmakur,,TE,15,-,-,,-,-,,-
+273,AP01MH0286,Buggavanka Project,,"78? 50' 15""","14? 23' 51""",2001,Buggavagu,Cuddapah,,TE/PG,26,2060,747,14320,1566,12040,I,926
+274,AP01MH0287,Chagallu Barrage,,"77? 49' 45""","14? 55' 10""",U/C,Penna,Anantapur,,PG,21.43,291.5,,50940,,,I,9712
+275,AP01LH0288,"Chelamelavagu
+(N.T.R. Sagar)",,"79? 15' 00""","19? 9' 10""",U/C,Chelmelavagu,Adilabad,,TE,10,950,,1676.34,1156.9,1676,I,
+276,AP01MH0289,"Cheyyeru Project
+(Annamayya )",,"79? 01' 15""","14? 12' 06""",U/C,Pennar,Cuddapah,,TE,25,409,653,63473,7600,44890,I,8069
+277,AP01HH0290,"Gorakallu Balancing
+Reservoir",,"78? 24' 45""","15? 33' 36""",U/C,Mallama selavagu,Nandyal,,PG,48.5,1731,-,352052,-,-,I,848
+278,AP01MH0292,Gundlavagu Project,,"80? 33' 12""","18? 23' 52""",U/C,Gundlavagu,Khammam,,TE/PG,18,557,433,2460,307,2354,I,452
+279,AP01**0293,"Hiramandalam
+Reservoir",,"83? 57' 00""","18? 40' 00""",U/C,Vamsadhara,Srikakulam,,PG,,200,-,539115,,464969,I,667
+280,AP01LH0294,"Indirammasagar,
+Anajpur",,"78? 41' 30""","17? 25' 27""",U/C,Musi,Hyderabad,,TE,11.87,1189,-,1330,26,-,I,958

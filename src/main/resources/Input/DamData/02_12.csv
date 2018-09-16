@@ -1,0 +1,38 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+239,AP01LH0251,"Pedda Rayala
+Cheruvu",,"78? 52' 08""","16? 16' 17""",NA,,Peddapanjani,,TE,12,800,_,1136.91,621.5,1137,I,_
+240,AP01MH0252,"Pedda Tippa
+Samudram Tank",,"78? 10' 00""","13? 43' 30""",NA,,Cumbum,,TE,15.39,1550,-,6969,5406,6969,I,473.79
+241,AP01LH0253,"Peddayetivanka,
+Annupal",,"79? 16' 42""","13? 28' 53""",NA,Peddayetivanka,Chittoor,,TE,12.11,235,-,370,-,311,I,82
+242,AP01LH0254,Peruru tank,,"79? 36' 31""","13? 22' 30""",NA,,Thirupathi,,TE,10,2520,_,1689,809.72,1684,I,--
+243,AP01MH0255,Perval Project,,"79? 01' 30""","16? 47' 03""",NA,,P.A. Pally,,TE,15,,-,4278,-,3174,I,-
+244,AP01MH0256,"Polkicheru, Pangal",,"78? 07' 20""","16? 15' 45""",NA,,Mahabubnagar,,TE,15.7,707,-,1296,447,-,I,-
+245,AP01LH0257,"Rai Rao Cheru,
+Narsapur",,"78? 17' 10""","17? 42' 30""",NA,Local Stream,Narsapur,,TE,11.02,488,-,,913.6,-,I,84
+246,AP01LH0258,"Rallakalva,
+Kaliyambaka",,"79? 44' 11""","13? 19' 18""",NA,Rallakalva,Chittoor,,TE,10,1515,81.1,664.9,-,561,I,73
+247,AP01LH0259,Rangasamudram,,"79? 03' 0""","16? 12' 0""",NA,Papagni,Chittoor,,TE,14.02,1676,-,9942,2702,-,I,233
+248,AP01LH0261,Rasulacheru,,"78? 38' 34""","16? 16' 0""",NA,,Hyderabad,,TE,11,1558,-,1293,-,-,I,145
+249,AP01MH0262,"Rao Cheruvu,
+Rajupalem",,"78? 56' 31""","15? 9' 35""",NA,,Badvel,,TE,16,460,,5650,1820,5650,I,113.83
+250,AP01LH0263,Rayalacheruvu,,"77? 15' 00""","15? 05' 30""",NA,Pennar,Yadiki,,TE,10,920,260,2391.35,2323,1840,I,21
+251,AP01LH0264,"Sankarayalapeta
+Tank",,"78? 36' 31""","13? 13' 56""",NA,,Peddapanjani,,TE,13,2000,_,4990.8,2272.5,4991,I,_
+252,AP01LH0265,Seethacheru,,"78? 49' 14""","13? 23' 51""",NA,Local Stream,Chittoor,,TE,11.83,515,-,2427,775.48,2416,I,104
+253,AP01LH0266,"Singaraya project,
+Kurella(V),",,"79? 02' 51""","18? 09' 49""",NA,,Kogheda,,TE,10.67,1780,_,2940,,2940,I,3.05
+254,AP01LH0267,"Singasamudram
+tank, Yellareddypet
+(V)",,"78? 35' 50""","18? 21' 00""",NA,,Yellareddypet,,TE,12,2372.5,10500,8820,718,8820,I,197.02
+255,AP01LH0268,Sirala Project,,"77? 53' 35""","19? 04' 30""",NA,,Bhainsa,,TE,10,767,,3766.1,600,3389,I,432.17
+256,AP01LH0269,"Sreerangarayani
+cheruvu",,"77? 18' 00""","14? 47' 00""",NA,,Singanamala,,TE,11.71,2378.76,---,39240.49,10712.3,30185,I,992
+257,AP01LH0270,"Srivari Samudram,
+Singotam",,"78? 16' 47""","16? 10' 0""",NA,Kalawakolevagu,Hyderabad,,TE,14,1105,-,16.36,1095,15,I,0.5
+258,AP01LH0271,"Stambala cheru,
+Yakeenpur (V)",,"78? 38' 00""","18? 46' 00""",NA,,Korutla,,TE,10.1,1600,6790,5771,685,5771,I,393.94
+259,AP01LH0272,Swamy Tank,,"79? 07' 30""","14? 59' 30""",NA,Pennar,S.R.Pur,,TE,11.58,375,,1234,--,1234,I,56.35
+260,AP01LH0273,T.Sundupalli Tank,,"79? 09' 23""","14? 39' 12""",NA,,Badvel,,TE,10,1100,,1570,520,1570,I,685.26

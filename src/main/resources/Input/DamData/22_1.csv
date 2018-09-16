@@ -1,0 +1,9 @@
+Sl    No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam,Latitude of dam,Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m 3),Gross Storage capacity (103 m 3),"Reservoir Area
+(103 m 2)",Effective Storage capacity (103 m 3),Purpose,Designed Spillway capacity (m3/sec)
+1,MN21MH0001,KHOUPUM,,93°32'0.62'' E,24°39'41.80'' N,1980,Machengdui,Imphal,V,TE,17.11,530,400,2780,840,2470,I,159
+2,MN21MH0002,SINGDA,,93°48'24'' E,24°52'30'' N,1995,Singda,Imphal,V,TE,60.5,490,3200,9710,510,8510,I/H/S,557.84
+3,MN21HH0003,KHUGA,,93°50'00'' E,24°00'00'' N,2010,Khuga,Imphal,V,TE,38,300,663.7,86080,7000,60400,I/H/S,1844
+4,MN21HH0004,KHUGA,,,,U/C,,"Mata
+Village",,TE,36,,,88800,,,,
+5,MN21HH0005,THOUBAL,,,,U/C,Thoubal,Imphal,,TE,66,1074,9192,176380,12150,124580,I/H/S,2240

@@ -1,0 +1,31 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+1,AP01MH0001,Cumbhum,,"79? 50' 00""","15? 34' 30""",1500,Gundlakama,Ongole,,TE,18,384,,105330,23327,95650,I,113
+2,AP01MH0002,Shanigram,,"79? 50' 00""","18? 12' 00""",1891,Shanigram,Karimnagar,,TE,16,908,1808,30946,6673,29040,I,401
+3,AP01MH0003,"Large Tank,Peddamallareddy",,"78? 27' 57""","18? 10' 00""",1892,Godavari,Nizamabad,,TE,15.5,,,,,,I,
+4,AP01MH0004,"Large Tank,
+Kachapur",,"78? 20' 45""","18? 10' 00""",1896,Godavari,Armoor,,TE,15,1260,,4120,1000,3502,I,112.13
+5,AP01MH0005,"Large Tank,
+Kamareddy",,"78? 20' 00""","18? 10' 00""",1897,Godavari,Nizamabad,,TE,17,1890,,4967,2551,4222,I,250.8
+6,AP01LH0006,"Large Tank,
+Jangampally",,"78? 20' 30""","18? 11' 30""",1898,Godavari,Nizambad,,TE,14,1110,-,1716,663,1458,I,73.9
+7,AP01MH0007,"Large Tank, Adloor
+Yellareddy",,"78? 18' 30""","18? 21' 30""",1901,Godavari,Armoor,,TE,18,1959,,3511,2108,2984,I,194.63
+8,AP01MH0008,Pakhal Lake,,"79? 59' 05""","17? 59' 11""",1902,,Warangal,,TE,15,1494,-,95965,-,-,I,590
+9,AP01LH0009,"Mallareddy Cheru,
+Bhiknoor",,"78? 02' 30""","18? 15' 20""",1905,Godavari,Nizamabad,,TE,13,1020,,2244,1235,1907,I,140.28
+10,AP01LH0010,Udayasamudram,,"79? 18' 40""","17? 05' 0""",1906,Local Stream,Nalgonda,,TE,10,2987,-,13460,4840,-,I,335
+11,AP01LH0011,"Choudari Cheru,
+Polkampet",,"78? 10' 00""","18? 12' 10""",1908,Godavari,Nizamabad,,TE,14,1710,,1840,951,1564,I,75.27
+12,AP01MH0012,Lakhnavaram Tank,,"80? 04' 0""","18? 08' 0""",1909,Lakhnavaram,Warangal,,TE,15,733,-,60512,2494,47420,I,614
+13,AP01LH0013,Dondapadu tank,,"79? 36' 54""","16? 04' 34""",1910,Godavari,Vinukonda,,TE,10.3,720,-,7263,2640,6537,I,210
+14,AP01MH0014,"Large Tank, Bibipet",,"78? 00' 00""","18? 11' 30""",1911,Godavari,Nizamabad,,TE,18,,,4007,2065,3406,I,282.4
+15,AP01LH0015,"Pedda Cheru,
+Vellutla",,"78? 02' 00""","18? 13' 20""",1912,Godavari,Nizamabad,,TE,14,660,,2660,1133,2261,I,50.19
+16,AP01MH0016,"Large Tank, Pulkal",,"77? 47' 27""","18? 22' 09""",1918,Godavari,Nizamabad,,TE,15.06,1020,,2504,1109,2129,I,64.56
+17,AP01LH0017,"Large tank, Uppalwai",,"78? 19' 35""","18? 25' 47""",1918,Godavari,Nizamabad,,TE,12,1140,,1076,445,915,I,147.25
+18,AP01MH0018,Ramappa Lake,,"79? 56' 31""","18? 15' 0""",1919,Manair,Warangal,,TE,17,-,-,152939,-,82477,I,113
+19,AP01MH0019,Siddapuram Tank,,"78? 41' 28""","15? 51' 37""",1919,Bhavana,Kurnool,,TE,19,4904,-,24740,-,-,I,492
+20,AP01MH0020,Mopad Reservoir,,"79? 31' 0""","15? 06' 20""",1921,Manneru,Ongole,,TE,28,2630,401,65316,13073,59216,I,1923
+21,AP01HH0021,Alair Reservoir,,,,1922,Alair Stream,Medak,,PG,30,-,-,16187,-,-,I,658

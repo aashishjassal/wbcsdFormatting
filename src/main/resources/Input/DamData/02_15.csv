@@ -1,0 +1,31 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+298,AP01LH0312,Palair Reservoir,,"79? 54' 0""","17? 12' 12""",U/C,Paleru,Ongole,,TE/PG,11,156,-,24635,-,16527,I,4842
+299,AP01LH0313,Palemvagu,,"80? 35' 23""","18? 20' 24""",U/C,Palemvagu,Khammam,,PG,13,230,-,,0.15,-,I,1416
+300,AP01MH0314,"Peddagedda
+Reservoir",,"83? 06' 65""","18? 28' 05""",U/C,Peddagedda,Vizayanagaram,,TE,24,2430,-,,-,-,-,-
+301,AP01HH0315,"Penna Ahobilam (Dr.
+K.S.P.A.B.R.)",,"77? 18' 00""","14? 47' 00""",U/C,Pennar,Anantapur,,TE/PG,46,2060,865,314000,71440,305000,I/H,4662
+302,AP01HH0316,Pulichintala Project,,"81? 03' 33""","16? 46' 14""",U/C,Krishna,Jaggayyaoeta,,PG,37.24,934,-,1295291,-,1047666,I,57700
+303,AP01HH0317,Relampadu,,"77? 39' 16""","16? 21' 51""",U/C,,Gadwal,,TE,30,-,-,113266.3,-,-,-,-
+304,AP01MH0318,Sathnala,,"78? 39' 34""","19? 38' 48""",U/C,Adilabad,TE,,TE,22,2815,-,35140,6650,31340,I,1275
+305,AP01HH0319,Singur,,"77? 56' 0""","17? 45' 0""",U/C,Manjira,Hyderabad,,TE/PG,33,7520,2694,85071,164380,566781,S,22104
+306,AP01LH0320,Sri Ramathirtham,,"79? 47' 54""","15? 37' 52""",U/C,"Ongole branch
+canal of N S P",Ongole,,TE,12.5,-,-,,-,-,-,-
+307,AP01MH0321,"Sripada Sagar
+(Yellampally Project)",,"79? 23' 39""","18? 50' 45""",U/C,Godavari,Manchiryal,,PG,26.3,1180.7,-,,-,-,I,55900
+308,AP01LH0322,Suryanarayanacheru,,"78? 37' 51""","17? 28' 58""",U/C,Musi,Hyderabad,,TE,10.35,1142,-,1210,-,755,I,311
+309,AP01VH0323,"Swarnamukhi
+Barrage",,"80? 04' 11""","14? 00' 25""",2008,Swarnamukhi,Nellore,,PG,-,-,-,,-,-,-,-
+310,AP01MH0324,Tatikunta,,"77? 38' 21""","16? 05' 28""",U/C,0,Gadwal,,TE,17.9,55,-,,-,-,-,364.4
+311,AP01MH0325,Thotapally Barrage,,"83? 25' 24""","18? 47' 30""",U/C,Nagavali,Vizayanagaram,,TE,23,-,-,,-,-,-,-
+312,AP01MH0326,"Urakagedda Reservoir, Sankaram (V),Madugula(M)",,"82? 43' 00""","17? 56' 15""",U/C,,Visakhapatnam,,TE,25,515,-,2160,,2160,I,15651
+313,AP01LH0327,Vadiyalacheru,,"78? 54' 28""","13? 18' 50""",U/C,Local Stream,Chittoor,,TE,11.21,1450,72,992,346,889,I,380
+314,AP01LH0328,Vanaka Badigedda,,"83? 25' 08""","18? 53' 55""",U/C,"Vanaka
+Badigedda",Komarada,,TE,13,630,1.99,56317,-,-,-,-
+315,AP01MH0329,"Varadharajuswami
+Gudi",,"78? 38' 50""","15? 58' 30""",U/C,"Munimadugulavag
+u",Kurnool,,TE/PG,22,588,-,11020,1324,10210,I,1025
+316,AP01VH0330,Veligonda Project,,"78? 52' 30""","16? 02' 09""",U/C,Krishna,Ongole,,PG,-,-,-,,-,-,-,-
+317,AP01MH0331,Vengalaraya Sagar,,"83? 12' 09""","18? 38' 56""",1998,Pennar,Vizayanagaram,,TE,21,4138,2707,47570,7690,42330,I,2455

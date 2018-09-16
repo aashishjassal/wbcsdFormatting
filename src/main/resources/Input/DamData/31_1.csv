@@ -1,0 +1,52 @@
+"Sl
+No",Project Identification Code,Name of Dam,Year of completion,River,Nearest city,Type of dam,Height above lowest foundation,Length of dam,Volume content of dam,Gross Storage capacity,"Reservoir
+Area",Effective Storage capacity,Purpose,Designed Spillway capacity
+1,KL12HH0001,Periyar *,1895,Mullai Periyar,Kumily,PG,52.12,365.85,221,443234.6,26440,299131,I/H,3454
+2,TN12HH0002,Pechipparai,1906,Kodaiyar,Kuzhithurai,PG,47.54,425.5,123,150162.1,15150,123107.8,I,1104
+3,TN12MH0003,Willingdon,1923,Periyar odai,Thittagudi,TE,17.22,4300,3879,73400,15540,60010,I,384
+4,TN12MH0004,Glenmorgan,1930,Glenmorgan stream,Uthagamandalam,PG,16,80,7.12,740,166,-,H,46
+5,TN12HH0005,Mettur,1934,Cauvery,Salem,PG,65.23,1615.4,1546,2707128,153460,2645201,I/H/S,12904.8
+6,TN12HH0006,Pykara,1935,Pykara,Uthagamandalam,PG,56,193,-,56630,-,55080,H,877
+7,TN12HH0007,Mukurthi,1938,Mukurthi,Uthagamandalam,PG,34,162,34.63,50980,-,50710,H,425
+8,TN12HH0008,Thambaraparani,1943,Thambaraparani,Ambasamudaram,PG,66,227,1352,155800,5800,149430,H/I,2549
+9,TN12MH0009,Papanasam Div weir,1944,Thambaraparani,Ambasamudaram,PG,18,409,-,1387,620,790,H/I,4249
+10,TN12LH0010,Poondi,1944,Kosasthalaiyar,Chennai,TE/PG,45.42,8354.7,3980,91437,32630,91147,S,3385
+11,TN12MH0011,Maravakandy,1947,Avarihalla,Uthagamandalam,TE/PG,22,415,20,822,-,-,H,312
+12,TN12MH0012,Moyar forebay,1951,Moyar,Uthagamandalam,TE/PG,22,731,-,170,-,-,H/S,130
+13,TN12HH0013,Perunchani,1952,Paraliyar,Kuzhithurai,PG,36.27,373.01,51,81787,9620,81787,I,895
+14,TN12HH0014,Bhavanisagar,1955,Bhavani,Mettupalayam,TE/PG,62.18,8797,4960,929000,78760,908000,I,4043
+15,TN12HH0015,Amaravathi,1958,Amaravathi,Udumalpet,TE/PG,50,1093,1671,114600,9065,109360,I/H,4062
+16,TN12MH0016,Krishnagiri,1957,Pennaiyar,Krishnagiri,TE/PG,28.05,1002.79,509,47156,12480,47156,I,4233.84
+17,TN12HH0017,Manimuthar,1958,Manimuthar,Ambasamudaram,TE/PG,45.73,2927.6,4582,155961.3,9400,155961.3,I,1699.2
+18,TN12HH0018,Periyar forebay,1958,Vairavanar,Theni,PG,38,88,27,90.6,-,-,H,54
+19,TN12HH0019,Sathanur,1957,Pennaiyar,Thiruvannamalai,TE/PG,44.81,786.38,363,228910,20100,-,I/H/S,5660
+20,TN12HH0020,Vaigai,1958,Vaigai,Andipatti,TE/PG,32.31,3560,1586,172375.3,24190,172375.3,I/S/H,1780
+21,TN12MH0021,Vidur,1959,Varahanadhi,Dindivanam,TE/PG,22.55,4511,530,17122,7980,17122,I,1786.43
+22,TN12HH0022,Avalanche,1961,Avalanche stream,Uthagamandalam,PG,57,366,326,156200,8060,152800,H,705
+23,TN12HH0023,Emerald,1961,Emerald,Uthagamandalam,PG,65,323,325,156200,8060,152800,H,?
+24,TN12HH0024,Kundahpallam,1961,Kundah,Uthagamandalam,PG,32,152,45,1760,,1560,H,1557
+25,TN12HH0025,Aliyar,1962,Aliyar,Pollachi,TE/PG,44.19,3200.4,2940,109420,6500,106120,I,1161
+26,TN12HH0026,Sandynallah,1963,Sandynallah stream,Uthagamandalam,PG/TE,36,107,-,26620,-,23110,H,312
+27,TN12MH0027,Bungihallah bund,1965,Bhavani,Uthagamandalam,TE,23,280,224,-,-,-,H,?
+28,TN12MH0028,Gomukhinadhi,1965,Gomukhinadhi,Kallakurichi,TE/PG,24.08,2095.72,620,15875,3600,14682,I,1472.23
+29,TN12HH0029,"Pegumbahallah
+Forebay",1965,Pegumbahallah,Mettupalayam,PG,55,181,121,1070,63,1030,H,457
+30,TN12MH0030,Sathaiyar,1965,Sathaiyaru,Madurai,TE/PG,14.93,409.63,-,1584.8,9350,1584.8,I,274.85
+31,KL12HH0031,*Thunakadavu,1965,Thunakadavu,Pollachi,TE/PG,25.91,344.42,244,15770,4320,9060,I/H,495.25
+32,TN12HH0032,Upper Bhavani,1965,Bhavani,Uthagamandalam,PG,80,419,419,101200,4550,85200,H,467
+33,TN12MH0033,Upper Bhavani pumping weir,1965,Bhavani,Uthagamandalam,PG,19,12,-,650,-,319.9,H,548
+34,TN12HH0034,Parson Valley,1966,Parson's valley,Uthagamandalam,PG,43,146,54,19250,1670,17190,H/S,273
+35,TN12MH0035,Nirallapallam,1966,N.pallam,Mettupallayam,PG,18,60,-,-,-,-,H,519
+36,TN12HH0036,Porthimund,1966,Porthimund stream,Uthagamandalam,PG,56,369,206,60000,2840,45730,H,241
+37,TN12MH0037,"Western
+Catchment Weir-I",1966,Arickyampuzha,Uthagamandalam,PG,18,72,2.75,126,-,123,H,106
+38,TN12HH0038,"Western
+Catchment Weir-II",1966,Karampuzha,Uthagamandalam,PG,30,85,18,549,-,396,H,107
+39,TN12MH0039,"Western
+Catchment Weir-III",1966,Karampuzha,Uthagamandalam,PG,26,92,13,60,-,-,H,151
+40,TN12MH0040,East Varahapallam weir,1967,E.V.Pallam,Uthagamandalam,PG,18,173,20,400,-,-,H,348
+41,TN12MH0041,Manjalar,1968,Manjalar,Periakulam,TE/PG,28.28,1045.84,591,13792.01,1970,13792.01,I,331.3
+42,KL12HH0042,*Parambikulam,1967,Parambikulam,Pollachi,TE/PG,73.15,897.33,69165,504660,20720,381030,I,1687.31
+43,TN12HH0043,Pillur,1967,Bhavani,Mettupalayam,PG,88,357,488,44400,2600,34970,H/S,2830
+44,TN12HH0044,Thirumurthi,1967,Palar,Udumalpet,TE/PG,34.14,2679.79,354,54790,3880,49390,I,447.65
+45,TN12HH0045,West Varahapallam weir,1967,W.V.pallam,Uthagamandalam,PG,35,92,21,1360,30,-,H,187

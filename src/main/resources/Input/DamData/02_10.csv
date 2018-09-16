@@ -1,0 +1,40 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+196,AP01LH0205,"Large tank,
+Mustabad (V)",,"78? 43' 00""","18? 16' 45""",NA,,Mustabad,,TE,10.2,1650,1869,1588,601,1588,I,60
+197,AP01LH0206,"Large Tank, Raviryal",,"78? 00' 22""","17? 13' 08""",NA,,Hyderabad,,TE,12,2132,-,14420,-,-,I,177
+198,AP01LH0208,"Large Tank,
+Shamirpet",,"78? 34' 44""","17? 36' 00""",NA,,Hyderabad,,TE,12,1680,-,15960,-,-,I,509
+199,AP01LH0209,"Large Tank, Thoor",,"77? 39 00""","17? 06' 0""",NA,Peddavagu,Hyderabad,,TE,11.75,854,142.55,450,3700,315,I,68
+200,AP01LH0210,"Large tank, Vilasagar
+(V)",,"78? 57' 30""","18? 28' 00""",NA,,Boinpally,,TE,10,1500,3409.3,2548,834,2548,I,135
+201,AP01LH0211,"Laxmancheru,
+Chintapalli",,"78? 47' 30""","17? 00' 30""",NA,Lower Krishna,Hyderabad,,TE,10,722,-,1491,294,-,I,76
+202,AP01LH0212,Laxmisagar project,,"78? 00' 35""","18? 31' 55""",NA,Godavari,Bodhan,,TE,11.2,1010,97,2644,_,2380,I,187
+203,AP01LH0213,M.V. Reservoir,,"79? 11' 15""","15? 58' 08""",NA,Pennar,S.R.Pur,,TE,13.4,721,,1040,--,1040,I,679.6
+204,AP01LH0214,Madakasira,,"77? 17' 20""","13? 55' 30""",NA,,Madakasira,,TE,12,686,---,3972,933,3056,I,82.89
+205,AP01LH0215,"Mailacheru,
+Salarnagar",,"77? 47' 00""","16? 59' 00""",NA,,Hyderabad,,TE,11,929,-,551,375,-,I,26
+206,AP01LH0216,"Malikacheru,
+Mamdavad",,"77? 54' 30""","16? 53' 00""",NA,,Hyderabad,,TE,11,472,-,1435,421,-,I,85
+207,AP01MH0217,"Medi cheru, Adavi
+srirampur(V)",,"79? 46' 52""","18? 36' 43""",NA,Godavari,Peddapally,,TE,20,2031,_,2228,143,1894,I,58
+208,AP01LH0218,Melammacheru,,"78? 48' 10""","16? 33' 56""",NA,Local Stream,Deverkonda.,,TE,11,610,-,2730,1074,-,I,92
+209,AP01MH0219,"Mulavagu Project,
+Nimmapally (V)",,"78? 38' 00""","18? 31' 30""",NA,,Konaraopet,,TE,21,749,7835,5970,603,5970,I,633.35
+210,AP01LH0220,"Mupparam tank,
+Thippannapet(V)",,"78? 56' 40""","18? 49' 00""",NA,,Jagtial,,TE,10.4,2378,1091,938.75,251,939,I,60
+211,AP01LH0221,Muthyalacheruvu,,"78? 07' 15""","14? 05' 45""",NA,,Dharmavaram,,TE,11,838,---,2847,1172,2190,I,297.44
+212,AP01LH0223,"Namaz cheru,
+Gambhiraopet (V)",,"78? 84' 00""","18? 18' 30""",NA,,Gambhiraopet,,TE,10.56,1768,1010,858,420,858,I,73
+213,AP01LH0225,Panthulu cheruvu,,"78? 12' 00""","14? 02' 00""",NA,,Nalla cheruvu,,TE,12,923,---,6790,2300,5230,I,140
+214,AP01LH0226,"Patirajam Project,
+Jellella (V)",,"78? 47' 58""","18? 16' 18""",NA,,Sircilla,,TE,10.1,860,2047,1518,287.3,1518,I,22.24
+215,AP01LH0227,"Pattikondavanka,
+Guttava",,"79? 50' 23""","13? 28' 36""",NA,,Chittoor,,TE,12.48,580,-,547,-,346,I,59
+216,AP01LH0228,Paya Cheruvu,,"78? 27' 00""","13? 26' 32""",NA,,Ramasamudram,,TE,14,200,_,1557.41,221.5,1557,I,_
+217,AP01LH0229,"Peddabadava,
+Tulasikrishan",,"79? 44' 38""","13? 26' 40""",NA,Peddabadava,Chittoor,,TE,10.74,571,118,516,176.84,452,I,31
+218,AP01LH0230,"Pedda Cheru,
+Challasamudram",,"80? 15' 21""","17? 34' 38""",NA,,Kothagudem,,TE,12.2,700,-,,-,-,I,122

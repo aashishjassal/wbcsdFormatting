@@ -1,0 +1,17 @@
+Sl    No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam,Latitude of dam,Year of completion,River,Nearest city,seismic zone,Type of dam,"Height above
+lowest foundation (m)",Length of dam (m),Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir
+Area (103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+191,OR10MH0191,DUNGURI M.I.P,,,,2004,Dunguri nalla,Koraput,-,TE,18.12,242.2,,370,82.5,330,I,54
+192,OR10LH0192,MADHABINALLA M.I.P,,,,2004,Madhabi nalla,Baripada,-,TE,10.79,594,,,670,,I,170.5
+193,OR10LH0193,KATANGANALLAH M.I.P,,,,2006,Dudunga nalla,Sundergarh,-,TE,14.33,600,,1608,32,1108,I,175
+194,OR10MH0194,BARGAONMAL M.I.P,,,,2006,Dungajore nalla,Sundergarh,-,TE,15.1,750,,2750,45.53,2250,I,180
+195,OR10MH0195,MALKENNALLA M.I.P,,,,2006,Malken nalla,Padampur,-,TE,16.54,930,,2230,0.69,1710,I,
+196,OR10LH0196,NARAYANSAGAR M.I.P,,,,N.A,Kainfulia nalla,Patrapur,-,TE,11,865,,520,311.2,520,I,179.08
+197,OR10LH0197,JAGANNATHSAGAR,,,,N.A,Local nalla,Jeypore,-,TE,10,846,,1885,618.9,979,I/S,53.67
+198,OR10MH0198,BURBINAJU M.I.P,,,,N.A,,Tikabali,-,TE,18.36,366,,100.26,,,,114.33
+199,OR10HH0199,BAGHALATI DAM,,"840 - 23' - 40"" E","190 - 08' - 36"" N",U/C,,Ganjam,-,TE,39,1645,,43210,,38910,I,1522
+200,OR10MH0200,MANJORE IRR. PROJECT,,,,U/C,Manjore,Athamalik,-,TE,28,2090,,100770,14600.55,85240,,4431
+201,OR10LH0201,TITILAGARH IRR. PROJECT,,,,U/C,Kankadajore nalla,Titilagarh,-,TE,14,2500,,13380,4350,10860,,850
+202,OR10MH0202,LOWER INDRA. IRR. PROJECT,,"820 - 38' - 45""E","200  - 23' - 30""N",U/C,Indra,Nuapada,-,TE,22,3780,,321635,47660,314252,,6831
+203,OR10HH0203,KANUPUR IRR. PROJECT(Major),,,,U/C,Baitarani,Champua,-,TE,39.5,3460,,331000.02,26000,268970,,14450
+204,OR10HH0204,TELENGIR IRR. PROJECT,,,,U/C,Telengir,Jeypore,-,TE,43,1192,,74400,5000,68230,,2281

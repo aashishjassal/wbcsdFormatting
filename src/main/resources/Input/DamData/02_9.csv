@@ -1,0 +1,39 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+175,AP01MH0184,"Janganala project,
+Jagdevpur",,"77? 50' 00""","18? 12' 30""",NA,Godavari,Peddapally,,TE,17,1122,_,4990,281,4410,I,34966
+176,AP01LH0185,Kakarvani Project,,"77? 46' 20""","17? 07' 13""",NA,,Mahabubnagar,,TE,12.96,2378,-,,-,-,I,474
+177,AP01LH0186,"Kampasamudram
+New Tank",,"79? 34' 30""","14? 48' 00""",NA,Pennar,Marripuda,,TE,11.2,1830,,2163,--,2163,I,208.82
+178,AP01LH0187,Kesavari Samudram,,"78? 09' 15""","16? 29' 15""",NA,Nallavagu,Hyderabad,,TE,10.02,1389,-,8150,5042,7330,I,302
+179,AP01LH0188,Koduru Reservoir,,"77? 43' 34""","13? 51' 53""",NA,,Guntakal,,TE,10,796,---,1901,1170,1464,I,21.24
+180,AP01LH0189,"Kondasamudram
+tank, Gudem(V)",,"78? 42' 30""","18? 18' 20""",NA,,Mustabad,,TE,10,1703,1755,1509,451,1509,I,173.3
+181,AP01LH0190,"Kothacheru,
+Mamdabad",,"77? 55' 15""","16? 52' 30""",NA,Lower Krishna,Hyderabad,,TE,10.01,873,-,675.4,427.2,-,I,53
+182,AP01MH0191,Kushavathi Reservoir,,"78? 31' 45""","13? 51' 15""",NA,Khushavathi,Cuddapah,,TE/PG,17.47,1030,-,2900,77280,2500,I,739
+183,AP01LH0192,"Large tank,
+Baithapally(V)",,"80? 52' 0""","17? 13' 0""",NA,"Thammileru
+Stream",Khammam,,TE,10.5,2552,-,8143,-,-,I,765
+184,AP01LH0193,"Large tank,
+Bhitapally(V)",,"79? 40' 44""","18? 36' 27""",NA,Godavari,Peddapally,,TE,10,1180,-,1417,95,1134,I,163
+185,AP01LH0194,"Large tank,
+Brahmanpally",,"77? 53' 29""","18? 12' 02""",NA,Godavari,Bodhan,,TE,11.2,2500,75.1,3200,_,2880,I,114
+186,AP01LH0195,"Large Tank,
+Garepally(V), Sultanabad(M)",,"79? 18' 00""","18? 29' 00""",NA,Godavari,Peddapally,,TE,13,1809,-,8041,183,6806,-,-
+187,AP01LH0196,"Large Tank,
+Mariapally",,"78? 06' 38""","19? 08' 50""",NA,,Boath,,TE,13.8,624,,2640,222.5,2376,I,68
+188,AP01MH0197,"Large Tank,
+Sultanabad(V&M)",,"79? 19' 30""","18? 72' 30""",NA,Godavari,Peddapally,,TE,24,1574,-,4203,-,3824,-,-
+189,AP01LH0198,"Large Tank, Garla",,"80? 59' 06""","17? 51' 0""",NA,Kamepalli Anicut,Mahabubabad,,TE,10.34,1500,-,19378.24,8646.27,-,I,188
+190,AP01LH0199,"Large Tank,",,"77? 38 00""","17? 04' 0""",NA,Local vagu,Hyderabad,,TE,11.5,1787,137.31,5610,4676,3976,I,167
+191,AP01LH0200,"Large Tank,
+Ibrahimpatnam",,"78? 38' 00""","17? 12' 00""",NA,,Hyderabad,,TE,13,930,-,1901,324,928,I,82.49
+192,AP01LH0201,"Large tank,
+Indalwai(V)",,"78? 13' 09""","18? 32' 15""",NA,Godavari,Nizambad,,TE,13,1400,169.3,3950,_,3350,I,
+193,AP01LH0202,"Large tank,
+Kapuram(V)",,"79? 40' 53""","18? 00' 10""",NA,Godavari,Peddapally,,TE,12,780,_,1415,120,1132,I,236
+194,AP01LH0203,"Large tank, Khajar(V)",,"78? 08' 08""","18? 35' 16""",NA,Godavari,Nizamabad,,TE,13.7,1920,252.3,7130,_,6000,I,444
+195,AP01LH0204,"Large tank,
+Manchippa(V)",,"78? 28' 30""","18? 09' 45""",NA,Godavari,Nizamabad,,TE,13.5,1000,,9522,_,8000,I,23

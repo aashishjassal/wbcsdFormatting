@@ -1,0 +1,31 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+22,AP01HH0022,Pocharam,,"78? 11' 0""","18? 07' 08""",1922,Alair Stream,Nizamabad,,TE/PG,31,1311,-,51580,16835,42562,I,1984
+23,AP01LH0023,"Seethai cheru,
+Seethaipally",,"78? 12' 30""","18? 10' 02""",1922,Godavari,Vinukonda,,TE,11,1020,-,1203,405,1023,I,50.6
+24,AP01LH0024,Royanpalli,,"78? 22' 00""","18? 05' 0""",1926,Pushpalavagu,Medak,,TE,12,1280,-,,881,-,-,103
+25,AP01HH0025,Himayatsagar,,"78? 20' 0""","17? 20' 0""",1927,Eesa,Hyderabad,,PG,34,2256,-,189645,19700,182183,S,4534
+26,AP01LH0026,"Large Tank,
+Dharmaraopet",,"78? 14' 06""","18? 23' 59""",1928,Godavari,Nizamabad,,TE,13,930,,1091,324,928,I,82.49
+27,AP01MH0027,Palair,,"79? 54' 12""","17? 12' 12""",1928,Palair,Khammam,,TE,21,3697,-,72453,17268,66188,I,2743
+28,AP01MH0028,"Large Tank,
+Bayyaram",,"80? 10' 15""","17? 35' 16""",1930,Kambalapallivagu,Mahabubabad,,TE,15.8,1800,-,116706,7290,90240,I,1331
+29,AP01MH0029,Wyra Project,,"80? 20' 30""","17? 11' 45""",1930,Wyra,Madhira,,TE,27,2354,-,70000,-,60000,I,1075
+30,AP01HH0030,Nizam Sagar,,"78? 56' 0""","18? 10' 0""",1931,Manjira,Nizamabad,,TE/PG,48,5670,867,504435,146360,-,I/H,15927
+31,AP01LH0031,Singotam,,,,1931,Narvavelly,Hyderabad,,TE,14,960,-,12000,-,-,I,-
+32,AP01MH0032,Pendlipakala,,"78? 59' 0""","16? 40' 0""",1938,Uppuvagu,Nalgonda,,TE,19,1366,-,15331,3943,14538,I,1081
+33,AP01LH0033,Thippayapalem Tank,,"79? 10' 00""","15? 41' 23""",1938,-,Marakapur,,PG,10,-,-,5125,-,5125,I,-
+34,AP01LH0035,Singhabhoopalem,,"80? 36' 00""","17? 29' 30""",1940,Godamavagu,Kothagudem,,TE,10.5,1500,-,1083.12,3683.63,-,I,773
+35,AP01LH0036,"Peddacheru,
+Ragaboinagudem",,"80? 22' 03""","17? 31' 19""",1942,"Ragaboinagudem
+vagu",Kothagudem,,TE,13.3,1200,-,6240,3922.5,4437,I,134
+36,AP01MH0037,Dindi Project,,"78? 44' 0""","16? 32' 0""",1943,Dindi,Deverkonda.,,TE,25,2329,,59071,,38505,I,7694
+37,AP01LH0038,Markapur Tank,,"79? 16' 40""","15? 43' 54""",1945,Mondivagu,Ongole,,TE,10,1569,-,6173,-,5103,I,75
+38,AP01LH0039,"Owk Reservoir
+complex (Palair, Gollaleru,Timmaraju)",,"78? 07' 0""","15? 12' 0""",1946,Paleru,Banaganpalli,,TE,10.15,622,-,,808270,2460,I,128
+39,AP01HH0040,Upper Manair,,"78? 33' 00""","18? 16' 00""",1950,Manair and Kudlair,Kamirnagar,,TE/PG,31,9201,1724,62387,15290,61439,I,5668
+40,AP01MH0041,Venkamma cheroo,,"81? 06' 45""","17? 17' 00""",1950,,Aswaropeta,,TE,18,1360,1.15,1300,8092,1300,I,336.95
+41,AP01LH0042,"Oora Cheru,Yadaram",,"78? 32' 00""","18? 13' 30""",1953,Godavari,Nizamabad,,TE,14,1560,,1471,694,1250,I,250.37
+42,AP01MH0043,Bheemanpally,,"78? 53' 0""","16? 42' 0""",1954,Bheemanpally,Deverkonda.,,TE,16,2019,,6259,1721,5685,I,666
+43,AP01MH0044,Koilsagar,,"77? 45' 0""","16? 44' 0""",1955,Peddavagu,Mahabubnagar,,PG,16,1037,76,64614,1099,38214,I,4229

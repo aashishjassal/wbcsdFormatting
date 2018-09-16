@@ -1,0 +1,32 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+109,AP01LH0115,Jalakanur Tank,,"78? 18' 15""","15? 43' 13""",1981,Bodivagu,Nandikotkur,,TE,10.51,7200,-,,90650,3279,I,362
+110,AP01MH0116,Konam Reservoir,,"82? 52' 00""","18? 52' 00""",1983,Budderu,Visakhapatnam,,TE,23,339,267,24070,3267,22870,I,1260
+111,AP01MH0117,Krishnapuram Tank,,"79? 48' 22""","13? 22' 16""",1981,Lava,Puttur,,TE,21,488,380,5650,900,4244,I,1077
+112,AP01MH0118,Pedda Vagu,,"81? 9' 40""","17? 25' 31""",1981,Pedda Vagu,Khammam,,TE,22,2505,441,16000,3979,11712,I,1148
+113,AP01MH0119,Raiwada Reservoir,,"82? 59' 0""","18? 0' 30""",1982,Sarada,Narsapur,,TE/PG,28,5900,2360,101910,-,-,I,1897
+114,AP01LH0120,Itugulapadu Tank,,"78? 53' 15""","14? 56' 50""",1982,,Badvel,,TE,10.5,520,,1960,864,1960,I,668.27
+115,AP01LH0121,"New Tank, Munnuru,
+Somaram",,"77? 50' 10""","17? 20' 39""",1982,Kagna,Hyderabad,,TE,14,600,-,,195,1120,I,488
+116,AP01MH0122,"Tank a/c
+Kothulavagu, Bogamdanigandi,",,"81? 01' 14""","17? 23' 44""",1982,,Aswaropeta,,TE,22,380,1.71,1760,3640,1700,I,255.46
+117,AP01LH0123,"Thadukuvagu
+Reservoir",,"78? 52' 07""","15? 07' 55""",1982,,Badvel,,TE,12.2,900,,1700,1510,1700,I,679.6
+118,AP01HH0124,Donkarai ( S.H.E.S),,82? 1' 00'',18? 3' 00'',1983,Sileru,Visakhapatnam,,PG,71,1398,2038,470000,26660,380000,H,15593
+119,AP01MH0125,Mylavaram Reservoir,,"78? 20' 00""","14? 51' 00""",1983,Pennar,Cuddapah,,TE/PG,24,2850,1524,283000,41000,265000,I,8190
+120,AP01VH0126,"Srisailam Project
+(N.S.R.S.P)",,"78? 54' 0""","16? 5' 0""",1984,Krishna,Hyderabad,,PG,145,512,1953,8722000,616420,4250000,H,38369
+121,AP01HH0127,Lower Manair Dam,,"79? 8' 0""","18? 24' 0""",1985,Manair,Karimnagar,,TE/PG,41,10741,5410,680137,81000,380877,I,14170
+122,AP01HH0128,Papavinasanam dam,,"79? 21' 40""","13? 43' 00""",1985,Papavinasanam,Tirupati,,PG,50,274,195,2124,760,-,S,201
+123,AP01LH0129,"Pothangal Project,
+Pothangal",,"78? 03' 39""","18? 24' 41""",1985,Godavari,Nizamabad,,TE,13,420,,4440,1133,3774,I,132.36
+124,AP01LH0130,Savisettipalli Tank,,"78? 51' 55""","14? 59' 00""",1985,,Badvel,,TE,12,200,,2360,760,2360,I,130.26
+125,AP01MH0131,Taliperu,,"80? 51' 50""","18? 05' 05""",1985,Taliperu,Khammam,,TE,20,2762,1283,20670,5273,14472,I,6245
+126,AP01LH0132,Malluruvagu,,"80? 30' 57""","18? 10' 16""",1986,Malluruvagu,Ongole,,TE,10,1569,-,33128,10813,29538,I,1502
+127,AP01MH0133,Mukkamamidi,,"80? 52' 45""","17? 27' 43""",1986,Mukkamamidi,Khammam,,TE,18,390,112,4512,1130,4210,I,441
+128,AP01LH0134,Komsettipally Project,,"77? 49' 40""","16? 36' 40""",1988,"Ganga Katwa
+Stream",Hyderabad,,TE,12,1023,-,2318.13,954.6,1931,I,239
+129,AP01LH0135,"New Tank,
+Bollempally",,"78? 35' 25""","16? 45' 46""",1988,Bollampallyvagu,Mahabubnagar,,TE,12.8,740,36.34,940.71,336,824,I,6
+130,AP01MH0136,Yerrakalva,,"81? 15' 22""","17? 05' 44""",2004,Yerrakalva,Eluru,,TE/PG,19.79,27,1500,155368,26067,114609,I/C,1371

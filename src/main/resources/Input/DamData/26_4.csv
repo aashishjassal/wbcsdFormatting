@@ -1,0 +1,45 @@
+Sl    No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam,Latitude of dam,Year of completion,River,Nearest city,seismic zone,Type of dam,"Height above
+lowest foundation (m)",Length of dam (m),Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir
+Area (103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+124,OR10MH0124,DAHA,,"840 - 28' - 00"" E","190 - 56' - 00"" N",1988,Daha & Kalinga,Bhanjanagar,-,TE,19.3,3502.5,1230,28000,5520,21950,I,1380
+125,OR10MH0125,DUMERBAHAL(MI),,"830 - 10' - 00"" E","200 - 25' - 00"" N",1988,D. Nalla,Titilagarh,-,TE,21.9,1385,65.09,20000,4250,16400,S,707.5
+126,OR10LH0126,KUKUDAJODI,,"860 - 52' - 00"" E","210 - 55' -30"" N",1988,Kukudajodi,Baripada,-,TE,12.19,853.44,82,1712,670,1480,I,132.44
+127,OR10MH0127,KARADA,,,,1988,Dobhani nalla,Baramba,,TE,19.94,434.7,,760,16.4,650,I,101.1
+128,OR10MH0128,KUANRIA,,"840 - 28' - 00"" E","200 - 20' - 00"" N",1988,Kuanria,Dasapalla,-,TE,21,1576,730,22000,4855,17500,I,1472
+129,OR10MH0129,PAITAGAON,,"840 - 29' - 15"" E","200 - 14' - 30"" N",1988,Paitagaon nalla,Chakapad,-,TE,22.7,568,270.1,1350,186,960,I,282
+130,OR10MH0130,PARHEL,,"830 - 47' - 45"" E","200 - 32' - 20"" N",1988,Parhel nalla,Kantamal,-,TE,16,530,177.12,980,350,770,I,132.44
+131,OR10MH0131,PENDRAWAN,,"820 - 42' - 20"" E","200 - 27' - 10"" N",1988,Kalapararao nalla,Khariar,-,TE,17.87,450,143,4500,127,3000,I,408
+132,OR10MH0132,PILLASALKI,,"840 - 20' - 00"" E","200 - 26' - 00"" N",1988,Pillasalki,Phulbani,-,TE,26.5,441,633,19200,2570,14400,I,793
+133,OR10MH0133,RISSIA,,"840 - 35' - 20"" E","210 - 26' - 30"" N",1988,Tangana nalla,Nilagiri,-,TE,19.51,1326,239.4,5660,1278,4630,I,554.7
+134,OR10MH0134,KANSBAHAL,,"840 - 39' - 00"" E","220 - 10' - 45"" N",1990,Badjore nalla,Rajgangpur,-,TE,28,1145,,40410,5060,28720,I,1745
+135,OR10MH0135,BHITIRI BEDITGUDA,,"840 - 28' - 50"" E","200 - 06' - 50"" N",1991,Baunsakata nalla,Digapahandi,-,TE,18.1,395,166.68,1000,480,900,I,78
+136,OR10MH0136,JUANRIA,,"850 - 45' - 30"" E","210 - 15' - 30"" N",1991,Juanria nalla,Anandpur,-,TE,17.37,935.74,93,2660,440,2220,I,306
+137,OR10LH0137,KONHEIMUNDA,,"820 - 04' - 00"" E","190 - 16' - 00"" N",1991,Konheimunda nallah,Nawarangpur,-,TE,12,660,67,600,178,510,I,66.7
+138,OR10LH0138,LAKHAPARBAT,,"840 - 49' - 15"" E","200 - 38' - 30"" N",1991,Mehurani,Kantamal,-,TE,11.14,1495,160.14,950,380,710,I,129
+139,OR10HH0139,BADANALLA,,"830 - 52' - 30"" E","190 - 19' - 15"" N",1992,Vansadhara,Gunupur,-,TE,48,435,21.3,75640,9300,67140,I,3934
+140,OR10HH0140,HARABHANGI,,"840 - 08' - 00"" E","190 - 30' - 30"" N",1992,Harabhangi,Berhampur,-,TE,49,807,22.43,141250,1220,86250,I,4608
+141,OR10MH0141,MASINA NALLA,,"830 - 53' - 00"" E","210 - 15' - 00"" N",1993,Masinanalla,Sundargarh,-,TE,15.47,816.86,22.11,1960,,1550,I,152
+142,OR10MH0142,UPPER SUKTEL,,"820 - 52' - 52"" E","200 - 43' - 20"" N",1993,Suktel,Khaprakhol,-,TE,21.66,1573,546,12300,2700,10690,I,683
+143,OR10LH0143,RAIJHARAN,,"840 - 58' - 00"" E","200 - 57' - 00"" N",1994,Singidajor,Chhnedipada,-,TE,14.9,730,121.6,1190,526,870,I,122.5
+144,OR10LH0144,KUREIJODI,,"850 - 43' - 30"" E","210 - 24' - 30"" N",1995,Kureijodi,Keonjhar,-,TE,14.46,15241.2,354,1934,520,1620,I,380
+145,OR10HH0145,"INDRAVATI(Upper Indravati
+Project)",,"820 - 45' - 00"" E","190 - 05' - 00"" N",1996,Indravati,Nawarangpur,-,PG,45,555,332.75,2300000,110000,1485500,I/H,11430
+146,OR10MH0146,JAGADALA,,"850 - 28' - 00"" E","210 - 48' - 00"" N",1996,Jagadala nalla,Keonjhar,-,TE,18,1018,450,3960,799,3160,I,340
+147,OR10HH0147,"KAPUR ( Upper Indravati
+Project)",,"820 - 46' - 00"" E","190 - 06' - 00"" N",1996,Kapur,Nawarangpur,-,PG,64,537,3600,2300000,110000,1485500,I/H,No spillway
+148,OR10HH0148,"MURAN (Upper Indravati
+Project)",,"820 - 46' - 00"" E","190 - 06' -00"" N",1996,Muran,Nawarangpur,-,PG,65,604,700,2300000,110000,1485500,I/H,8000
+149,OR10HH0149,"PODAGADA (Upper Indravati
+Project)",,"820 - 49' - 00"" E","190 - 14' - 00"" N",1996,Podagada,Nawarangpur,-,PG,77.5,462,3100,2300000,110000,1485500,I/H,No spillway
+150,OR10MH0150,DOMKUTCH,,"840 - 58' - 00"" E","200 - 33' - 20"" N",1993,Beherasahi Nalla,Phulbani,-,TE,24.5,354,,1400,160,1100,I,161.25
+151,OR10HH0151,UPPER JONK,,"820 - 27' - 00"" E","200 - 44' - 00"" N",1997,Jonk,Nawapara,-,TE,33.6,647,,73830,14700,73830,I,2506
+152,OR10LH0152,SUNAGHAI M.I.P,,"860 - 16' - 00"" E","200 - 12' - 30"" N",1998,Gadachandi nalla,Keonjhar,-,TE,11.52,610,,545,,407.7,I,86.94
+153,OR10MH0153,KALIMATI,,"850 - 47' - 30"" E","210 - 25' - 00"" N",1999,Kukurpeta nalla,Anandpur,-,TE,15.5,915,4.99,4490,1208,3590,I,78
+154,OR10MH0154,MAGARANALLA,,"820 - 52' -30"" E","210 - 01' - 15"" N",1999,Magaranalla,Padampur,-,TE,19.78,831,,,115,,I,130
+155,OR10HH0155,JAMBHIRA,,"830 - 40' - 00"" E","100 - 43' - 00"" N",2000,Jambhira,Baripada,-,TE,30.4,7360,2412,223650,2600,204770,I,113
+156,OR10MH0156,SAPUA (Medium),,,,2001,Sapua nalla,Hindol,,TE,25.56,1290,,8500,,6460,I,375
+157,OR10MH0157,HARIHARJORE,,"840 - 02' - 00"" E","210 - 02' - 00"" N",Comple,Hariharjore,Sonpur,-,TE,18.5,2260,,79000,16680,58000,I,2855
+158,OR10MH0158,BHANJANAGAR,,"840 - 35' - 00"" E","190 - 57' - 00"" N",1894,Baranganalla,Bhanjanagar,-,TE,19.35,1377.9,740,57660,8940,57660,I/S,135.84
+159,OR10MH0159,JAGATAGHAI M.I.P.,,,,1935,Jagatanalla,Kodala,,TE,18.6,664,,8300,1.113,6220,I/F,261
+160,OR10LH0160,SUNAMUHIN M.I.P.,,,,1967,Local nalla,Nayagarh,-,TE,12.75,815.45,,2180,279,1920,I,192.41
+161,OR10MH0161,RAGHUNATH SAGAR M.I.P.,,,,1972,Talasagarnalla,Pattapur,-,TE,18,670,,2700,360,2628,I,197.06

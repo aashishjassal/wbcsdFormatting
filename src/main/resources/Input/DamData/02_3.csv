@@ -1,0 +1,32 @@
+Sl   No,Project Identification Code,Name of Dam,Operated & Maintained by,Longitude of dam 'E',Latitude of dam 'N',Year of completion,River,Nearest city,seismic zone,Type of dam,Height above lowest foundation (m),"Length of dam
+(m)",Volume content of dam (103 m3),Gross Storage capacity (103 m3),"Reservoir Area
+(103 m2)",Effective Storage capacity (103 m3),Purpose,Designed Spillway capacity (m3/sec)
+44,AP01LH0045,"Gambhiramgedda
+Reservoir",,"83? 14' 13""","17? 54' 11""",1957,Gambhiramgedda,Visakhapatnam,,TE,13,369,173,3180,799,3158,I,550
+45,AP01MH0046,Prakasam Barrage,,"80? 37' 57""","16? 30' 34""",1957,Krishna,Vijayawada,,PG,22.25,1233,-,86.88,30000,87,I,33693
+46,AP01MH0047,Arniar Project,,"79? 25' 00""","13? 35' 00""",1962,Araniar,Chittor,,TE,15,3600,,52510,14045,49100,I,864
+47,AP01HH0048,"Kaddem Project
+(K.N.R.Project)",,"78? 47' 00""","19? 7' 00""",1958,Kaddam,Nirmal,,TE/PG,31,2051,908,215800,24740,137100,I,11334
+48,AP01MH0049,Nakkalagandi,,"79? 22' 15""","15? 03' 32""",1958,Uppuvagu,Nellore,,TE,15,354,875,4729,-,-,I,340
+49,AP01LH0050,Rallapadu Project,,"79? 42' 30""","15? 02' 30""",1960,Manneru,Ongole,,TE,12,2951,-,31318,7067,30830,I,3426
+50,AP01MH0051,Upper Pennar,,"77? 21' 00""","14? 21' 00""",1958,Pennar,Annatapur,,TE,17,3505,594,51282,7917,44605,I,340
+51,AP01MH0052,"Lower Sagileru
+Project",,"78? 57' 00""","14? 58' 00""",1959,Sagileru,Cuddapah,,PG,22.91,1905,-,,2.85,-,I,1586
+52,AP01LH0054,Sarala Sagar,,"77? 54' 0""","16? 25' 0""",1959,Chinnavagu,Mahabubnagar,,PG,12,1524,-,14000,5705,-,I,1781
+53,AP01LH0057,Vemular Project,,"79? 48' 15""","16? 50' 00""",1959,Vemular,Huzurnagar,,TE,12,2040,-,9898,--,8875,I,1075
+54,AP01HH0058,C.G.P. Project,,,,1960,,Tanakal,,TE,31,423,---,4810,1378,4813.82,I,920.4
+55,AP01MH0059,Kalangi Reservoir,,"79? 48' 00""","13? 36' 00""",1960,Kalangi,Srikalahasti,,TE,18,3977,-,6971,2649,6830,I,1389
+56,AP01MH0060,Pincha Project,,,,1960,Pincha,Rayachoti,,TE/PG,21,486,150,9284,2073,9131,I,1644
+57,AP01MH0061,"Siddlagandi Project, Kotakadapalle (V)",,"79? 08' 56""","13? 50' 00""",1960,,Tirupati,,TE,15.8,1550,_,2031,247,1000,I,66.6
+58,AP01MH0062,Bhairavanitippa,,"76? 50' 30""","14? 32' 10""",1961,Hagari,,,TE,20,2235,,74311,20225,65321,I,3627
+59,AP01HH0063,Buggavagu,,"79? 31' 38""","16? 28' 58""",1961,Buggavagu,Guntur,,TE,31,2576,1983,,12427,-,I,567
+60,AP01HH0064,"Jalaput dam
+(S.H.E.S)",,"80? 25' 0""","17? 55' 0""",1961,Machkund,Visakhapatnam,,PG,61,419,313,,91130,-,I,5663
+61,AP01LH0065,"Pedda cheru,
+Yelupugonda",,"78? 00' 00""","18? 02' 00""",1962,Local Stream,Tekmal,,TE,11.54,180,-,,553,-,I,55
+62,AP01LH0066,"Krishnasamudram
+Tank",,"77? 59 30""","16? 21' 15""",1963,-,Mahabubnagar,,TE,12.27,978,-,307.75,965.28,-,I,49
+63,AP01MH0067,Musi Project,,"79? 33' 0""","17? 14' 0""",1963,Musi,Suryapet,,TE,28,4694,220,137052,25300,13532,I,11320
+64,AP01MH0068,Zurreru Project,,"78? 08' 0""","15? 19' 0""",1963,Zurreru,Banaganpalli,,TE,16,677,199,7340,1462,7056,I,649
+65,AP01MH0069,Ramadugu,,"78? 18' 0""","18? 37' 0""",1964,Ramadugu,Nizamabad,,TE,23,1129,97,18046,6350,16265,I,1143
+66,AP01MH0070,Salivagu Project,,"79? 46' 0""","18? 09' 0""",1964,Salivagu,Warangal,,TE/PG,17,2088,-,15889,4836,15877,I,1984

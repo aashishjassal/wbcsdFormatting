@@ -1,0 +1,36 @@
+Sl    No,Project Identification Code,Name of Dam,,Year of completion,River,,Nearest city,Type,Height above lowest foundation,,Length of dam,Volume content of dam,Gross Storage capacity,"Reservoir
+Area",Effective Storage capacity,Pur- pose,Designed Spillway capacity
+211,KA06MH0211,Upper Tunga Dam,,2005,Tunga,,Shimoga,"PG,TE",17.5,,791.39,357.28,91745.71,16317.5,68271.27,"I,H,S",7362.3
+212,KA06LH0212,Bukkambudi Doddekere,,NA,Local Halla / Veda Series,,Tarikere,TE,13,,1160,31,345,1640,315,I,22.4
+213,KA06MH0213,Kowlihalla Tank,,NA,Cauvery Basin,,Mysore,TE,18.5,,393,710,550,60,490,I,36.9
+214,KA06LH0214,Medleri Tank,,NA,Local Nala,,Ranebennur,TE,10.68,,701.5,36.73,1744.3,684.45,1744.3,I,198
+215,KA06LH0215,Vishnusamudra Tank,,NA,Veda series,,Kadur,TE,12.8,,1740,36,853,554,817,I,12.82
+216,KA06LH0216,Y.Urumundinakere Tank,,NA,Veda series,,Kadur,TE,10,,1930,20,728,675,708,I,538
+217,KA06LH0217,Sheelavantanakoppa D.kere,,NA,Jamboor Halla,,Shimoga,TE,13.28,,200,NA,8620,1380,8440,I,
+218,KA06LH0218,Bharamasagara Doddakere,,NK,Kattahalla,,Chitradurga,TE,12,,1220,65.88,4050,1970,3680,I,219.76
+219,KA06LH0219,Bukkapatna Tank,,NK,Suvarnamukhi SS,,Sira,TE,11.5,,500,380,3740,1620,3370,I,67.94
+220,KA06**0220,Chikkasandra Tank,,NK,Suvarnamukhi,,Sira,TE,9,,960,800,7505,2072,6250,I,277.07
+221,KA06**0221,Kallambella Tank,,NK,Suvarnamukhi,,Sira,TE,8.77,,1920,600,7020,2932,6320,I,174.3
+222,KA06LH0222,Lakshmisagar Tank,,NK,Suvarnamukhi,,Sira,TE,10.5,,960,600,6700,2060,6090,I,400.71
+223,KA06MH0223,Mallaghatta Tank,,NK,Shimsha Valley,,Turuvekere,TE,15.6,,750,239.29,16620,6300,14860,I,344.89
+224,KA06LH0224,Mayasandra Tank,,NK,Shimsha Valley,,Mayasandra,TE,10.7,,1410,310,4860,2100,3885,I,116.86
+225,KA06LH0225,Ramalingapura Tank,,NK,Suvarnamukhi,,Sira,TE,12,,830,700,6740,2192,6070,I,114.19
+226,KA06LH0226,Sarigehally Tank,,NK,Local Nala,,Turuvekere,TE,14.8,,1200,503,4300,4200,4300,I,85.4
+227,KA06LH0227,Singahallidalvayikere,,NK,Suvarnamukhi SS,,C.N.Halli,TE,11.45,,870,120,3180,1197,2870,I,139.36
+228,KA06LH0228,Turuvekere Tank,,NK,Shimsha Valley,,Turuvekere,TE,12.2,,870,179.96,5070,2740,4870,I,309.5
+229,KA06LH0229,Bheemasamudra Dam,,NK,Jinigi halla,,Chitradurga,TE,14.2,,840,5126,25623,8648,20498,I,200.28
+230,KA06MH0230,Bhima Lift Dam,,2010^,Bhima,,Gulbarga,"PG,TE",18.4,,2250,276.25,89669,10983,70380,"I, H",26274^
+231,KA06MH0231,Harinala Dam,,2004^,Harinala,,Bailhongal,TE,19.41,,3120,640,13810,2959,12083,I,707.91
+232,KA06MH0232,Hipparagi Barrage,,2004^,Krishna,,Jamkhandi,TE,26,,5783,31160,169926,30000,138740,"I,S",19824
+233,KA06HH0233,Markandeya Dam,,2006^,Markandeya,,Belgaum,PG,47,,475,414,104660^,8680^,90190^,I,3728
+234,KA06MH0234,Ranganayanadurga Tank,,UC^,Jinagihalla,,Molakalmuru,TE,19.88,,900,341.78,14158,3220,13130,I,1586
+235,KA06HH0235,Uduthorehalla Dam,,2009^,Uduthorehalla,,Kollegal,TE,40,,1530,112.48,18969^,1250,15147^,I,850
+236,KA06MH0236,Varahi Diversion weir,,2009^,Varahi,,Kundapur,PG,22.5,,100,209,8495,1225.7,4247.5,"I,H",4528
+"Details Of Abbreviations Used:-
+
+UC - Under Construction",,,I  -   Irrigation,,,UP  - Under Planning,,,,,,,,,,,
+"ER   - Rockfill Dam PG -   Gravity Dam TE -   Earthen Dam
+T & S -Tallings & Water Supply.",,,"H    - Hydroelectric S    - Water Supply NK - Not Known(old)
+NA - Not Available",,,"GS  - Gated Spillway
+
+SCS  - Side channel Spillway",,,,,,,,,,,
