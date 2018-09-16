@@ -18,6 +18,7 @@ import com.wbcsd.fileGenerator.application.util.SiteInfoGenerator;
 import com.wbcsd.fileGenerator.application.util.SurfaceWaterQualityGenerator;
 import com.wbcsd.fileGenerator.application.util.WaterStatsGenerator;
 import com.wbcsd.fileGenerator.application.util.WaterStatsGenerator_Pre2011;
+import com.wbcsd.fileGenerator.application.util.WaterStatsUpdation_2014_15;
 import com.wbcsd.fileGenerator.excel.CSVDataReader;
 import com.wbcsd.fileGenerator.excel.DamDataReader;
 import com.wbcsd.fileGenerator.excel.GroundWaterQualityDataReader;
@@ -29,164 +30,175 @@ import com.wbcsd.fileGenerator.excel.TextDataReader;
  */
 public class MainApplication {
 
-    /** The reader. */
-    private final CommandLineReader reader;
+	/** The reader. */
+	private final CommandLineReader reader;
 
-    private final CSVDataReader dataReader;
+	private final CSVDataReader dataReader;
 
-    private final TextDataReader textDataReader;
+	private final TextDataReader textDataReader;
 
-    private final SiteInfoGenerator siteInfoGenerator;
+	private final SiteInfoGenerator siteInfoGenerator;
 
-    private final WaterStatsGenerator waterStatsGenerator;
+	private final WaterStatsGenerator waterStatsGenerator;
 
-    private final WaterStatsGenerator_Pre2011 waterStatsGenerator_2007Onwards;
+	private final WaterStatsGenerator_Pre2011 waterStatsGenerator_2007Onwards;
 
-    private final SiteDataMapPopulator populator;
+	private final WaterStatsUpdation_2014_15 waterStatsUpdation_2014_15;
 
-    private final SiteDataMapPopulator_PrimaryInfoAsKey populator_PrimaryInfoAsKey;
+	private final SiteDataMapPopulator populator;
 
-    private final BlockCategarizationGenerator blockCategarizationGenerator;
+	private final SiteDataMapPopulator_PrimaryInfoAsKey populator_PrimaryInfoAsKey;
 
-    private final GroundWaterOtherIndicatorsGenerator groundWaterOtherIndicatorsGenerator;
+	private final BlockCategarizationGenerator blockCategarizationGenerator;
 
-    private final DamDataReader damDataReader;
+	private final GroundWaterOtherIndicatorsGenerator groundWaterOtherIndicatorsGenerator;
 
-    private final DamDataGenerator damDataGenerator;
+	private final DamDataReader damDataReader;
 
-    private final RainfallDataReader rainfallDataReader;
+	private final DamDataGenerator damDataGenerator;
 
-    private final RainfallDataGenerator rainfallDataGenerator;
+	private final RainfallDataReader rainfallDataReader;
 
-    private final SurfaceWaterQualityGenerator surfaceWaterQualityGenerator;
+	private final RainfallDataGenerator rainfallDataGenerator;
 
-    private final GroundWaterQualityDataReader groundWaterQualityDataReader;
+	private final SurfaceWaterQualityGenerator surfaceWaterQualityGenerator;
 
-    private final GroundWaterQualityGenerator groundWaterQualityGenerator;
+	private final GroundWaterQualityDataReader groundWaterQualityDataReader;
 
-    /**
-     * @param reader
-     */
-    public MainApplication() {
-        this.reader = new CommandLineReader();
-        dataReader = new CSVDataReader();
-        textDataReader = new TextDataReader();
-        siteInfoGenerator = new SiteInfoGenerator();
-        waterStatsGenerator = new WaterStatsGenerator();
-        waterStatsGenerator_2007Onwards = new WaterStatsGenerator_Pre2011();
-        populator = new SiteDataMapPopulator();
-        populator_PrimaryInfoAsKey = new SiteDataMapPopulator_PrimaryInfoAsKey();
-        blockCategarizationGenerator = new BlockCategarizationGenerator();
-        groundWaterOtherIndicatorsGenerator = new GroundWaterOtherIndicatorsGenerator();
-        damDataReader = new DamDataReader(dataReader);
-        damDataGenerator = new DamDataGenerator();
-        rainfallDataReader = new RainfallDataReader(dataReader, textDataReader);
-        rainfallDataGenerator = new RainfallDataGenerator();
-        surfaceWaterQualityGenerator = new SurfaceWaterQualityGenerator();
+	private final GroundWaterQualityGenerator groundWaterQualityGenerator;
 
-        groundWaterQualityDataReader = new GroundWaterQualityDataReader(dataReader);
-        groundWaterQualityGenerator = new GroundWaterQualityGenerator();
-    }
+	/**
+	 * @param reader
+	 */
+	public MainApplication() {
+		this.reader = new CommandLineReader();
+		dataReader = new CSVDataReader();
+		textDataReader = new TextDataReader();
+		siteInfoGenerator = new SiteInfoGenerator();
+		waterStatsGenerator = new WaterStatsGenerator();
+		waterStatsGenerator_2007Onwards = new WaterStatsGenerator_Pre2011();
+		populator = new SiteDataMapPopulator();
+		populator_PrimaryInfoAsKey = new SiteDataMapPopulator_PrimaryInfoAsKey();
+		blockCategarizationGenerator = new BlockCategarizationGenerator();
+		groundWaterOtherIndicatorsGenerator = new GroundWaterOtherIndicatorsGenerator();
+		damDataReader = new DamDataReader(dataReader);
+		damDataGenerator = new DamDataGenerator();
+		rainfallDataReader = new RainfallDataReader(dataReader, textDataReader);
+		rainfallDataGenerator = new RainfallDataGenerator();
+		surfaceWaterQualityGenerator = new SurfaceWaterQualityGenerator();
+		waterStatsUpdation_2014_15 = new WaterStatsUpdation_2014_15();
+		groundWaterQualityDataReader = new GroundWaterQualityDataReader(dataReader);
+		groundWaterQualityGenerator = new GroundWaterQualityGenerator();
+	}
 
-    public void execute(String[] args) {
-        CommandLineParameters parameters = reader.readCommandLineInfo(args);
+	public void execute(String[] args) {
+		CommandLineParameters parameters = reader.readCommandLineInfo(args);
 
-        System.out.println(parameters);
+		System.out.println(parameters);
 
-        switch (parameters.getOperation()) {
-            case SITE_INFO_GENERATION:
-                System.out.println("site info generation");
-                List<String[]> fileData = dataReader.readFileData(parameters.getFilePath());
-                siteInfoGenerator.generate(fileData, parameters.getGenerationPath());
-                break;
+		switch (parameters.getOperation()) {
+		case SITE_INFO_GENERATION:
+			System.out.println("site info generation");
+			List<String[]> fileData = dataReader.readFileData(parameters.getFilePath());
+			siteInfoGenerator.generate(fileData, parameters.getGenerationPath());
+			break;
 
-            case WATER_STATS_GENERATION_2012_ONWARDS:
-                System.out.println("Water status generation for year 2012 onwards");
-                List<String[]> siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                Map<String, SiteInfo> siteDataMap = populator.populate(siteDileData);
-                List<String[]> waterFileData = dataReader.readFileData(parameters.getFilePath());
-                waterStatsGenerator.generate(siteDataMap, waterFileData, parameters.getGenerationPath());
-                break;
-            case WATER_STATS_GENERATION_2007_ONWARDS:
-                System.out
-                        .println("Water status generation for year 2007 onwards, file does not contain lat long. Fetch it from SiteInfo.csv");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                Map<String, SiteInfo> siteDataMap_IDBased = populator.populate(siteDileData);
-                waterFileData = dataReader.readFileData(parameters.getFilePath());
-                List<String[]> waterFileData2007 = dataReader.readFileData(parameters.getFilePath2007());
-                waterStatsGenerator_2007Onwards.generate(siteDataMap_IDBased, siteDataMap, waterFileData,
-                        waterFileData2007, parameters.getGenerationPath());
-                break;
-            case BLOCK_CATEGARIZATION:
-                System.out.println("Block categarization, file does not contain lat long. Fetch it from SiteInfo.csv");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                List<String[]> blockCategarization2004Data = dataReader.readFileData(parameters.getBc2004Path());
-                List<String[]> blockCategarization2009Data = dataReader.readFileData(parameters.getBc2009Path());
-                List<String[]> blockCategarization2011Data = dataReader.readFileData(parameters.getBc2011Path());
-                blockCategarizationGenerator.generate(siteDataMap, blockCategarization2004Data,
-                        blockCategarization2009Data, blockCategarization2011Data, parameters.getGenerationPath());
-                break;
+		case WATER_STATS_GENERATION_2012_ONWARDS:
+			System.out.println("Water status generation for year 2012 onwards");
+			List<String[]> siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			Map<String, SiteInfo> siteDataMap = populator.populate(siteDileData);
+			List<String[]> waterFileData = dataReader.readFileData(parameters.getFilePath());
+			waterStatsGenerator.generate(siteDataMap, waterFileData, parameters.getGenerationPath());
+			break;
+		case WATER_STATS_GENERATION_2007_ONWARDS:
+			System.out.println(
+					"Water status generation for year 2007 onwards, file does not contain lat long. Fetch it from SiteInfo.csv");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			Map<String, SiteInfo> siteDataMap_IDBased = populator.populate(siteDileData);
+			waterFileData = dataReader.readFileData(parameters.getFilePath());
+			List<String[]> waterFileData2007 = dataReader.readFileData(parameters.getFilePath2007());
+			waterStatsGenerator_2007Onwards.generate(siteDataMap_IDBased, siteDataMap, waterFileData, waterFileData2007,
+					parameters.getGenerationPath());
+			break;
+		case BLOCK_CATEGARIZATION:
+			System.out.println("Block categarization, file does not contain lat long. Fetch it from SiteInfo.csv");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			List<String[]> blockCategarization2004Data = dataReader.readFileData(parameters.getBc2004Path());
+			List<String[]> blockCategarization2009Data = dataReader.readFileData(parameters.getBc2009Path());
+			List<String[]> blockCategarization2011Data = dataReader.readFileData(parameters.getBc2011Path());
+			blockCategarizationGenerator.generate(siteDataMap, blockCategarization2004Data, blockCategarization2009Data,
+					blockCategarization2011Data, parameters.getGenerationPath());
+			break;
 
-            case GROUND_WATER_OTHER_INDICATORS:
-                System.out.println("Ground water other indicators.");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                List<String[]> gWaterOtherIndicatorsData = dataReader.readFileData(parameters
-                        .getgWaterOtherIndicatorsPath());
-                groundWaterOtherIndicatorsGenerator.generate(siteDataMap, gWaterOtherIndicatorsData,
-                        parameters.getGenerationPath());
-                break;
-            case DAM_DATA:
-                System.out.println("Dam data indicators.");
-                Map<State, List<String[]>> damData = damDataReader.readDamData(parameters.getDamDataFolderPath());
-                damDataGenerator.generate(damData, parameters.getGenerationPath());
-                break;
-            case RAINFALL_DATA:
-                System.out.println("Rainfall data indicators.");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                Map<State, List<String[]>> rainfallData = rainfallDataReader.readRainfallData(parameters
-                        .getRainfallDataFolderPath());
-                Map<State, List<List<String>>> rainfallLatestData = rainfallDataReader
-                        .readLatestRainfallData(parameters.getRainfallLatestDataFolderPath());
-                rainfallDataGenerator.generate(siteDataMap, rainfallData, rainfallLatestData,
-                        parameters.getGenerationPath());
-                break;
+		case GROUND_WATER_OTHER_INDICATORS:
+			System.out.println("Ground water other indicators.");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			List<String[]> gWaterOtherIndicatorsData = dataReader
+					.readFileData(parameters.getgWaterOtherIndicatorsPath());
+			groundWaterOtherIndicatorsGenerator.generate(siteDataMap, gWaterOtherIndicatorsData,
+					parameters.getGenerationPath());
+			break;
+		case DAM_DATA:
+			System.out.println("Dam data indicators.");
+			Map<State, List<String[]>> damData = damDataReader.readDamData(parameters.getDamDataFolderPath());
+			damDataGenerator.generate(damData, parameters.getGenerationPath());
+			break;
+		case RAINFALL_DATA:
+			System.out.println("Rainfall data indicators.");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			Map<State, List<String[]>> rainfallData = rainfallDataReader
+					.readRainfallData(parameters.getRainfallDataFolderPath());
+			Map<State, List<List<String>>> rainfallLatestData = rainfallDataReader
+					.readLatestRainfallData(parameters.getRainfallLatestDataFolderPath());
+			rainfallDataGenerator.generate(siteDataMap, rainfallData, rainfallLatestData,
+					parameters.getGenerationPath());
+			break;
 
-            case SURFACE_WATER_QUALITY:
-                System.out.println("Surface water quality.");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                List<String[]> groundWaterDate = dataReader.readFileData(parameters.getSurfaceWaterQualityPath());
-                surfaceWaterQualityGenerator.generate(siteDataMap, groundWaterDate, parameters.getGenerationPath());
-                break;
+		case SURFACE_WATER_QUALITY:
+			System.out.println("Surface water quality.");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			List<String[]> groundWaterDate = dataReader.readFileData(parameters.getSurfaceWaterQualityPath());
+			surfaceWaterQualityGenerator.generate(siteDataMap, groundWaterDate, parameters.getGenerationPath());
+			break;
 
-            case GROUND_WATER_QUALITY:
-                System.out.println("Ground water quality.");
-                siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
-                siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
-                Map<String, List<String[]>> groundWaterQualityMap = groundWaterQualityDataReader
-                        .readGroundWaterQualityData(parameters.getGroundWaterQualityPath());
-                groundWaterQualityGenerator
-                        .generate(siteDataMap, groundWaterQualityMap, parameters.getGenerationPath());
-                break;
-            default:
-                break;
-        }
+		case GROUND_WATER_QUALITY:
+			System.out.println("Ground water quality.");
+			siteDileData = dataReader.readFileData(parameters.getSiteDataPath());
+			siteDataMap = populator_PrimaryInfoAsKey.populate(siteDileData);
+			Map<String, List<String[]>> groundWaterQualityMap = groundWaterQualityDataReader
+					.readGroundWaterQualityData(parameters.getGroundWaterQualityPath());
+			groundWaterQualityGenerator.generate(siteDataMap, groundWaterQualityMap, parameters.getGenerationPath());
+			break;
 
-        System.out.println("ALL DONE");
-    }
+		case WATER_STATS_UPDATION_2014_ONWARDS:
+			System.out.println(
+					"Water status updation for year 2014 onwards. Also read existing data from existing file and apply updates to it.");
+			List<String[]> oldData = dataReader.readFileData(parameters.getSiteDataPath());
+			List<String[]> newData = dataReader.readFileData(parameters.getFilePath());
+			waterStatsUpdation_2014_15.generate(oldData, newData, parameters.getGenerationPath());
+			break;
+		default:
+			break;
+		}
 
-    /**
-     * The main method.
-     * @param args the arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Starting application..Reading command line arguments");
-        MainApplication application = new MainApplication();
-        application.execute(args);
-    }
+		System.out.println("ALL DONE");
+	}
+
+	/**
+	 * The main method.
+	 * 
+	 * @param args
+	 *            the arguments
+	 */
+	public static void main(String[] args) {
+		System.out.println("Starting application..Reading command line arguments");
+		MainApplication application = new MainApplication();
+		application.execute(args);
+	}
 
 }

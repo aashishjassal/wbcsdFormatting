@@ -1,0 +1,179 @@
+Exisiting water stats null for this key: chaviti tibalu_andhra pradesh_east godavari_y.ramavaram_ All sites: null
+Exisiting water stats null for this key: p yerragonda_andhra pradesh_east godavari_y.ramavaram_ All sites: null
+Exisiting water stats null for this key: penuganchiprolu_andhra pradesh_krishna_penuganchiprolu_ All sites: null
+Exisiting water stats null for this key: makkapeta_andhra pradesh_krishna_vatsavai_ All sites: null
+Exisiting water stats null for this key: rajala mandagiri_andhra pradesh_kurnool_pattikonda_ All sites: null
+Exisiting water stats null for this key: agraharam_andhra pradesh_prakasam_marripudi_ All sites: null
+Exisiting water stats null for this key: naupada_andhra pradesh_srikakulam_santabommali_ All sites: null
+Exisiting water stats null for this key: tarapuramdw_andhra pradesh_vizianagaram_ramabhadrapuram_ All sites: null
+Exisiting water stats null for this key: lakshmipuram_andhra pradesh_west godavari_dwarakatirumala_ All sites: null
+Exisiting water stats null for this key: kanapuram_andhra pradesh_west godavari_koyyalagudem_ All sites: null
+Exisiting water stats null for this key: tinmurty_bihar_banka_belhar_ All sites: null
+Exisiting water stats null for this key: parihara_bihar_begusarai_balia_ All sites: null
+Exisiting water stats null for this key: tarar_bihar_bhagalpur_sonhaula_ All sites: null
+Exisiting water stats null for this key: karnempur_bihar_bhojpur_shahpur_ All sites: null
+Exisiting water stats null for this key: jarawarpur milki_bihar_bhojpur_ara_ All sites: null
+Exisiting water stats null for this key: jorja_bihar_drabhanga_baheri_ All sites: null
+Exisiting water stats null for this key: bithauli_bihar_drabhanga_baheri_ All sites: null
+Exisiting water stats null for this key: akauna_bihar_gaya_amas_ All sites: null
+Exisiting water stats null for this key: babubarhi_bihar_madubani_babu barhi_ All sites: null
+Exisiting water stats null for this key: ambedkar nagar_bihar_madubani_laukaha (khutauna)_ All sites: null
+Exisiting water stats null for this key: jogiya_bihar_madubani_ladania_ All sites: null
+Exisiting water stats null for this key: barkurwa_bihar_muzaffarpur_dholi (moraul)_ All sites: null
+Exisiting water stats null for this key: vena_bihar_nalanda_rahui_ All sites: null
+Exisiting water stats null for this key: pakribrawan pond_bihar_nawada_pokri barawan_ All sites: null
+Exisiting water stats null for this key: raghunathpur_bihar_purba champaran_ramgarhwa_ All sites: null
+Exisiting water stats null for this key: belhi_bihar_purba champaran_ramgarhwa_ All sites: null
+Exisiting water stats null for this key: mohabbatpur_bihar_purba champaran_dhaka_ All sites: null
+Exisiting water stats null for this key: chhauradanu_bihar_purba champaran_narkatia_ All sites: null
+Exisiting water stats null for this key: shyampur_bihar_purba champaran_adapur_ All sites: null
+Exisiting water stats null for this key: budhia gola_bihar_purnia_banmankhi_ All sites: null
+Exisiting water stats null for this key: mangujan_bihar_purnia_barhara_ All sites: null
+Exisiting water stats null for this key: auraiya_bihar_rohtas_nawhatta_ All sites: null
+Exisiting water stats null for this key: malipur_bihar_samastipur_hasanpur_ All sites: null
+Exisiting water stats null for this key: sarai ranjan_bihar_samastipur_sarairanjan_ All sites: null
+Exisiting water stats null for this key: rampur kala_bihar_saran_jalalpur_ All sites: null
+Exisiting water stats null for this key: saguni_bihar_saran_parsa_ All sites: null
+Exisiting water stats null for this key: saidpur_bihar_saran_parsa_ All sites: null
+Exisiting water stats null for this key: sarbarpur_bihar_sheohar_belsand_ All sites: null
+Exisiting water stats null for this key: belsand_bihar_sheohar_belsand_ All sites: null
+Exisiting water stats null for this key: purnhaiya_bihar_sheohar_piprarhi_ All sites: null
+Exisiting water stats null for this key: pupri_bihar_sitamarhi_pupri_ All sites: null
+Exisiting water stats null for this key: sarripatti_bihar_siwan_bhagwanpur hat_ All sites: null
+Exisiting water stats null for this key: sadikpur_bihar_siwan_pachrukhi_ All sites: null
+Exisiting water stats null for this key: murarpatti_bihar_siwan_raghunathpur_ All sites: null
+Exisiting water stats null for this key: malmalia_bihar_siwan_bhagwanpur hat_ All sites: null
+Exisiting water stats null for this key: jadia_bihar_supaul_tribeniganj_ All sites: null
+Exisiting water stats null for this key: tribeniganj_bihar_supaul_tribeniganj_ All sites: null
+Exisiting water stats null for this key: gajipur_bihar_vaishali_sahdai buzurg (desri_ All sites: null
+Exisiting water stats null for this key: chak sikandar_bihar_vaishali_bidupur_ All sites: null
+Exisiting water stats null for this key: mathura_bihar_vaishali_bidupur_ All sites: null
+Exisiting water stats null for this key: meghraj_gujarat_sabar kantha_meghraj_ All sites: null
+Exisiting water stats null for this key: shahzadpur_haryana_ambala_shahzadpur_ All sites: null
+Exisiting water stats null for this key: bichali dhamouli_haryana_ambala_shahzadpur_ All sites: null
+Exisiting water stats null for this key: nikuwana_haryana_ambala_shahzadpur_ All sites: null
+Exisiting water stats null for this key: shuhama_jammu and kashmir_srinagar_ganderbal_ All sites: null
+Exisiting water stats null for this key: chainpur_jharkhand_gumla_chainpur_ All sites: null
+Exisiting water stats null for this key: tatijhariya_jharkhand_hazaribagh_bishungarh_ All sites: null
+Exisiting water stats null for this key: dari_jharkhand_hazaribagh_churchu_ All sites: null
+Exisiting water stats null for this key: jodu katte guddeanngadi_karnataka_udupi_karkal_ All sites: null
+Exisiting water stats null for this key: jobat new_madhya pradesh_alirajpur_jobat_ All sites: null
+Exisiting water stats null for this key: patta_madhya pradesh_alirajpur_alirajpur_ All sites: null
+Exisiting water stats null for this key: nagara bandh_madhya pradesh_anuppur_kotma_ All sites: null
+Exisiting water stats null for this key: athaikhera_madhya pradesh_ashok nagar_mungoali_ All sites: null
+Exisiting water stats null for this key: sahrai_madhya pradesh_ashok nagar_mungoali_ All sites: null
+Exisiting water stats null for this key: jhiri_madhya pradesh_burhanpur_burhanpur_ All sites: null
+Exisiting water stats null for this key: burhanpur_madhya pradesh_burhanpur_burhanpur_ All sites: null
+Exisiting water stats null for this key: tukai khurd_madhya pradesh_burhanpur_khaknar_ All sites: null
+Exisiting water stats null for this key: bedia_madhya pradesh_khandwa_harsud_ All sites: null
+Exisiting water stats null for this key: udaipur_madhya pradesh_khandwa_punasa_ All sites: null
+Exisiting water stats null for this key: ghosali_madhya pradesh_khandwa_punasa_ All sites: null
+Exisiting water stats null for this key: gaderiya_madhya pradesh_singrauli_waidhan_ All sites: null
+Exisiting water stats null for this key: parsauna_madhya pradesh_singrauli_waidhan_ All sites: null
+Exisiting water stats null for this key: ghunghuti new_madhya pradesh_umaria_pali_ All sites: null
+Exisiting water stats null for this key: shirala_maharashtra_sangli_shirala_ All sites: null
+Exisiting water stats null for this key: parasamba_orissa_gajapathi_guma_ All sites: null
+Exisiting water stats null for this key: ranipetta_orissa_gajapathi_guma_ All sites: null
+Exisiting water stats null for this key: gogiani_punjab_firozpur_zira_ All sites: null
+Exisiting water stats null for this key: lohere khurd_punjab_firozpur_zira_ All sites: null
+Exisiting water stats null for this key: mallu wala_punjab_firozpur_zira_ All sites: null
+Exisiting water stats null for this key: bara mansur wala_punjab_firozpur_zira_ All sites: null
+Exisiting water stats null for this key: talwandi jalle khan_punjab_firozpur_zira_ All sites: null
+Exisiting water stats null for this key: narot jaimalsingh_punjab_gurdaspur_narot jaimalsing_ All sites: null
+Exisiting water stats null for this key: jalalpur_punjab_hoshiarpur_tanda_ All sites: null
+Exisiting water stats null for this key: mianipur_punjab_hoshiarpur_tanda_ All sites: null
+Exisiting water stats null for this key: budhi pind_punjab_hoshiarpur_tanda_ All sites: null
+Exisiting water stats null for this key: baichan_punjab_hoshiarpur_tanda_ All sites: null
+Exisiting water stats null for this key: tanda_punjab_hoshiarpur_tanda_ All sites: null
+Exisiting water stats null for this key: chaunta_punjab_ludhiana_ludhiana - ii_ All sites: null
+Exisiting water stats null for this key: upplan_punjab_ludhiana_ludhiana - ii_ All sites: null
+Exisiting water stats null for this key: katanikalan_punjab_ludhiana_ludhiana - ii_ All sites: null
+Exisiting water stats null for this key: mangat_punjab_ludhiana_ludhiana - ii_ All sites: null
+Exisiting water stats null for this key: alamgir_punjab_ludhiana_ludhiana - ii_ All sites: null
+Exisiting water stats null for this key: gehlan_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: gharangne_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: khokhar kalan_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: mansa_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: khiala kalan_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: hera wala_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: burj rathi_punjab_mansa_mansa_ All sites: null
+Exisiting water stats null for this key: samaspur_punjab_patiala_sanaur_ All sites: null
+Exisiting water stats null for this key: dusarna_punjab_rupnagar_majari_ All sites: null
+Exisiting water stats null for this key: panjgaraina_punjab_sangrur_sherpur_ All sites: null
+Exisiting water stats null for this key: mahooda_rajasthan_chittaurgarh_dungla_ All sites: null
+Exisiting water stats null for this key: talambadi_tamil nadu_namakkal_puduchatram_ All sites: null
+Exisiting water stats null for this key: desur_tamil nadu_tiruvannamalai_thellar_ All sites: null
+Exisiting water stats null for this key: wadgaon_telangana_adilabad_tanoor_ All sites: null
+Exisiting water stats null for this key: tamsi_telangana_adilabad_tamsi_ All sites: null
+Exisiting water stats null for this key: kuntala_telangana_adilabad_neredigonda_ All sites: null
+Exisiting water stats null for this key: beltaroad_telangana_adilabad_tanoor_ All sites: null
+Exisiting water stats null for this key: begampet_telangana_hyderabad_secunderabad_ All sites: null
+Exisiting water stats null for this key: baswapur_telangana_karimnagar_kataram_ All sites: null
+Exisiting water stats null for this key: madharam_telangana_khammam_malkalapalli_ All sites: null
+Exisiting water stats null for this key: sitarampuram_telangana_khammam_penuballi_ All sites: null
+Exisiting water stats null for this key: akkanagudem_telangana_khammam_venkatapuram_ All sites: null
+Exisiting water stats null for this key: nayakangudem_telangana_khammam_kusumanchi_ All sites: null
+Exisiting water stats null for this key: somavaram_telangana_nalgonda_neredcherla_ All sites: null
+Exisiting water stats null for this key: wankamamidi_telangana_nalgonda_choutuppal_ All sites: null
+Exisiting water stats null for this key: suryapet_telangana_nalgonda_suryapet_ All sites: null
+Exisiting water stats null for this key: bhogaram_telangana_nalgonda_ramannapet_ All sites: null
+Exisiting water stats null for this key: yerkaram_telangana_nalgonda_suryapet_ All sites: null
+Exisiting water stats null for this key: shaligowraram_telangana_nalgonda_ramannapet_ All sites: null
+Exisiting water stats null for this key: boparam_telangana_nalgonda_kethepalle_ All sites: null
+Exisiting water stats null for this key: nagaram_telangana_nalgonda_valigonda_ All sites: null
+Exisiting water stats null for this key: kistapuram_telangana_nalgonda_miryalaguda_ All sites: null
+Exisiting water stats null for this key: bodangiparti_telangana_nalgonda_chendur_ All sites: null
+Exisiting water stats null for this key: kethepalle_telangana_nalgonda_kethepalle_ All sites: null
+Exisiting water stats null for this key: golankonda_telangana_nalgonda_alair_ All sites: null
+Exisiting water stats null for this key: turupugudem_telangana_nalgonda_alair_ All sites: null
+Exisiting water stats null for this key: chandepalle_telangana_nalgonda_atmakur(m)_ All sites: null
+Exisiting water stats null for this key: chinna padshala_telangana_nalgonda_mothkur_ All sites: null
+Exisiting water stats null for this key: kandagatla_telangana_nalgonda_suryapet_ All sites: null
+Exisiting water stats null for this key: munipampula_telangana_nalgonda_ramannapet_ All sites: null
+Exisiting water stats null for this key: malkapuram_telangana_nalgonda_choutuppal_ All sites: null
+Exisiting water stats null for this key: lingarajpalle_telangana_nalgonda_atmakur(m)_ All sites: null
+Exisiting water stats null for this key: venkatapuram_telangana_nalgonda_turkapalle_ All sites: null
+Exisiting water stats null for this key: ghattupal_telangana_nalgonda_chendur_ All sites: null
+Exisiting water stats null for this key: mallapuram_telangana_nalgonda_yadagirigutta_ All sites: null
+Exisiting water stats null for this key: aler_telangana_nalgonda_alair_ All sites: null
+Exisiting water stats null for this key: martoor_telangana_nalgonda_alair_ All sites: null
+Exisiting water stats null for this key: yerrapahad_telangana_nalgonda_nutankal_ All sites: null
+Exisiting water stats null for this key: salavari_telangana_nalgonda_choutuppal_ All sites: null
+Exisiting water stats null for this key: koratikal_telangana_nalgonda_atmakur(m)_ All sites: null
+Exisiting water stats null for this key: balwemla_telangana_nalgonda_suryapet_ All sites: null
+Exisiting water stats null for this key: angadichittampalli_telangana_ranga reddy_tudoor_ All sites: null
+Exisiting water stats null for this key: dharur_telangana_ranga reddy_dharoor_ All sites: null
+Exisiting water stats null for this key: patel cheruvu tanda_telangana_ranga reddy_manchal_ All sites: null
+Exisiting water stats null for this key: pudur_telangana_ranga reddy_pargi_ All sites: null
+Exisiting water stats null for this key: vattiminapally_telangana_ranga reddy_nawabpet_ All sites: null
+Exisiting water stats null for this key: vishwanathapuram_telangana_ranga reddy_yalal_ All sites: null
+Exisiting water stats null for this key: turmamidi_telangana_ranga reddy_bantwada_ All sites: null
+Exisiting water stats null for this key: yacharam_telangana_ranga reddy_bantwada_ All sites: null
+Exisiting water stats null for this key: siripuram_telangana_ranga reddy_marpalli_ All sites: null
+Exisiting water stats null for this key: marripally_telangana_ranga reddy_hayatnagar_ All sites: null
+Exisiting water stats null for this key: nacharam rd._telangana_ranga reddy_uppal_ All sites: null
+Exisiting water stats null for this key: pasara_telangana_warangal_eturnagaram_ All sites: null
+Exisiting water stats null for this key: mangapeta_telangana_warangal_mangapet_ All sites: null
+Exisiting water stats null for this key: ghanpur_telangana_warangal_ghanpur_ All sites: null
+Exisiting water stats null for this key: baskhari_uttarpradesh_ambedkarnagar_baskhari_ All sites: null
+Exisiting water stats null for this key: akbarpur_uttarpradesh_ambedkarnagar_akbarpur_ All sites: null
+Exisiting water stats null for this key: kanauna_uttarpradesh_azamgarh_dhekma_ All sites: null
+Exisiting water stats null for this key: binawar_uttarpradesh_badaun_salarpur_ All sites: null
+Exisiting water stats null for this key: amanpur_uttarpradesh_etah_amanpur_ All sites: null
+Exisiting water stats null for this key: ganjdundwara_uttarpradesh_etah_ganj dundwara_ All sites: null
+Exisiting water stats null for this key: jaithra_uttarpradesh_etah_jaithara_ All sites: null
+Exisiting water stats null for this key: marahchi_uttarpradesh_etah_marehra_ All sites: null
+Exisiting water stats null for this key: sahawar_uttarpradesh_etah_sahawar_ All sites: null
+Exisiting water stats null for this key: kasganj_uttarpradesh_etah_kasganj_ All sites: null
+Exisiting water stats null for this key: nidhauli_uttarpradesh_etah_nidhauli kalan_ All sites: null
+Exisiting water stats null for this key: awagarh_uttarpradesh_etah_awagarh_ All sites: null
+Exisiting water stats null for this key: soron_uttarpradesh_etah_soron_ All sites: null
+Exisiting water stats null for this key: pure bazar_uttarpradesh_faizabad_pura bazar_ All sites: null
+Exisiting water stats null for this key: madanpur_uttarpradesh_firozabad_madanpur_ All sites: null
+Exisiting water stats null for this key: kharni_uttarpradesh_kannauj_saurikh_ All sites: null
+Exisiting water stats null for this key: chibramau_uttarpradesh_kannauj_chhibramau_ All sites: null
+Exisiting water stats null for this key: jalalabad_uttarpradesh_kannauj_jalalabad_ All sites: null
+Exisiting water stats null for this key: karhal_uttarpradesh_mainpuri_karhal_ All sites: null
+Exisiting water stats null for this key: kuraoli_uttarpradesh_mainpuri_kuraoli_ All sites: null
+Exisiting water stats null for this key: mainpuri_uttarpradesh_mainpuri_mainpuri_ All sites: null
+Exisiting water stats null for this key: bhadohi_uttarpradesh_santravidasnagar_bhadohi_ All sites: null

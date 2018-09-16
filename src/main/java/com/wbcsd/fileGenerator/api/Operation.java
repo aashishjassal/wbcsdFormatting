@@ -34,7 +34,9 @@ public enum Operation {
     SURFACE_WATER_QUALITY("SurfaceWaterQuality"),
 
     /** The ground water quality. */
-    GROUND_WATER_QUALITY("GroundWaterQuality");
+    GROUND_WATER_QUALITY("GroundWaterQuality"),
+    
+    WATER_STATS_UPDATION_2014_ONWARDS("UpdateWaterStats2014");
 
     /** The value. */
     private final String value;
