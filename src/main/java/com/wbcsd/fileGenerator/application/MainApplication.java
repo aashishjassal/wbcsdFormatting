@@ -10,7 +10,9 @@ import com.wbcsd.fileGenerator.application.util.CommandLineParameters;
 import com.wbcsd.fileGenerator.application.util.CommandLineReader;
 import com.wbcsd.fileGenerator.application.util.DamDataGenerator;
 import com.wbcsd.fileGenerator.application.util.GroundWaterOtherIndicatorsGenerator;
+import com.wbcsd.fileGenerator.application.util.GroundWaterOtherIndicatorsGenerator2013;
 import com.wbcsd.fileGenerator.application.util.GroundWaterQualityGenerator;
+import com.wbcsd.fileGenerator.application.util.GroundWaterQualityGenerator_v2013;
 import com.wbcsd.fileGenerator.application.util.RainfallDataGenerator;
 import com.wbcsd.fileGenerator.application.util.SiteDataMapPopulator;
 import com.wbcsd.fileGenerator.application.util.SiteDataMapPopulator_PrimaryInfoAsKey;
@@ -67,6 +69,10 @@ public class MainApplication {
 
 	private final GroundWaterQualityGenerator groundWaterQualityGenerator;
 
+	private final GroundWaterQualityGenerator_v2013 groundWaterQualityGenerator_v2013;
+
+	private final GroundWaterOtherIndicatorsGenerator2013 groundWaterOtherIndicatorsGenerator2013;
+
 	/**
 	 * @param reader
 	 */
@@ -89,6 +95,8 @@ public class MainApplication {
 		waterStatsUpdation_2014_15 = new WaterStatsUpdation_2014_15();
 		groundWaterQualityDataReader = new GroundWaterQualityDataReader(dataReader);
 		groundWaterQualityGenerator = new GroundWaterQualityGenerator();
+		groundWaterQualityGenerator_v2013 = new GroundWaterQualityGenerator_v2013();
+		groundWaterOtherIndicatorsGenerator2013 = new GroundWaterOtherIndicatorsGenerator2013();
 	}
 
 	public void execute(String[] args) {
@@ -182,6 +190,20 @@ public class MainApplication {
 			List<String[]> newData = dataReader.readFileData(parameters.getFilePath());
 			waterStatsUpdation_2014_15.generate(oldData, newData, parameters.getGenerationPath());
 			break;
+		case GROUND_WATER_QUALITY_2013:
+			System.out.println(
+					"Ground water status updation for year 2013. Also read existing data from existing file and apply updates to it.");
+			oldData = dataReader.readFileData(parameters.getGroundWaterQualityPath());
+			newData = dataReader.readFileData(parameters.getFilePath());
+			groundWaterQualityGenerator_v2013.generate(oldData, newData, parameters.getGenerationPath());
+			break;
+		case GROUND_WATER_OTHER_INDICATORS_2013:
+			System.out.println(
+					"Ground water other indicators updation for year 2013. Also read existing data from existing file and apply updates to it.");
+			oldData = dataReader.readFileData(parameters.getgWaterOtherIndicatorsPath());
+			newData = dataReader.readFileData(parameters.getFilePath());
+			groundWaterOtherIndicatorsGenerator2013.generate(oldData, newData, parameters.getGenerationPath());
+			break;
 		default:
 			break;
 		}
@@ -192,8 +214,7 @@ public class MainApplication {
 	/**
 	 * The main method.
 	 * 
-	 * @param args
-	 *            the arguments
+	 * @param args the arguments
 	 */
 	public static void main(String[] args) {
 		System.out.println("Starting application..Reading command line arguments");

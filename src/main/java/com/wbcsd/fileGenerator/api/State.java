@@ -1,5 +1,7 @@
 package com.wbcsd.fileGenerator.api;
 
+import org.apache.commons.lang3.StringUtils;
+
 /**
  * The Enum State.
  * 
@@ -9,7 +11,7 @@ package com.wbcsd.fileGenerator.api;
 public enum State {
 
 	/** The andaman. */
-	ANDAMAN("01", "Andaman and Nicobar Island"),
+	ANDAMAN("01", "ANDAMAN & NICOBAR"),
 
 	/** The andhra pradesh. */
 	ANDHRA_PRADESH("02", "Andhra Pradesh"),
@@ -27,7 +29,7 @@ public enum State {
 	/** The dadar. */
 	DADAR("08", "Dadra And Nagar Haveli"),
 	/** The daman diu. */
-	DAMAN_DIU("09", "Daman and Diu"),
+	DAMAN_DIU("09", "Daman & Diu"),
 	/** The delhi. */
 	DELHI("10", "Delhi"),
 	/** The goa. */
@@ -92,10 +94,8 @@ public enum State {
 	/**
 	 * Instantiates a new site type.
 	 * 
-	 * @param pCode
-	 *            the code
-	 * @param pName
-	 *            the description
+	 * @param pCode the code
+	 * @param pName the description
 	 */
 	private State(final String pCode, final String pName) {
 		this.code = pCode;
@@ -123,8 +123,7 @@ public enum State {
 	/**
 	 * Value.
 	 * 
-	 * @param name
-	 *            the name
+	 * @param name the name
 	 * @return the state
 	 */
 	public static State value(String name) {
@@ -138,6 +137,7 @@ public enum State {
 
 	public static State valueByCode(String code) {
 		for (State state : State.values()) {
+			code = StringUtils.leftPad(code, 2, "0");
 			if (state.getCode().equalsIgnoreCase(code)) {
 				return state;
 			}

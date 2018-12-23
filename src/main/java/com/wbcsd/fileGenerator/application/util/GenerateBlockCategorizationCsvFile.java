@@ -38,7 +38,7 @@ public class GenerateBlockCategorizationCsvFile {
      */
     public GenerateBlockCategorizationCsvFile(final CSVWriterFactory pCsvWriterFactory) {
         this.csvWriterFactory = pCsvWriterFactory;
-        yearList = Lists.newArrayList(2004, 2009, 2011);
+        yearList = Lists.newArrayList(2004, 2009, 2011,2013);
     }
 
     /**
@@ -68,8 +68,8 @@ public class GenerateBlockCategorizationCsvFile {
             for (final BlockCategarizationImpl blockCat : blockCategorizationData) {
                 try {
                     String[] entries = new String[] {Country.INDIA.getCode(), Country.INDIA.getName(),
-                            blockCat.getState().getCode(), blockCat.getState().getName(), blockCat.getDistrict(),
-                            blockCat.getBlock()};
+                            blockCat.getState().getCode().toUpperCase(), blockCat.getState().getName().toUpperCase(), blockCat.getDistrict().toUpperCase(),
+                            blockCat.getBlock().toUpperCase()};
 
                     for (Integer year : yearList) {
                         entries = putStatus(blockCat, entries, year);
@@ -98,7 +98,7 @@ public class GenerateBlockCategorizationCsvFile {
     private String[] putStatus(final BlockCategarizationImpl blockCat, String[] entries, Integer year) {
         ExploitationStatus status = blockCat.getYearBasedAverage().get(year);
         if (status != null) {
-            entries = ArrayUtils.addAll(entries, status.getValue());
+            entries = ArrayUtils.addAll(entries, status.toString());
         } else {
             entries = ArrayUtils.addAll(entries, StringUtils.EMPTY);
         }
