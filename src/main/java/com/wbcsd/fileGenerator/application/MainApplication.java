@@ -21,6 +21,7 @@ import com.wbcsd.fileGenerator.application.util.SurfaceWaterQualityGenerator;
 import com.wbcsd.fileGenerator.application.util.WaterStatsGenerator;
 import com.wbcsd.fileGenerator.application.util.WaterStatsGenerator_Pre2011;
 import com.wbcsd.fileGenerator.application.util.WaterStatsUpdation_2014_15;
+import com.wbcsd.fileGenerator.application.util.WaterStatsUpdation_2015_17;
 import com.wbcsd.fileGenerator.excel.CSVDataReader;
 import com.wbcsd.fileGenerator.excel.DamDataReader;
 import com.wbcsd.fileGenerator.excel.GroundWaterQualityDataReader;
@@ -46,6 +47,8 @@ public class MainApplication {
 	private final WaterStatsGenerator_Pre2011 waterStatsGenerator_2007Onwards;
 
 	private final WaterStatsUpdation_2014_15 waterStatsUpdation_2014_15;
+
+	private final WaterStatsUpdation_2015_17 waterStatsUpdation_2015_17;
 
 	private final SiteDataMapPopulator populator;
 
@@ -93,6 +96,7 @@ public class MainApplication {
 		rainfallDataGenerator = new RainfallDataGenerator();
 		surfaceWaterQualityGenerator = new SurfaceWaterQualityGenerator();
 		waterStatsUpdation_2014_15 = new WaterStatsUpdation_2014_15();
+		waterStatsUpdation_2015_17 = new WaterStatsUpdation_2015_17();
 		groundWaterQualityDataReader = new GroundWaterQualityDataReader(dataReader);
 		groundWaterQualityGenerator = new GroundWaterQualityGenerator();
 		groundWaterQualityGenerator_v2013 = new GroundWaterQualityGenerator_v2013();
@@ -189,6 +193,14 @@ public class MainApplication {
 			List<String[]> oldData = dataReader.readFileData(parameters.getSiteDataPath());
 			List<String[]> newData = dataReader.readFileData(parameters.getFilePath());
 			waterStatsUpdation_2014_15.generate(oldData, newData, parameters.getGenerationPath());
+			break;
+		case WATER_STATS_UPDATION_2015_ONWARDS:
+			System.out.println(
+					"Water status updation for year 2015 onwards. Also read existing data from existing file and apply updates to it.");
+			oldData = dataReader.readFileData(parameters.getSiteDataPath());
+			List<String[]> newData2015PostMonsoon = dataReader.readFileData(parameters.getFilePath());
+			List<String[]> newData2016_17 = dataReader.readFileData(parameters.getMonsoon2016_17Path());
+			waterStatsUpdation_2015_17.generate(oldData, newData2015PostMonsoon,newData2016_17, parameters.getGenerationPath());
 			break;
 		case GROUND_WATER_QUALITY_2013:
 			System.out.println(

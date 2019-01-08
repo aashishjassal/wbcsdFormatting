@@ -36,8 +36,7 @@ public class LatLongImpl implements LatLong {
 	/**
 	 * Sets the latitude.
 	 * 
-	 * @param pLatitude
-	 *            the latitude to set
+	 * @param pLatitude the latitude to set
 	 */
 	public void setLatitude(String pLatitude) {
 		this.latitude = pLatitude;
@@ -46,8 +45,7 @@ public class LatLongImpl implements LatLong {
 	/**
 	 * Sets the longitude.
 	 * 
-	 * @param pLongitude
-	 *            the longitude to set
+	 * @param pLongitude the longitude to set
 	 */
 	public void setLongitude(String pLongitude) {
 		this.longitude = pLongitude;
@@ -72,6 +70,23 @@ public class LatLongImpl implements LatLong {
 		HashCodeBuilder b = new HashCodeBuilder();
 		b.append(getLatitude()).append(getLongitude());
 		return b.toHashCode();
+	}
+
+	@Override
+	public String toString() {
+		return "[lat=" + latitude + ", long=" + longitude + "]";
+	}
+
+	public Integer getLatAsIngt() {
+		String l = getLatitude().replaceAll("°", "").replaceAll("'", "").replaceAll("\"", "").replaceAll("E", "")
+				.replaceAll("W", "").replaceAll("N", "").replaceAll("S", "").trim();
+		return Integer.parseInt(l);
+	}
+
+	public Integer getLongAsIngt() {
+		String l = getLongitude().replaceAll("°", "").replaceAll("'", "").replaceAll("\"", "").replaceAll("E", "")
+				.replaceAll("W", "").replaceAll("N", "").replaceAll("S", "").trim();
+		return Integer.parseInt(l);
 	}
 
 }

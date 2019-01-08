@@ -9,5 +9,8 @@ public interface LatLong {
     String getLatitude();
 
     String getLongitude();
+    
+    Integer getLatAsIngt();
+    Integer getLongAsIngt();
 
 }

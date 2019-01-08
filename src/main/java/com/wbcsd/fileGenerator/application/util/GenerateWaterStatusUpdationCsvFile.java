@@ -39,7 +39,7 @@ public class GenerateWaterStatusUpdationCsvFile {
 	 */
 	public GenerateWaterStatusUpdationCsvFile(final CSVWriterFactory pCsvWriterFactory) {
 		this.csvWriterFactory = pCsvWriterFactory;
-		yearList = Lists.newArrayList(2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015);
+		yearList = Lists.newArrayList(2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015,2016,2017);
 	}
 
 	/**
@@ -77,6 +77,7 @@ public class GenerateWaterStatusUpdationCsvFile {
 			CSVWriterWrapper writer = csvWriterFactory.create(fileLocation, fileName);
 			for (final WaterStatsticsUpdationImpl stats : waterStatus) {
 				try {
+					
 					String[] entries = new String[] { stats.getCountry().getCode(), stats.getCountry().getName(),
 							stats.getState().getCode(), stats.getState().getName(), stats.getDistrict(),
 							stats.getBlock(), stats.getId(), stats.getName(), stats.getLatLong().getLatitude(),
@@ -86,7 +87,6 @@ public class GenerateWaterStatusUpdationCsvFile {
 						entries = putQuarterValues(stats, entries, year);
 					}
 					i += 1;
-					System.out.println("Count: " + i);
 					writer.writeNext(entries);
 				} catch (RuntimeException exception) {
 					exception.printStackTrace();

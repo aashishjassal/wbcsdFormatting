@@ -23,6 +23,7 @@ public class DistrictInfoUtils {
 	static {
 		explicitConversions.put("gandhinagr", "Gandhinagar");
 		explicitConversions.put("puducherry", "PUDUCHERY");
+		explicitConversions.put("pondicherry", "PUDUCHERY");
 		explicitConversions.put("mehaboobnagar", "MAHBUBNAGAR");
 		explicitConversions.put("mehboobnagar", "MAHBUBNAGAR");
 		explicitConversions.put("mehbubnagar", "MAHBUBNAGAR");
@@ -30,7 +31,7 @@ public class DistrictInfoUtils {
 		explicitConversions.put("chittor", "Chittoor");
 		explicitConversions.put("vishakhapatnam", "VISAKHAPATNAM");
 		explicitConversions.put("east  godavari", "EAST GODAVARI");
-		explicitConversions.put("morigaon", "MARIGAON");
+		explicitConversions.put("marigaon", "MORIGAON");
 		explicitConversions.put("papumpara", "PAPUM PARE");
 		explicitConversions.put("purnea", "Purnia");
 		explicitConversions.put("kamrup metro", "KAMRUP");
@@ -56,6 +57,8 @@ public class DistrictInfoUtils {
 		explicitConversions.put("palamau", "PALAMU");
 		explicitConversions.put("west singbhum", "PASCHIM SINGHBHUMI");
 		explicitConversions.put("west singhbhum", "PASCHIM SINGHBHUMI");
+		explicitConversions.put("pashchimi singhbhum", "PASCHIM SINGHBHUMI");
+		
 		explicitConversions.put("belgam", "Belgaum");
 		explicitConversions.put("alapuzha", "ALAPPUZHA");
 		explicitConversions.put("kasargode", "KASARAGOD");
@@ -80,7 +83,7 @@ public class DistrictInfoUtils {
 		explicitConversions.put("nawapara", "NUAPADA");
 		explicitConversions.put("sonepur", "Sonapur");
 		explicitConversions.put("bhatinda", "BATHINDA");
-//        explicitConversions.put("fatehgarh sahib", "FATEH GARH");
+       explicitConversions.put("fateh garh", "FATEHGARH SAHIB");
 		explicitConversions.put("sawai madhopur", "SWAIMADHOPUR");
 		explicitConversions.put("nagapatinam", "Nagapattinam");
 		explicitConversions.put("perambulur", "Perambalur");
@@ -120,13 +123,13 @@ public class DistrictInfoUtils {
 
 		explicitConversions.put("bagalkote", "Bagalkot");
 		explicitConversions.put("chamrajnagara", "Chamarajanagar");
-//        explicitConversions.put("davangere", "Davanagere");
-//        explicitConversions.put("uttar kannada", "Uttara Kannada");
-//        explicitConversions.put("kasargod", "KASARAGOD");
+        explicitConversions.put("davanagere", "DAVANGERE");
+        explicitConversions.put("uttara kannada", "Uttar Kannada");
+        explicitConversions.put("kasaragod", "KASARGOD");
 		explicitConversions.put("waynad", "WAYANAD");
 		explicitConversions.put("narsinghpur", "NARSHIMAPURA");
 
-//        explicitConversions.put("buldhana", "Buldana");
+        explicitConversions.put("buldana", "Buldhana");
 		explicitConversions.put("sindhudurg", "Sindudurg");
 		explicitConversions.put("yeotmal", "Yavatmal");
 		explicitConversions.put("thoubal block", "THOUBAL");
@@ -141,6 +144,8 @@ public class DistrictInfoUtils {
 		explicitConversions.put("angul", "ANUGUL");
 		explicitConversions.put("bolangir", "BALANGIR");
 		explicitConversions.put("boudh", "BAUDA");
+		explicitConversions.put("baudh", "BAUDA");
+
 		explicitConversions.put("jagatsinghpur", "JAGATSINGHAPUR");
 		explicitConversions.put("jajpur", "JAJAPUR");
 		explicitConversions.put("sundergarh", "SUNDARGARH");
@@ -152,6 +157,9 @@ public class DistrictInfoUtils {
 
 		explicitConversions.put("chittorgarh", "CHITTAURGARH");
 		explicitConversions.put("dholpur", "DHAULPUR");
+		explicitConversions.put("jalore", "JALOR");
+		explicitConversions.put("jhunjhunu", "JHUNJHUNUN");
+
 		explicitConversions.put("kancheepuram", "KANCHIPURAM");
 
 		explicitConversions.put("kanniyakumari", "Kanyakumari");
@@ -161,6 +169,7 @@ public class DistrictInfoUtils {
 		explicitConversions.put("baghapat", "BAGHPAT");
 		explicitConversions.put("basti.", "BASTI");
 		explicitConversions.put("bulandshahar", "BULANDSAHAR");
+		explicitConversions.put("bulandshahr", "BULANDSAHAR");
 		explicitConversions.put("g.b. nagar", "GAUTAMBUDHNAGAR");
 		explicitConversions.put("kaushambhi", "KAUSHAMBI");
 
@@ -172,9 +181,10 @@ public class DistrictInfoUtils {
 		explicitConversions.put("shajahanpur", "SHAHJAHANPUR");
 
 		explicitConversions.put("siddhrth nagar", "SIDDHARTHNAGAR");
-//        explicitConversions.put("malda", "Maldah");
+        explicitConversions.put("maldah", "MALDA");
 		explicitConversions.put("uttar dinajpur", "UTTAR_DINAJPUR");
-		explicitConversions.put("dakshin dinajpur", "SOUTH DINAJPUR");
+		explicitConversions.put("north dinajpur", "UTTAR_DINAJPUR");
+		explicitConversions.put("south  dinajpur", "DAKSHIN DINAJPUR");
 
 		explicitConversions.put("howrah", "HAORA");
 		explicitConversions.put("purulia", "PURULIYA");
@@ -182,8 +192,8 @@ public class DistrictInfoUtils {
 		explicitConversions.put("hoogly", "HUGLI");
 		explicitConversions.put("purba medi`pur", "EAST MEDINIPUR");
 		explicitConversions.put("east midnapore", "EAST MEDINIPUR");
-		explicitConversions.put("west midnapore", "WEST MEDINIPUR");
-		explicitConversions.put("paschim medinipur", "WEST MEDINIPUR");
+		explicitConversions.put("west midnapore", "PASHCHIM MEDINIPUR");
+		explicitConversions.put("west medinipur", "PASHCHIM MEDINIPUR");
 		explicitConversions.put("chandigarh ut", "Chandigarh");
 		explicitConversions.put("ut of dadra & nagar haveli", "Dadra And Nagar Haveli");
 		explicitConversions.put("ysr kadapa", "CUDDAPAH");
@@ -193,6 +203,8 @@ public class DistrictInfoUtils {
 		explicitConversions.put("ramanagara", "RAMNAGAR");
 		explicitConversions.put("kozhikode", "KOZIKOD");
 		explicitConversions.put("trivandrum", "THIRUVANANTHPURAM");
+		explicitConversions.put("thiruvananthapuram", "THIRUVANANTHPURAM");
+
 		explicitConversions.put("thrissur", "TRISHUR");
 		explicitConversions.put("neemuch", "NIMACH");
 		explicitConversions.put("jaisalmer", "JAISELMER");
@@ -210,11 +222,18 @@ public class DistrictInfoUtils {
 		explicitConversions.put("kanpur nagar", "KANPUR");
 		explicitConversions.put("muzaffarnagar", "MUZAFARNAGAR");
 		explicitConversions.put("raibareli", "RAIBEARELI");
+		
 		explicitConversions.put("raebareli", "RAIBEARELI");
 		explicitConversions.put("murshidabad", "MURSIDABAD");
 		explicitConversions.put("north 24-parganas", "NORTH 24 PRAGANA");
+		explicitConversions.put("north 24 parganas", "NORTH 24 PRAGANA");
+		
 		explicitConversions.put("burdwan", "BARDAMAN");
+		explicitConversions.put("barddhaman", "BARDAMAN");
+
 		explicitConversions.put("purba medinipore", "EASTMEDNIPUR");
+		explicitConversions.put("east medinipur", "EASTMEDNIPUR");
+		
 		explicitConversions.put("paschim medinipore", "PASHCHIM MEDINIPUR");
 		explicitConversions.put("papum pare", "PAPUM-PARE");
 		explicitConversions.put("karbi anglong", "KARBI ANALOG");
@@ -275,11 +294,19 @@ public class DistrictInfoUtils {
 		explicitConversions.put("rangareddy & hyderabad", "RANGA REDDY");
 		explicitConversions.put("dima hasao", "N.C HILLS");
 		explicitConversions.put("coochbehar", "KOCHBIHAR");
+		explicitConversions.put("east", "EAST DELHI");
+		explicitConversions.put("north", "NORTH DELHI");
+		explicitConversions.put("north west", "NORTH WEST DELHI");
+		explicitConversions.put("ahmedabad", "AHMADABAD");
+		explicitConversions.put("narsimhapur", "NARSHIMAPURA");
+
+		explicitConversions.put("mumbai suburban", "SUBURBAN MUMBAI");
+
 	}
 
 	public static String getOverriddenNameIfApplicable(String name) {
 		if (explicitConversions.containsKey(name.toLowerCase())) {
-			return explicitConversions.get(name.toLowerCase());
+			return explicitConversions.get(name.toLowerCase()).toUpperCase();
 		}
 
 		return name;

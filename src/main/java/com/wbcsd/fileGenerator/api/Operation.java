@@ -40,6 +40,7 @@ public enum Operation {
 
 	/** The water stats updation 2014 onwards. */
 	WATER_STATS_UPDATION_2014_ONWARDS("UpdateWaterStats2014"),
+	WATER_STATS_UPDATION_2015_ONWARDS("UpdateWaterStats2015"),
 	/** The ground water quality 2013. */
 	GROUND_WATER_QUALITY_2013("GroundWaterQuality2013"),
 

@@ -404,7 +404,6 @@ public class SiteInfoUtils {
 
 		return buffer.toString();
 	}
-
 	public static String getStateDistrictBlockKey(final String stateName, final String districtName,
 			final String blockName) {
 		StringBuffer buffer = new StringBuffer();

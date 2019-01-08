@@ -26,8 +26,7 @@ public class CommandLineReader {
 	/**
 	 * Instantiates a new ran sys command line reader.
 	 * 
-	 * @param logger
-	 *            the logger
+	 * @param logger the logger
 	 */
 	public CommandLineReader() {
 		parser = new BasicParser();
@@ -37,8 +36,7 @@ public class CommandLineReader {
 	/**
 	 * Read command line info.
 	 * 
-	 * @param args
-	 *            the args
+	 * @param args the args
 	 * @return the command line parameters
 	 */
 	public CommandLineParameters readCommandLineInfo(final String[] args) {
@@ -56,6 +54,7 @@ public class CommandLineReader {
 		String rainfallLatestDataFolderPath = "";
 		String surfaceWaterQualityPath = "";
 		String groundWaterQualityPath = "";
+		String monsoon2016_17Path = "";
 
 		options.addOption("o", "Operation", true, "Operation");
 		options.addOption("f", "File Path", true, "File Path");
@@ -71,6 +70,7 @@ public class CommandLineReader {
 		options.addOption("rfL", "Rainfall Latest Data", true, "Rainfall Latest Data");
 		options.addOption("sw", "Surface water", true, "Surface water");
 		options.addOption("gw", "Ground water", true, "Ground water");
+		options.addOption("mo", "Monsoon", true, "Monsoon 2016_17");
 
 		try {
 			CommandLine commandLine = parser.parse(options, args);
@@ -116,11 +116,14 @@ public class CommandLineReader {
 			if (commandLine.hasOption("gw")) {
 				groundWaterQualityPath = commandLine.getOptionValue("gw");
 			}
+			if (commandLine.hasOption("mo")) {
+				monsoon2016_17Path = commandLine.getOptionValue("mo");
+			}
 			Operation operation = Operation.value(operationStr);
 			commLineParam = new CommandLineParameters(operation, filePath, generationPath, siteDataPath, filePath2007,
 					bc2004Path, bc2009Path, bc2011Path, gWaterOtherIndicatorsPath, damDataFolderPath,
 					rainfallDataFolderPath, rainfallLatestDataFolderPath, surfaceWaterQualityPath,
-					groundWaterQualityPath);
+					groundWaterQualityPath, monsoon2016_17Path);
 		} catch (ParseException e) {
 			e.printStackTrace();
 		}

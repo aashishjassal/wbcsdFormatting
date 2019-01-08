@@ -20,28 +20,28 @@ public class BlockMapper {
 	public static final Map<String, String> explicitConversions = new HashMap<String, String>();
 
 	static {
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_BAZARHATNOOR", "BAZAR HATNUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_LAXMANCHANDA", "LAKSHMANCHANDA");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_BAZARHATNOOR", "BAZAR HATNUR");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_LAXMANCHANDA", "LAKSHMANCHANDA");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
+		explicitConversions.put("TELANGANA_ADILABAD_DANDEPALLY", "DANDEPALLI");
 
-		// explicitConversions.put("ANDHRA PRADESH_ADILABAD_CHITTIAL", "");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_DILWARPUR", "DILAWARPUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_GUDIHATNOOR", "GUDIHATHNUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_INDRAVELLI", "INDERAVELLI");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_JAINOOR", "JAINUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_KUBEER", "KUBIR");
-		// explicitConversions.put("ANDHRA PRADESH_ADILABAD_LOHESRA", "");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_LUXETTIPET", "LAKSHETIPET");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_NEREDIGONDA", "NEREDIKONDA");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_TANDUR", "TANUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_UTNOOR", "UTNUR");
-		explicitConversions.put("ANDHRA PRADESH_ADILABAD_VEMANPALLI", "VEMANAPALLE");
+		explicitConversions.put("ANDHRA PRADESH_VIZIANAGARAM_THERLAM", "TERLAM");
+		explicitConversions.put("TELANGANA_ADILABAD_DILWARPUR", "DILAWARPUR");
+		explicitConversions.put("TELANGANA_ADILABAD_GUDIHATNOOR", "GUDIHATHNUR");
+		explicitConversions.put("TELANGANA_ADILABAD_INDRAVELLI", "INDERAVELLI");
+		explicitConversions.put("TELANGANA_ADILABAD_JAINOOR", "JAINUR");
+		explicitConversions.put("TELANGANA_ADILABAD_KUBEER", "KUBIR");
+		// explicitConversions.put("TELANGANA_ADILABAD_LOHESRA", "");
+		explicitConversions.put("TELANGANA_ADILABAD_LUXETTIPET", "LAKSHETIPET");
+		explicitConversions.put("TELANGANA_ADILABAD_NEREDIGONDA", "NEREDIKONDA");
+		explicitConversions.put("TELANGANA_ADILABAD_TANDUR", "TANUR");
+		explicitConversions.put("TELANGANA_ADILABAD_UTNOOR", "UTNUR");
+		explicitConversions.put("TELANGANA_ADILABAD_VEMANPALLI", "VEMANAPALLE");
 		explicitConversions.put("ANDHRA PRADESH_ANANTHAPUR_ATMAKUR", "ATMAKURU");
 		// explicitConversions.put("ANDHRA
 		// PRADESH_ANANTHAPUR_BUKKARAYASAMUDRAM", "");
@@ -136,53 +136,53 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_PEDAKAKANI", "PEDA KAKANI");
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_PEDANANDIPADU", "PEDDA NANDIPADU");
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_PITTALAVANIPALEM", "PITTALAVARIPALEM");
-		// explicitConversions.put("ANDHRA PRADESH_GUNTUR_PRATHIPADU", "");
+		explicitConversions.put("ANDHRA PRADESH_SRIKAKULAM_KOTHABOMMALI", "KOTABOMMALI");
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_SATTENAPALLE", "SATTANAPALLE");
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_THULLURU", "TULLURU");
 		explicitConversions.put("ANDHRA PRADESH_GUNTUR_VELDURTI", "VELUDURTI");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_AMBERPET", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_AMEERPET", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_ASIFNAGAR", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_BAHADURPURA", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_GOLCONDA", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_MAREDPALLY", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_NAMPALLY", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_SHAIKPET", "");
-		// explicitConversions.put("ANDHRA PRADESH_HYDERABAD_TIRUMALGIRI", "");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_BHIMDEVARAPALLE",
+		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_TALLAPUDI", "THALLAPUDI");
+		// explicitConversions.put("TELANGANA_HYDERABAD_AMEERPET", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_ASIFNAGAR", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_BAHADURPURA", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_GOLCONDA", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_MAREDPALLY", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_NAMPALLY", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_SHAIKPET", "");
+		// explicitConversions.put("TELANGANA_HYDERABAD_TIRUMALGIRI", "");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_BHIMDEVARAPALLE",
 		// "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_CHENDURTHI", "CHANDURTI");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_GOLLAPALLI", "GOLLAPAALI");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_HUZURABAD", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_JAGITYAL", "JAGTIAL");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KAMANPUR", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KODIMIAL", "KODMIAL");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KORATLA", "KORUTLA");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MAHADEOPUR", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MAIDIPALLI", "MAIDPALLI");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MUKTARAM", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MUTTARAM", "MUTHARAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_RAMAGUNDAM", "RAMGUNDAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_SIRICILLA", "SIRSILLA");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_TIMMAPUR", "TIMMAPURAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_VELAGATOOR", "VELGATUR");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_ASWARAOPET", "ASHWARAOPET");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_BURGAMPAHAD", "BHURGAMPADU");
-		// explicitConversions.put("ANDHRA PRADESH_KHAMMAM_ENKUR", "");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_JULURPAD", "JULURUPADU");
-		// explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KAMEPALLI", "");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KHAMMAM(R)", "KHAMMAM RURAL");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KONJERLA", "KONIJERLA");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KUKUNUR", "KUKNURU");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KUSUMANCHI", "KUSHMANCHI");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_MALKALAPALLI", "MULAKALAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_MANGUR", "MANUGUR");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_PALVANCHA", "PALONCHA");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_SANTHUPALLI", "SATTUPALLI");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_TALADA", "TALLADA");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_TEKULAPALLI", "TEKULAPALLE");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_TIRUMALAYAPALEM", "THIRUMALAYAPALEM");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_WAZEED", "WAJIDU");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_CHENDURTHI", "CHANDURTI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_GOLLAPALLI", "GOLLAPAALI");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_HUZURABAD", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_JAGITYAL", "JAGTIAL");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_KAMANPUR", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KODIMIAL", "KODMIAL");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KORATLA", "KORUTLA");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_MAHADEOPUR", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_MAIDIPALLI", "MAIDPALLI");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_MUKTARAM", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_MUTTARAM", "MUTHARAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_RAMAGUNDAM", "RAMGUNDAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_SIRICILLA", "SIRSILLA");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_TIMMAPUR", "TIMMAPURAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_VELAGATOOR", "VELGATUR");
+		explicitConversions.put("TELANGANA_KHAMMAM_ASWARAOPET", "ASHWARAOPET");
+		explicitConversions.put("TELANGANA_KHAMMAM_BURGAMPAHAD", "BHURGAMPADU");
+		// explicitConversions.put("TELANGANA_KHAMMAM_ENKUR", "");
+		explicitConversions.put("TELANGANA_KHAMMAM_JULURPAD", "JULURUPADU");
+		// explicitConversions.put("TELANGANA_KHAMMAM_KAMEPALLI", "");
+		explicitConversions.put("TELANGANA_KHAMMAM_KHAMMAM(R)", "KHAMMAM RURAL");
+		explicitConversions.put("TELANGANA_KHAMMAM_KONJERLA", "KONIJERLA");
+		explicitConversions.put("TELANGANA_KHAMMAM_KUKUNUR", "KUKNURU");
+		explicitConversions.put("TELANGANA_KHAMMAM_KUSUMANCHI", "KUSHMANCHI");
+		explicitConversions.put("TELANGANA_KHAMMAM_MALKALAPALLI", "MULAKALAPALLI");
+		explicitConversions.put("TELANGANA_KHAMMAM_MANGUR", "MANUGUR");
+		explicitConversions.put("TELANGANA_KHAMMAM_PALVANCHA", "PALONCHA");
+		explicitConversions.put("TELANGANA_KHAMMAM_SANTHUPALLI", "SATTUPALLI");
+		explicitConversions.put("TELANGANA_KHAMMAM_TALADA", "TALLADA");
+		explicitConversions.put("TELANGANA_KHAMMAM_TEKULAPALLI", "TEKULAPALLE");
+		explicitConversions.put("TELANGANA_KHAMMAM_TIRUMALAYAPALEM", "THIRUMALAYAPALEM");
+		explicitConversions.put("TELANGANA_KHAMMAM_WAZEED", "WAJIDU");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_A.KONDURU", "ATLAPRAGADA KONDURU");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_BANTUMILLI", "BANTUMMILLI");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_CHALLAPALLI", "CHALLAPALLE");
@@ -199,63 +199,68 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_KURNOOL_PEAPALLE", "PYAPALLI");
 		explicitConversions.put("ANDHRA PRADESH_KURNOOL_UYYALAWADA", "UYYALAVADA");
 		explicitConversions.put("ANDHRA PRADESH_KURNOOL_VELDURTHI", "VELDURTI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_BHOOTHPUR", "BUTHPUR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_BOMBASPET", "BOMRASPET");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_DEVARAKADRA", "DEVARKADRA");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_DOULTABAD", "DOULATABAD");
-		// explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_FAROOQNAGAR",
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_BHOOTHPUR", "BUTHPUR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_BOMBASPET", "BOMRASPET");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_DEVARAKADRA", "DEVARKADRA");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_DOULTABAD", "DOULATABAD");
+		// explicitConversions.put("TELANGANA_MAHABUBNAGAR_FAROOQNAGAR",
 		// "");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_ITIKYAL", "TIKYALA");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_KALWAKURTHY", "KALWAKURTHI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_KOSIGI", "KOSGI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_KOTHUR", "KOTTUR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_MADUGUL", "MADGUL");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_MANAPAD", "MANOPADU");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_MIDGIL", "MIDJIL");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_NARWA", "NARVA");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_PEBBAIR", "PEBBURU");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_PEDDAKOTHAPALLE", "PEDDAKOTTAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_TALKONDAPALLE", "TALAKONDAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_VANGOOR", "VANGUR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_VEEPANGANDLA", "WEPANGANDLA");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_DAULATABAD", "DOULTABAD");
-		// explicitConversions.put("ANDHRA PRADESH_MEDAK_HATHNURA", "");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_JERASANGAM", "JHARASANGAM");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_JINNARAM", "JINNAWARAM");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_KALHER", "KALLAR");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_KAUDIPALLE", "KOWDIPALLE");
-		// explicitConversions.put("ANDHRA PRADESH_MEDAK_KOHIR", "");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_MANUR", "MANOOR");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_NARAYANKHED", "NARAYANKHER");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_NAYALKAL", "NYALKAL");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_RAIKOD", "RAIGOD");
-		// explicitConversions.put("ANDHRA PRADESH_MEDAK_RANGAMPET", "");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_SADASEOPET", "SADASIVPET");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_SANGAREDDY", "SANGAREDDI");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_ZAHIRABAD", "ZAHEERABAD");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_BOMMALARAMARAM", "BOMMALA RAMAWARAM");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_CHEVEMULA", "CHIWEMLA");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_CHINTHAPALLE", "CHINTAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_CHOUTUPPAL", "CHAUTUPPAL");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_DEVARAKONDA", "DEVARKONDA");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_GAREDAPALLE", "GAREDPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_GUNDLAPALLE", "GUNDLAPALLI");
-		// explicitConversions.put("ANDHRA PRADESH_NALGONDA_JAJIREDDYGUDEM",
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_ITIKYAL", "TIKYALA");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KALWAKURTHY", "KALWAKURTHI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KOSIGI", "KOSGI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KOTHUR", "KOTTUR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_MADUGUL", "MADGUL");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_MANAPAD", "MANOPADU");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_MIDGIL", "MIDJIL");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_NARWA", "NARVA");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_PEBBAIR", "PEBBURU");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_PEDDAKOTHAPALLE", "PEDDAKOTTAPALLI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_TALKONDAPALLE", "TALAKONDAPALLI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_VANGOOR", "VANGUR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_VEEPANGANDLA", "WEPANGANDLA");
+		explicitConversions.put("TELANGANA_MEDAK_DAULATABAD", "DOULTABAD");
+		// explicitConversions.put("TELANGANA_MEDAK_HATHNURA", "");
+		explicitConversions.put("TELANGANA_MEDAK_JERASANGAM", "JHARASANGAM");
+		explicitConversions.put("TELANGANA_MEDAK_JINNARAM", "JINNAWARAM");
+		explicitConversions.put("TELANGANA_MEDAK_KALHER", "KALLAR");
+		explicitConversions.put("TELANGANA_MEDAK_KAUDIPALLE", "KOWDIPALLE");
+		// explicitConversions.put("TELANGANA_MEDAK_KOHIR", "");
+		explicitConversions.put("TELANGANA_MEDAK_MANUR", "MANOOR");
+		explicitConversions.put("TELANGANA_MEDAK_NARAYANKHED", "NARAYANKHER");
+		explicitConversions.put("TELANGANA_MEDAK_NAYALKAL", "NYALKAL");
+		explicitConversions.put("TELANGANA_MEDAK_RAIKOD", "RAIGOD");
+		explicitConversions.put("TELANGANA_MEDAK_REGODE", "RAIGOD");
+		explicitConversions.put("TELANGANA_MEDAK_SHANKARAMPET(R)", "SHANKARAMPET");
+
+		// explicitConversions.put("TELANGANA_MEDAK_RANGAMPET", "");
+		explicitConversions.put("TELANGANA_MEDAK_SADASEOPET", "SADASIVPET");
+		explicitConversions.put("TELANGANA_MEDAK_SANGAREDDY", "SANGAREDDI");
+		explicitConversions.put("TELANGANA_MEDAK_ZAHIRABAD", "ZAHEERABAD");
+		explicitConversions.put("TELANGANA_NALGONDA_BOMMALARAMARAM", "BOMMALA RAMAWARAM");
+		explicitConversions.put("TELANGANA_NALGONDA_CHEVEMULA", "CHIWEMLA");
+		explicitConversions.put("TELANGANA_NALGONDA_CHINTHAPALLE", "CHINTAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_CHOUTUPPAL", "CHAUTUPPAL");
+		explicitConversions.put("TELANGANA_NALGONDA_DEVARAKONDA", "DEVARKONDA");
+		explicitConversions.put("TELANGANA_NALGONDA_GAREDAPALLE", "GAREDPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_GUNDLAPALLE", "GUNDLAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_KANAGAL", "KANAGALLU");
+
+		// explicitConversions.put("TELANGANA_NALGONDA_JAJIREDDYGUDEM",
 		// "");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_KETHEPALLE", "KETHEPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MARRIGUDA", "MARRIGUDEM");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MATTAMPALLE", "MATHAMPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MIRYALAGUDA", "MIRIALGUDA");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MUNGALA", "MUNAGALA");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MUNUGODE", "MUNGOD");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_NAMPALLY", "NAMPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_NARAYANAPUR", "NARAYANPUR");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_PEDDAVOORA", "PEDDAVURU");
-		// explicitConversions.put("ANDHRA PRADESH_NALGONDA_POCHAMPALLE", "");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_SURYAPET", "SURIAPET");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_TIRUMALGIRI", "TIRMALGIRI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_TURKAPALLE", "TURKAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_VEGULAPALLE", "VEMULAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_KETHEPALLE", "KETHEPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_MARRIGUDA", "MARRIGUDEM");
+		explicitConversions.put("TELANGANA_NALGONDA_MATTAMPALLE", "MATHAMPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_MIRYALAGUDA", "MIRIALGUDA");
+		explicitConversions.put("TELANGANA_NALGONDA_MUNGALA", "MUNAGALA");
+		explicitConversions.put("TELANGANA_NALGONDA_MUNUGODE", "MUNGOD");
+		explicitConversions.put("TELANGANA_NALGONDA_NAMPALLY", "NAMPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_NARAYANAPUR", "NARAYANPUR");
+		explicitConversions.put("TELANGANA_NALGONDA_PEDDAVOORA", "PEDDAVURU");
+		// explicitConversions.put("TELANGANA_NALGONDA_POCHAMPALLE", "");
+		explicitConversions.put("TELANGANA_NALGONDA_SURYAPET", "SURIAPET");
+		explicitConversions.put("TELANGANA_NALGONDA_TIRUMALGIRI", "TIRMALGIRI");
+		explicitConversions.put("TELANGANA_NALGONDA_TURKAPALLE", "TURKAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_VEGULAPALLE", "VEMULAPALLI");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_BALAYAPALLI", "BALAIAHPALLI");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_JALADANDI", "JALADANKI");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_KOLUVOYA", "KALUVOYA");
@@ -263,14 +268,14 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_KOVVUR", "KOVUR");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_MUTHUKUR", "MUTTUKURU");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_NAIDUPETA", "NAYUDUPETA");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_BALAKONDA", "BALKONDA");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_BHIKNUR", "BIKNUR");
-		// explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_DHARPUR", "");
-		// explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_DICHKONDA", "");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_JAKRAMPALLE", "JAKRANPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_KOTGIR", "KOTAGIR1");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_TADVAI", "TADWAI");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_YELLAREDDY", "YELLAREDDI");
+		explicitConversions.put("TELANGANA_NIZAMABAD_BALAKONDA", "BALKONDA");
+		explicitConversions.put("TELANGANA_NIZAMABAD_BHIKNUR", "BIKNUR");
+		// explicitConversions.put("TELANGANA_NIZAMABAD_DHARPUR", "");
+		// explicitConversions.put("TELANGANA_NIZAMABAD_DICHKONDA", "");
+		explicitConversions.put("TELANGANA_NIZAMABAD_JAKRAMPALLE", "JAKRANPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_KOTGIR", "KOTAGIR1");
+		explicitConversions.put("TELANGANA_NIZAMABAD_TADVAI", "TADWAI");
+		explicitConversions.put("TELANGANA_NIZAMABAD_YELLAREDDY", "YELLAREDDI");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_BESTAVARIPETA", "BESTAVARAPUPETA");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_HANUMANTHUNIPADU", "HANUMANTUNIPADU");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_JANAKAVARAM-PANGULLU", "JANAKAVARAM PANUGULURU");
@@ -282,14 +287,14 @@ public class BlockMapper {
 		// "");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_ZARUDUMALLI", "ZARUGUMALLI");
 
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_BANTWADA", "BANTWARAM");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_GANDED", "GANDVID");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_IBRAHIMPATNAM", "IBRAHIMPATAN");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_MAHESWARAM", "MAHESHWARAM");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_MOMINPET", "MOMANPET");
+		explicitConversions.put("TELANGANA_RANGA REDDY_BANTWADA", "BANTWARAM");
+		explicitConversions.put("TELANGANA_RANGA REDDY_GANDED", "GANDVID");
+		explicitConversions.put("TELANGANA_RANGA REDDY_IBRAHIMPATNAM", "IBRAHIMPATAN");
+		explicitConversions.put("TELANGANA_RANGA REDDY_MAHESWARAM", "MAHESHWARAM");
+		explicitConversions.put("TELANGANA_RANGA REDDY_MOMINPET", "MOMANPET");
 
-		// explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_TUDOOR", "");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_YALAL", "YELAL");
+		// explicitConversions.put("TELANGANA_RANGA REDDY_TUDOOR", "");
+		explicitConversions.put("TELANGANA_RANGA REDDY_YALAL", "YELAL");
 		explicitConversions.put("ANDHRA PRADESH_SRIKAKULAM_ETCHERLA", "ECHCHERLA");
 		explicitConversions.put("ANDHRA PRADESH_SRIKAKULAM_HEERAMANDALAM", "HIRAMANDALAM");
 		explicitConversions.put("ANDHRA PRADESH_SRIKAKULAM_ICHAPURAM", "ICHCHAPURAM");
@@ -317,24 +322,27 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_VIZIANAGARAM_PUSPATIREGA", "PUSAPATIREGA");
 		explicitConversions.put("ANDHRA PRADESH_VIZIANAGARAM_SALURU", "SALLUR");
 		explicitConversions.put("ANDHRA PRADESH_VIZIANAGARAM_SEETANAGARAM", "SITANAGARAM");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_BACHANNAPET", "BACHCHANNAPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_CHITTIAL", "CHITYALA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_DEVARUPPALA", "EVARUPPAL");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_ETURNAGARAM", "ETURUNAGARAM");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_HASAN PARTHI", "HASANPARTI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_KODAKUNDLA", "KODAKANDLA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_LINGALA GHANPUR", "LINGAL GHANPURAM");
-		// explicitConversions.put("ANDHRA PRADESH_WARANGAL_MAHABUBABAD", "");
-		// explicitConversions.put("ANDHRA PRADESH_WARANGAL_NAGAREDDIPET", "");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_NARMETTA", "NARMETA");
-		// explicitConversions.put("ANDHRA PRADESH_WARANGAL_NELLIKUDUR", "");
-		// explicitConversions.put("ANDHRA PRADESH_WARANGAL_PARVATAGIRI", "");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_RAGHUNATHAPALLI", "RAGHUNATHPALLI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_RAIPARTHY", "RAIPARTHI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_SHAYAMPET", "SAYAMPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_THORRUR", "TORUR");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_WARADANNAPET", "VARDANNAPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_ZAFFERGADH", "ZAFARGARH");
+		explicitConversions.put("TELANGANA_WARANGAL_BACHANNAPET", "BACHCHANNAPET");
+		explicitConversions.put("TELANGANA_WARANGAL_CHITTIAL", "CHITYALA");
+		explicitConversions.put("TELANGANA_WARANGAL_DEVARUPPALA", "EVARUPPAL");
+		explicitConversions.put("TELANGANA_WARANGAL_ETURNAGARAM", "ETURUNAGARAM");
+		explicitConversions.put("TELANGANA_WARANGAL_HASAN PARTHI", "HASANPARTI");
+		explicitConversions.put("TELANGANA_WARANGAL_KODAKUNDLA", "KODAKANDLA");
+		explicitConversions.put("TELANGANA_WARANGAL_LINGALA GHANPUR", "LINGAL GHANPURAM");
+		explicitConversions.put("TELANGANA_WARANGAL_GHANPUR", "GHANPUR(MULUG)");
+
+		
+		// explicitConversions.put("TELANGANA_WARANGAL_MAHABUBABAD", "");
+		// explicitConversions.put("TELANGANA_WARANGAL_NAGAREDDIPET", "");
+		explicitConversions.put("TELANGANA_WARANGAL_NARMETTA", "NARMETA");
+		// explicitConversions.put("TELANGANA_WARANGAL_NELLIKUDUR", "");
+		// explicitConversions.put("TELANGANA_WARANGAL_PARVATAGIRI", "");
+		explicitConversions.put("TELANGANA_WARANGAL_RAGHUNATHAPALLI", "RAGHUNATHPALLI");
+		explicitConversions.put("TELANGANA_WARANGAL_RAIPARTHY", "RAIPARTHI");
+		explicitConversions.put("TELANGANA_WARANGAL_SHAYAMPET", "SAYAMPET");
+		explicitConversions.put("TELANGANA_WARANGAL_THORRUR", "TORUR");
+		explicitConversions.put("TELANGANA_WARANGAL_WARADANNAPET", "VARDANNAPET");
+		explicitConversions.put("TELANGANA_WARANGAL_ZAFFERGADH", "ZAFARGARH");
 		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_AKIVEEDU", "AKIVIDU");
 		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_BHEEMADOLE", "BHIMADOLU");
 		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_BUTTAYAGUDEM", "BUTTAIGUDEM");
@@ -364,9 +372,10 @@ public class BlockMapper {
 		explicitConversions.put("ASSAM_JORHAT_JORHAT WEST", "WEST JORHAT CIRCLE");
 		explicitConversions.put("ASSAM_JORHAT_TITABOR", "TITABAR CIRCLE");
 		explicitConversions.put("ASSAM_KAMRUP_CHANDRAPUR", "CHANDANPUR CIRCLE");
+		explicitConversions.put("ASSAM_KAMRUP_CHHAYGAON", "CHHAYGAON CIRCLE");
 		explicitConversions.put("ASSAM_KAMRUP_KAMALPUR(PT.)", "KAMALPUR CIRCLE");
 		explicitConversions.put("ASSAM_KAMRUP_PALASBARI", "PALASHBARI CIRCLE");
-		// explicitConversions.put("ASSAM_KARBI ANALOG_DONKA", "");
+		explicitConversions.put("ASSAM_KAMRUP_SONAPUR", "SONAPUR CIRCLE");
 		// explicitConversions.put("ASSAM_KARBI ANALOG_PHULONI", "");
 		// explicitConversions.put("ASSAM_KARBI ANALOG_SILONIJAN", "");
 		// explicitConversions.put("ASSAM_KOKRAJHAR_SIDLI", "");
@@ -383,7 +392,7 @@ public class BlockMapper {
 		// explicitConversions.put("ASSAM_NALBARI_KAMARKUCHI", "");
 		// explicitConversions.put("ASSAM_NALBARI_TAMULPUR", "");
 		explicitConversions.put("ASSAM_TINSUKIA_DOOM DOOMA", "DUMDUMA CIRCLE");
-		// explicitConversions.put("BIHAR_ARARIYA_JOKIHAT", "");
+		explicitConversions.put("BIHAR_ARARIYA_FORBESGANJ", "FORBES GANJ");
 		// explicitConversions.put("BIHAR_ARARIYA_NARPATGANJ", "");
 		// explicitConversions.put("BIHAR_AURANGABAD_BARUN", "");
 		// explicitConversions.put("BIHAR_AURANGABAD_DEO", "");
@@ -393,7 +402,7 @@ public class BlockMapper {
 		// explicitConversions.put("BIHAR_AURANGABAD_NABINAGAR", "");
 		// explicitConversions.put("BIHAR_AURANGABAD_OBRA", "");
 		// explicitConversions.put("BIHAR_AURANGABAD_RAFIGANJ", "");
-
+		explicitConversions.put("BIHAR_BHOJPUR_ARA", "ARRAH");
 		// explicitConversions.put("BIHAR_BEGUSARAI_BACHHWARA", "");
 		// explicitConversions.put("BIHAR_BEGUSARAI_BARAUNI", "");
 		// explicitConversions.put("BIHAR_BEGUSARAI_CHERIA BARIARPUR", "");
@@ -434,7 +443,7 @@ public class BlockMapper {
 		// explicitConversions.put("BIHAR_GOPALGANJ_MANJHA", "");
 		// explicitConversions.put("BIHAR_JAHANABAD_ARWAL", "");
 		// explicitConversions.put("BIHAR_JAHANABAD_GHOSHI", "");
-		explicitConversions.put("BIHAR_JAHANABAD_JEHANABAD", "JHANABAD");
+		explicitConversions.put("BIHAR_JEHANABAD_JEHANABAD", "JHANABAD");
 		// explicitConversions.put("BIHAR_JAHANABAD_KARPI", "");
 		// explicitConversions.put("BIHAR_JAHANABAD_KURTHA", "");
 		// explicitConversions.put("BIHAR_JAHANABAD_MAKHDUMPUR", "");
@@ -518,7 +527,7 @@ public class BlockMapper {
 		// explicitConversions.put("BIHAR_PURBA CHAMPARAN_PATAHI", "");
 		// explicitConversions.put("BIHAR_PURBA CHAMPARAN_SUGAULI", "");
 		// explicitConversions.put("BIHAR_PURBA CHAMPARAN_TURKAULIA", "");
-		// explicitConversions.put("BIHAR_PURNIA_AMOUR", "");
+		explicitConversions.put("BIHAR_PURNIA_PURNIA EAST", "PURNIA");
 		// explicitConversions.put("BIHAR_PURNIA_BHAWANIPUR", "");
 		// explicitConversions.put("BIHAR_PURNIA_RUPAULI", "");
 		// explicitConversions.put("BIHAR_ROHTAS_CHENARI", "");
@@ -589,7 +598,7 @@ public class BlockMapper {
 		explicitConversions.put("CHHATTISGARH_DURG_DOUNDI", "DONDI LOHARA");
 		explicitConversions.put("CHHATTISGARH_DURG_GUNDERDEHI", "GUNDARDEHI");
 		explicitConversions.put("CHHATTISGARH_DURG_NAVAGARH", "NAWAGARH");
-		// explicitConversions.put("CHHATTISGARH_JANJGIR_CHAMPA_AKALTARA", "");
+		explicitConversions.put("CHHATTISGARH_DURG_DONDILOHARA", "DONDI LOHARA");
 		// explicitConversions.put("CHHATTISGARH_JANJGIR_CHAMPA_BALODA", "");
 		// explicitConversions.put("CHHATTISGARH_JANJGIR_CHAMPA_BAMHNIDIH", "");
 		explicitConversions.put("CHHATTISGARH_JANJGIR_CHAMPA_MALKHARODA", "MALKHURADA");
@@ -603,8 +612,8 @@ public class BlockMapper {
 		// explicitConversions.put("CHHATTISGARH_KAWARDHA_BODLA", "");
 		explicitConversions.put("CHHATTISGARH_KAWARDHA_PANDARIYA", "PANDARIA");
 		// explicitConversions.put("CHHATTISGARH_KAWARDHA_SAHASPUR LOHARA", "");
-		// explicitConversions.put("CHHATTISGARH_KORBA_PONDI", "");
-		// explicitConversions.put("CHHATTISGARH_KOREA_KHADGAWAN", "");
+		explicitConversions.put("CHHATTISGARH_KOREA_MANENDRAGARH", "MANENDRA GARH");
+		explicitConversions.put("CHHATTISGARH_KOREA_BHARATPUR (JANAKPUR)", "BHARATPUR");
 		// explicitConversions.put("CHHATTISGARH_MAHASAMUND_BAGBAHARA", "");
 		// explicitConversions.put("CHHATTISGARH_MAHASAMUND_PITHORA", "");
 		explicitConversions.put("CHHATTISGARH_RAIGARH_DHARMJAIGARH", "DHARAMJAYGARH");
@@ -613,7 +622,7 @@ public class BlockMapper {
 		// explicitConversions.put("CHHATTISGARH_RAIGARH_SARAI LENGHA [BARAM",
 		// "");
 		// explicitConversions.put("CHHATTISGARH_RAIGARH_TAMNAR", "");
-		// explicitConversions.put("CHHATTISGARH_RAIPUR_CHHURA", "");
+		explicitConversions.put("CHHATTISGARH_RAIPUR_BALODABAZAR", "BALODA BAZAR");
 		// explicitConversions.put("CHHATTISGARH_RAIPUR_DEOBHOG", "");
 		// explicitConversions.put("CHHATTISGARH_RAIPUR_DHARSIWA", "");
 		// explicitConversions.put("CHHATTISGARH_RAIPUR_GARIYABAND", "");
@@ -629,7 +638,13 @@ public class BlockMapper {
 		// explicitConversions.put("CHHATTISGARH_SURGUJA_MAINPAT", "");
 		// explicitConversions.put("CHHATTISGARH_SURGUJA_ODGI", "");
 		explicitConversions.put("CHHATTISGARH_SURGUJA_PRATAPPUR", "PRATABPUR");
-		// explicitConversions.put("CHHATTISGARH_SURGUJA_PREMNAGAR", "");
+		 explicitConversions.put("DELHI_WEST_PATEL NAGAR", "WEST");
+		 explicitConversions.put("DELHI_SOUTH WEST_NAJAFGARH", "SOUTH WEST");
+		 
+		 explicitConversions.put("DELHI_EAST DELHI_GANDHI NAGAR", "EAST");
+		 explicitConversions.put("DELHI_NORTH DELHI_NARELA", "NORTH");
+		 explicitConversions.put("DELHI_NORTH WEST DELHI_SARASWATI VIHAR", "NORTH WEST");
+		
 		// explicitConversions.put("CHHATTISGARH_SURGUJA_RAMANUJNAGAR", "");
 		// explicitConversions.put("CHHATTISGARH_SURGUJA_RAMCHANDRAPUR", "");
 		// explicitConversions.put("CHHATTISGARH_SURGUJA_SHANKARGARH", "");
@@ -645,18 +660,20 @@ public class BlockMapper {
 		explicitConversions.put("GUJARAT_BHAVNAGAR_GARIADHAR", "GARIYADHAR");
 		explicitConversions.put("GUJARAT_BHAVNAGAR_VALLABHIPUR", "VALABHIPUR MAHAL");
 		explicitConversions.put("GUJARAT_DAHOD_DEVGAD BARIA", "DEVGADH BARIA");
-		explicitConversions.put("GUJARAT_DAHOD_DOHAD", "DAHOD");
-		explicitConversions.put("GUJARAT_DAHOD_JHALOD", "ZALOD");
-		// explicitConversions.put("GUJARAT_JAMNAGAR_DHROL", "");
+		explicitConversions.put("GUJARAT_DOHAD_DOHAD", "DAHOD");
+		explicitConversions.put("GUJARAT_DOHAD_JHALOD", "ZALOD");
+		explicitConversions.put("GUJARAT_JAMNAGAR_OKHAMANDAL", "OKHA MANDAL");
 		explicitConversions.put("GUJARAT_JAMNAGAR_JAMJODHPUR", "JAM JODHOUR");
-		// explicitConversions.put("GUJARAT_JAMNAGAR_JODIYA", "");
+		explicitConversions.put("GUJARAT_SABAR KANTHA_BHILODA", "BHILOD");
+
+		explicitConversions.put("GUJARAT_SABAR KANTHA_VIJAYNAGAR", "VIJAY NAGAR");
 		explicitConversions.put("GUJARAT_JAMNAGAR_KHAMBHALIA", "KHAMBHALIYA");
 		explicitConversions.put("GUJARAT_NAVSARI_BANSDA", "VANSADA");
-		explicitConversions.put("GUJARAT_PANCHMAHAL_MORWA (HADAF)", "MORWA HADAF");
+		explicitConversions.put("GUJARAT_PANCHMAHALS_MORWA (HADAF)", "MORWA HADAF");
 		explicitConversions.put("GUJARAT_PATAN_SIDHPUR", "SIDDHAPUR");
 		// explicitConversions.put("GUJARAT_PATAN_VAGDOD", "");
 		explicitConversions.put("GUJARAT_RAJKOT_MORVI", "MORBI");
-		// explicitConversions.put("GUJARAT_SURAT_NIZAR", "");
+		explicitConversions.put("GUJARAT_SURAT_SURAT CITY", "SURATCITY");
 		explicitConversions.put("GUJARAT_SURAT_OLPAD", "OLPAS");
 		// explicitConversions.put("GUJARAT_SURAT_SONGADH", "");
 		// explicitConversions.put("GUJARAT_SURAT_UCHCHHAL", "");
@@ -671,7 +688,7 @@ public class BlockMapper {
 		explicitConversions.put("HARYANA_AMBALA_NARAINGARH", "NARAYANGARH");
 		// explicitConversions.put("HARYANA_BHIWANI_BADHRA", "");
 		explicitConversions.put("HARYANA_BHIWANI_BAWANI KHERA", "BAWANI_KHERA");
-		// explicitConversions.put("HARYANA_BHIWANI_DARI- II", "");
+		explicitConversions.put("HARYANA_BHIWANI_DADRI - I", "DADRI");
 		// explicitConversions.put("HARYANA_BHIWANI_KAIRU", "");
 		// explicitConversions.put("HARYANA_FARIDABAD_HATHIN", "");
 		// explicitConversions.put("HARYANA_FATEHABAD_BHATTU KALAN", "");
@@ -688,6 +705,7 @@ public class BlockMapper {
 		// explicitConversions.put("HARYANA_HISAR_BARWALA", "");
 		// explicitConversions.put("HARYANA_HISAR_BASS", "");
 		explicitConversions.put("HARYANA_HISAR_HISSAR - II", "HISAR");
+		explicitConversions.put("HARYANA_HISAR_HISAR - I", "HISAR");
 		explicitConversions.put("HARYANA_HISAR_NARNAUD", "NARNAUND");
 		// explicitConversions.put("HARYANA_JHAJJAR_MATANHAIL", "");
 		// explicitConversions.put("HARYANA_JHAJJAR_SAHLAWAS", "");
@@ -740,12 +758,15 @@ public class BlockMapper {
 		explicitConversions.put("JHARKHAND_DUMKA_GOPIKANDAR", "GOPIKANDRA");
 		explicitConversions.put("JHARKHAND_DUMKA_JAMTARA", "JAMA");
 		explicitConversions.put("JHARKHAND_DUMKA_JARMUNDI", "JAMUNDI");
-		// explicitConversions.put("JHARKHAND_DUMKA_KUNDAHIT", "");
+		explicitConversions.put("JHARKHAND_DHANBAD_BAGHMARA CUM KATRAS", "BAGHMARA");
+		explicitConversions.put("JHARKHAND_DHANBAD_DHANBAD CUM KENDUADI", "DHANBAD");
+		
 		// explicitConversions.put("JHARKHAND_DUMKA_NARAYANPUR", "");
 		explicitConversions.put("JHARKHAND_GARHWA_BHAWANATHPUR", "BHAWNATHPUR");
 		explicitConversions.put("JHARKHAND_GARHWA_MAJHIAON", "MAHJHIAON");
 		// explicitConversions.put("JHARKHAND_GARHWA_UNTARI", "");
 		explicitConversions.put("JHARKHAND_GOODA_GODDA", "GOODA");
+		explicitConversions.put("JHARKHAND_GOODA_PATHARGAMA", "PATHARGAM");
 		explicitConversions.put("JHARKHAND_GOODA_MEHERMA", "MEHERAM");
 		// explicitConversions.put("JHARKHAND_GUMLA_BANO", "");
 		// explicitConversions.put("JHARKHAND_GUMLA_JALDEGA", "");
@@ -757,7 +778,7 @@ public class BlockMapper {
 		// explicitConversions.put("JHARKHAND_HAZARIBAGH_MANDU", "");
 		// explicitConversions.put("JHARKHAND_HAZARIBAGH_PATRATU", "");
 		// explicitConversions.put("JHARKHAND_HAZARIBAGH_RAMGARH", "");
-		// explicitConversions.put("JHARKHAND_PALAMU_BALUMATH", "");
+		explicitConversions.put("JHARKHAND_PALAMU_CHAINPUR (BASHANDI)", "CHAINPUR");
 		// explicitConversions.put("JHARKHAND_PALAMU_BARWADIH", "");
 		// explicitConversions.put("JHARKHAND_PALAMU_CHANDWA", "");
 		explicitConversions.put("JHARKHAND_PALAMU_CHHATARPUR", "CHATTARPUR");
@@ -823,6 +844,8 @@ public class BlockMapper {
 		explicitConversions.put("KARNATAKA_RAICHUR_LINGSUGUR", "LINGA SUGUR (MUDGAL)");
 		explicitConversions.put("KARNATAKA_SHIMOGA_SORAB", "SORBA");
 		explicitConversions.put("KARNATAKA_SHIMOGA_TIRTHAHALLI", "THIRTHAHALLI");
+		explicitConversions.put("KARNATAKA_SHIMOGA_BHADRAVATI", "BHADRAVATHI");
+
 		explicitConversions.put("KARNATAKA_UTTAR KANNADA_SUPA", "JOIDA(SUPA)");
 		explicitConversions.put("KERALA_ALAPPUZHA_AMBALAPUZHA", "AMBALAPPUZHA");
 		// explicitConversions.put("KERALA_ALAPPUZHA_ARYAD", "");
@@ -837,9 +860,8 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_ALAPPUZHA_PATTANAKKAD", "");
 		// explicitConversions.put("KERALA_ALAPPUZHA_THAIKKATUSSERY", "");
 		// explicitConversions.put("KERALA_ALAPPUZHA_VELIYANAD", "");
-		// explicitConversions.put("KERALA_ERNAKULAM_ALANGAD", "");
-		// explicitConversions.put("KERALA_ERNAKULAM_ANGAMALI MUNICIPALITY",
-		// "");
+		explicitConversions.put("KERALA_ERNAKULAM_ALUVA MUNICIPALITY", "ALUVA");
+		explicitConversions.put("KERALA_ERNAKULAM_KOTHAMANGALAM", "KOTAMANGALAM");
 		// explicitConversions.put("KERALA_ERNAKULAM_ANGAMALY", "");
 		// explicitConversions.put("KERALA_ERNAKULAM_KALAMASSERY MUNICIPALITY",
 		// "");
@@ -857,14 +879,14 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_ERNAKULAM_VAZHAKULAM", "");
 		// explicitConversions.put("KERALA_ERNAKULAM_VYPIN", "");
 		// explicitConversions.put("KERALA_ERNAKULAM_VYTILLA", "");
-		// explicitConversions.put("KERALA_IDUKKI_ADIMALI", "");
-		// explicitConversions.put("KERALA_IDUKKI_AZUTHA", "");
+		explicitConversions.put("KERALA_IDUKKI_DEVIKULAM", "DEVIKOLAM");
+		explicitConversions.put("KERALA_IDUKKI_THODUPUZHA", "TODUPUZHA");
 		// explicitConversions.put("KERALA_IDUKKI_ELAMDESOM", "");
 		// explicitConversions.put("KERALA_IDUKKI_IDUKKI", "");
 		// explicitConversions.put("KERALA_IDUKKI_KATTAPPANA", "");
 		// explicitConversions.put("KERALA_IDUKKI_NEDUMKANDAM", "");
 		explicitConversions.put("KERALA_IDUKKI_THODUPUZHA MUNICIPALITY", "TODUPUZHA");
-		// explicitConversions.put("KERALA_KANNUR_EDAKKAD", "");
+		 explicitConversions.put("KERALA_KANNUR_KANNUR MUNICIPALITY", "KANNUR");
 		// explicitConversions.put("KERALA_KANNUR_IRIKKUR", "");
 		// explicitConversions.put("KERALA_KANNUR_IRITTY", "");
 		// explicitConversions.put("KERALA_KANNUR_KOOTHUPARAMBA", "");
@@ -878,7 +900,7 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_KASARGOD_KANHANGAD", "");
 		explicitConversions.put("KERALA_KASARGOD_KASARAGOD MUNICIPALITY", "KASARGOD");
 		explicitConversions.put("KERALA_KASARGOD_KASARAGOD", "KASARGOD");
-		// explicitConversions.put("KERALA_KASARGOD_MANJESHWAR", "");
+		explicitConversions.put("KERALA_KOLLAM_KOLLAM CORPORATION", "KOLLAM");
 		// explicitConversions.put("KERALA_KASARGOD_NILESHWAR", "");
 		// explicitConversions.put("KERALA_KOLLAM_ANCHAL", "");
 		// explicitConversions.put("KERALA_KOLLAM_ANCHALUMMOOD", "");
@@ -894,7 +916,8 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_KOLLAM_SASTHAMKOTTA", "");
 		// explicitConversions.put("KERALA_KOLLAM_VETTIKKAVALA", "");
 		explicitConversions.put("KERALA_KOTTYAM_CHANGANASSERY MUNICIPALITY", "CHANGANASSERI");
-		// explicitConversions.put("KERALA_KOTTYAM_ERATTUPETTA", "");
+		 explicitConversions.put("KERALA_KOTTYAM_KOTTAYAM MUNICIPALITY", "KOTTAYAM");
+		 explicitConversions.put("KERALA_KOTTYAM_VAIKOM MUNICIPALITY", "VAIKOM");
 		// explicitConversions.put("KERALA_KOTTYAM_ETTUMANOOR", "");
 		// explicitConversions.put("KERALA_KOTTYAM_KADUTHURUTHY", "");
 		explicitConversions.put("KERALA_KOTTYAM_KANJIRAPPALLY", "KANJIRAPPALLI");
@@ -917,8 +940,8 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_KOZIKOD_PERAMBRA", "");
 		// explicitConversions.put("KERALA_KOZIKOD_THODANNUR", "");
 		// explicitConversions.put("KERALA_KOZIKOD_THUNERI", "");
-		// explicitConversions.put("KERALA_MALAPPURAM_ANDATHODE", "");
-		// explicitConversions.put("KERALA_MALAPPURAM_AREEKODE", "");
+		explicitConversions.put("KERALA_MALAPPURAM_PERINTHALMANNA", "PERINTALMANNA");
+		explicitConversions.put("KERALA_MALAPPURAM_THIRUR", "TIRUR");
 		// explicitConversions.put("KERALA_MALAPPURAM_KONDOTTY", "");
 		// explicitConversions.put("KERALA_MALAPPURAM_KUTTIPPURAM", "");
 		// explicitConversions.put("KERALA_MALAPPURAM_MALAPPURAM", "");
@@ -967,7 +990,7 @@ public class BlockMapper {
 		// MUNICIPALITY", "");
 		// explicitConversions.put("KERALA_THIRUVANANTHPURAM_VARKALA", "");
 		// explicitConversions.put("KERALA_THIRUVANANTHPURAM_VELLANAD", "");
-		// explicitConversions.put("KERALA_TRISHUR_ANTHICAD", "");
+		explicitConversions.put("KERALA_TRISHUR_THRISSUR CORPORATION", "THRISSUR");
 		// explicitConversions.put("KERALA_TRISHUR_CHALAKUDY MUNICIPALITY", "");
 		// explicitConversions.put("KERALA_TRISHUR_CHALAKUDY", "");
 		// explicitConversions.put("KERALA_TRISHUR_CHERPU", "");
@@ -989,12 +1012,16 @@ public class BlockMapper {
 		// explicitConversions.put("KERALA_WAYANAD_KALPETTA", "");
 		// explicitConversions.put("KERALA_WAYANAD_MANANTHAVADY", "");
 		explicitConversions.put("KERALA_WAYANAD_SULTHANBATHERY", "SULTAN BATTERI");
-		// explicitConversions.put("MADHYA PRADESH_BALAGHAT_BIRSA", "");
+		explicitConversions.put("MAHARASHTRA_AMARAVATI_ANJANGAON SURJI", "ANJANGAON");
+		explicitConversions.put("MAHARASHTRA_AMARAVATI_CHANDURBAZAR", "CHANDUR");
+		explicitConversions.put("MAHARASHTRA_HINGOLI_BASMATH", "BASMAT");
+
+		
 		explicitConversions.put("MADHYA PRADESH_BALAGHAT_LALBARRA", "LALBURRA");
 		// explicitConversions.put("MADHYA PRADESH_BALAGHAT_PARASWADA", "");
 		explicitConversions.put("MADHYA PRADESH_BARWANI_NEWALI", "NIWALI");
 		explicitConversions.put("MADHYA PRADESH_BARWANI_SENDHAWA", "SENDHWA");
-		// explicitConversions.put("MADHYA PRADESH_BETUL_ATHNER", "");
+		explicitConversions.put("MADHYA PRADESH_RATLAM_JAORA", "JAURA");
 		// explicitConversions.put("MADHYA PRADESH_BETUL_CHICHOLI", "");
 		// explicitConversions.put("MADHYA PRADESH_BETUL_GHORA DONGRI", "");
 		// explicitConversions.put("MADHYA PRADESH_BETUL_PRABHAT PATTAM", "");
@@ -1161,6 +1188,8 @@ public class BlockMapper {
 		explicitConversions.put("MAHARASHTRA_LATUR_AHMADPUR", "AHMEDPUR");
 		explicitConversions.put("MAHARASHTRA_NAGPUR_KALAMESHWAR", "KALMESHWAR");
 		explicitConversions.put("MAHARASHTRA_NAGPUR_KAMPTEE", "KAMTHI");
+		explicitConversions.put("MAHARASHTRA_NAGPUR_SAVNER", "S A V N E R");
+
 		explicitConversions.put("MAHARASHTRA_NAGPUR_MOUDA", "MOUDHA");
 		explicitConversions.put("MAHARASHTRA_NANDED_DEGLUR", "DIGLUR");
 		explicitConversions.put("MAHARASHTRA_NANDED_KANDHAR", "KANDAHAR");
@@ -1187,16 +1216,19 @@ public class BlockMapper {
 		explicitConversions.put("MAHARASHTRA_SANGLI_WALWA", "VALVA");
 		explicitConversions.put("MAHARASHTRA_SATARA_JAOLI", "JAVLI");
 		explicitConversions.put("MAHARASHTRA_SATARA_KHATAV", "KHATAO");
-		explicitConversions.put("MAHARASHTRA_SINDHUDURG_DEVGAD", "DEVGARH");
-		explicitConversions.put("MAHARASHTRA_SINDHUDURG_KANKAVLI", "KANKAULI");
-		explicitConversions.put("MAHARASHTRA_SINDHUDURG_MALWAN", "MALVAN");
-		explicitConversions.put("MAHARASHTRA_SINDHUDURG_SAWANTWADI", "SAVANTWADI");
-		explicitConversions.put("MAHARASHTRA_SINDHUDURG_VAIBHAVVADI", "VAIBHAVWADI");
+		explicitConversions.put("MAHARASHTRA_SINDUDURG_DEVGAD", "DEVGARH");
+		explicitConversions.put("MAHARASHTRA_SINDUDURG_KANKAVLI", "KANKAULI");
+		explicitConversions.put("MAHARASHTRA_SINDUDURG_MALWAN", "MALVAN");
+		explicitConversions.put("MAHARASHTRA_SINDUDURG_SAWANTWADI", "SAVANTWADI");
+		explicitConversions.put("MAHARASHTRA_SINDUDURG_VAIBHAVVADI", "VAIBHAVWADI");
 		explicitConversions.put("MAHARASHTRA_SOLAPUR_AKKALKOT", "AKALKOT");
 		explicitConversions.put("MAHARASHTRA_SOLAPUR_BARSHI", "BARSI");
 		explicitConversions.put("MAHARASHTRA_SOLAPUR_MALSHIRAS", "MALSIRAS");
 		explicitConversions.put("MAHARASHTRA_SOLAPUR_MANGALVEDHE", "MANGALVEDHA");
 		explicitConversions.put("MAHARASHTRA_THANE_TALASARI", "TALSARI");
+
+		explicitConversions.put("MAHARASHTRA_WARDHA_SELOO", "SELU");
+
 		explicitConversions.put("MAHARASHTRA_THANE_VADA", "WADA");
 		// explicitConversions.put("MANIPUR_IMPHAL EAST_IMPHAL WEST I", "");
 		// explicitConversions.put("ORISSA_ANUGUL_BANARPAL", "");
@@ -1239,7 +1271,7 @@ public class BlockMapper {
 		// explicitConversions.put("ORISSA_BHADRAK_DHAMANAGAR", "");
 		// explicitConversions.put("ORISSA_BHADRAK_TIHIDI", "");
 		explicitConversions.put("ORISSA_CUTTACK_ATHAGAD", "ATHAGARH");
-		// explicitConversions.put("ORISSA_CUTTACK_BADAMBA", "");
+		explicitConversions.put("ORISSA_CUTTACK_CUTTACKSADAR", "CUTTACK");
 		// explicitConversions.put("ORISSA_CUTTACK_BARANGA", "");
 		// explicitConversions.put("ORISSA_CUTTACK_DAMPARA", "");
 		// explicitConversions.put("ORISSA_CUTTACK_KANTAPADA", "");
@@ -1314,7 +1346,7 @@ public class BlockMapper {
 		// explicitConversions.put("ORISSA_KENDRAPARHA_PATTAMUNDAI", "");
 		// explicitConversions.put("ORISSA_KENDRAPARHA_RAJNAGAR", "");
 		explicitConversions.put("ORISSA_KENDUJHAR_ANANDPUR", "ANANDAPUR");
-		// explicitConversions.put("ORISSA_KENDUJHAR_BANSPAL", "");
+		explicitConversions.put("ORISSA_KENDUJHAR_KENDUJHARGARH", "KENDUJHAR");
 		// explicitConversions.put("ORISSA_KENDUJHAR_GHASIPURA", "");
 		explicitConversions.put("ORISSA_KENDUJHAR_GHATGAON", "GHATAGAON");
 		// explicitConversions.put("ORISSA_KENDUJHAR_HARICHADANPUR", "");
@@ -1404,7 +1436,7 @@ public class BlockMapper {
 		// explicitConversions.put("ORISSA_RAYAGARHA_PADMAPUR", "");
 		// explicitConversions.put("ORISSA_RAYAGARHA_RAMANGUDA", "");
 		explicitConversions.put("ORISSA_RAYAGARHA_RAYAGADA", "RAYAGARHA");
-		// explicitConversions.put("ORISSA_SAMBALPUR_BAMRA", "");
+		explicitConversions.put("ORISSA_SAMBALPUR_KOCHINDA", "KUCHINDA");
 		// explicitConversions.put("ORISSA_SAMBALPUR_DHANKAUDA", "");
 		// explicitConversions.put("ORISSA_SAMBALPUR_JAMANKIRA", "");
 		// explicitConversions.put("ORISSA_SAMBALPUR_JUJOMURA", "");
@@ -1443,7 +1475,7 @@ public class BlockMapper {
 		// explicitConversions.put("PUNJAB_AMRITSAR_VERKA", "");
 		// explicitConversions.put("PUNJAB_BATHINDA_MAUR", "");
 		// explicitConversions.put("PUNJAB_BATHINDA_NATHANA", "");
-		// explicitConversions.put("PUNJAB_BATHINDA_PHUL (WEST)", "");
+		explicitConversions.put("PUNJAB_BATHINDA_RAMPURA", "RAMPURA PHUL");
 		// explicitConversions.put("PUNJAB_BATHINDA_SANGAT", "");
 		// explicitConversions.put("PUNJAB_FARIDKOT_KOTKAPURA", "");
 		explicitConversions.put("PUNJAB_FATEHGARH SAHIB_AMLOH", "ALMOH");
@@ -1465,7 +1497,8 @@ public class BlockMapper {
 		// explicitConversions.put("PUNJAB_GURDASPUR_QUADIAN", "");
 		// explicitConversions.put("PUNJAB_HOSHIARPUR_BHUNGA", "");
 		explicitConversions.put("PUNJAB_HOSHIARPUR_DASUA", "DASUYA");
-		// explicitConversions.put("PUNJAB_HOSHIARPUR_HAZIPUR", "");
+		explicitConversions.put("PUNJAB_HOSHIARPUR_HOSHIARPUR - II", "HOSHIARPUR");
+		explicitConversions.put("PUNJAB_HOSHIARPUR_HOSHIARPUR - I", "HOSHIARPUR");
 		// explicitConversions.put("PUNJAB_HOSHIARPUR_MAHILPUR", "");
 		// explicitConversions.put("PUNJAB_HOSHIARPUR_TALWARA", "");
 		// explicitConversions.put("PUNJAB_JALANDHAR_ADAMPUR", "");
@@ -1486,7 +1519,9 @@ public class BlockMapper {
 		// explicitConversions.put("PUNJAB_LUDHIANA_SUDHAR", "");
 		// explicitConversions.put("PUNJAB_MANSA_BHIKHI", "");
 		// explicitConversions.put("PUNJAB_MANSA_JHUNIR", "");
-		// explicitConversions.put("PUNJAB_MOGA_DHARMKOT", "");
+		explicitConversions.put("PUNJAB_MOGA_MOGA- II", "MOGA");
+		explicitConversions.put("PUNJAB_MOGA_MOGA - I", "MOGA");
+		
 		// explicitConversions.put("PUNJAB_MUKTSAR_LAMBI", "");
 		explicitConversions.put("PUNJAB_MUKTSAR_MALOUT", "MALAUT");
 		// explicitConversions.put("PUNJAB_NAWASHAHR_AUR", "");
@@ -1494,7 +1529,7 @@ public class BlockMapper {
 		explicitConversions.put("PUNJAB_NAWASHAHR_NAWANSHAHR", "NAWASHAHR");
 		// explicitConversions.put("PUNJAB_NAWASHAHR_SAROYA", "");
 		// explicitConversions.put("PUNJAB_PATIALA_BHUNER HERI", "");
-		// explicitConversions.put("PUNJAB_PATIALA_DERA BASSI", "");
+		explicitConversions.put("PUNJAB_FATEHGARH SAHIB_BASSI PATHANA", "BASSI PATHANAN");
 		// explicitConversions.put("PUNJAB_PATIALA_GHANAUR", "");
 		// explicitConversions.put("PUNJAB_PATIALA_PATRAN", "");
 		explicitConversions.put("PUNJAB_RUPNAGAR_CHAMKAUR SAHIB", "CHAMKOR SAHIB");
@@ -1538,7 +1573,7 @@ public class BlockMapper {
 		explicitConversions.put("RAJASTHAN_BHARATPUR_RUPBAS", "RUPWAS");
 		// explicitConversions.put("RAJASTHAN_BHARATPUR_SEWAR", "");
 		explicitConversions.put("RAJASTHAN_BHILWARA_JAHAZPUR", "JAHAJPUR");
-		// explicitConversions.put("RAJASTHAN_BHILWARA_SUWANA", "");
+		explicitConversions.put("RAJASTHAN_BHILWARA_MANDALGARH", "MANDAL");
 		// explicitConversions.put("RAJASTHAN_BUNDI_TALERA", "");
 		// explicitConversions.put("RAJASTHAN_CHITTAURGARH_ARNOD", "");
 		// explicitConversions.put("RAJASTHAN_CHITTAURGARH_BHINSRORGARH", "");
@@ -1556,7 +1591,7 @@ public class BlockMapper {
 		// explicitConversions.put("RAJASTHAN_JAISELMER_SAM", "");
 		// explicitConversions.put("RAJASTHAN_JAISELMER_SANKRA", "");
 		// explicitConversions.put("RAJASTHAN_JALOR_JASWANTPURA", "");
-		// explicitConversions.put("RAJASTHAN_JHALAWAR_BAKANI", "");
+		explicitConversions.put("RAJASTHAN_JHALAWAR_JHALRA PATAN", "JHALRAPATAN");
 		// explicitConversions.put("RAJASTHAN_JHALAWAR_DAG", "");
 		explicitConversions.put("RAJASTHAN_JHALAWAR_PIRAWA", "PIDDAWA");
 		// explicitConversions.put("RAJASTHAN_JHUNJHUNUN_ALSISAR", "");
@@ -1568,7 +1603,7 @@ public class BlockMapper {
 		// explicitConversions.put("RAJASTHAN_KARAULI_TODA BHIM", "");
 		// explicitConversions.put("RAJASTHAN_KOTA_ITAWA", "");
 		// explicitConversions.put("RAJASTHAN_KOTA_SULTANPURA", "");
-		// explicitConversions.put("RAJASTHAN_NAGAUR_KUCHAMAN", "");
+		explicitConversions.put("RAJASTHAN_NAGAUR_LADNU", "LADNUN");
 		// explicitConversions.put("RAJASTHAN_NAGAUR_MUNDWA", "");
 		explicitConversions.put("RAJASTHAN_NAGAUR_PARBATSAR", "PARVATSAR");
 		// explicitConversions.put("RAJASTHAN_NAGAUR_RIYAN", "");
@@ -1584,6 +1619,7 @@ public class BlockMapper {
 		explicitConversions.put("RAJASTHAN_SIKAR_SRI MADHOPUR", "SHRI MADHOPUR");
 		explicitConversions.put("RAJASTHAN_SIROHI_REODAR", "REVDAR");
 		explicitConversions.put("RAJASTHAN_SWAIMADHOPUR_BONLI", "BAULI");
+		explicitConversions.put("RAJASTHAN_SWAIMADHOPUR_SAWAI MADHOPUR", "SAWAIMADHOPUR");
 		// explicitConversions.put("RAJASTHAN_UDAIPUR_BADGAON", "");
 		// explicitConversions.put("RAJASTHAN_UDAIPUR_BHINDER", "");
 		explicitConversions.put("RAJASTHAN_UDAIPUR_GOGUNDA", "GOGANDA");
@@ -1798,7 +1834,7 @@ public class BlockMapper {
 		// explicitConversions.put("TAMIL NADU_TIRUVALLUR_R.K.PET", "");
 		// explicitConversions.put("TAMIL NADU_TIRUVALLUR_TIRUVALANGADU", "");
 		// explicitConversions.put("TAMIL NADU_TIRUVALLUR_VILLIVAKKAM", "");
-		// explicitConversions.put("TAMIL NADU_TIRUVANNAMALAI_ANAKKAVUR", "");
+		explicitConversions.put("TAMIL NADU_TIRUVANNAMALAI_THIRUVANNAMALAI", "TIRUVANNAMALAI");
 		// explicitConversions.put("TAMIL NADU_TIRUVANNAMALAI_CHETPET", "");
 		// explicitConversions.put("TAMIL NADU_TIRUVANNAMALAI_JAMANAMARUTHUR",
 		// "");
@@ -1843,7 +1879,30 @@ public class BlockMapper {
 		explicitConversions.put("TAMIL NADU_VIRUDHUNAGAR_RAJAPALAYAM", "RAJAPALAIYAM");
 		explicitConversions.put("TAMIL NADU_VIRUDHUNAGAR_SRIVILLIPUTTUR", "SIRIVILLIPUTTUR");
 		explicitConversions.put("TAMIL NADU_VIRUDHUNAGAR_TIRUCHCHULI", "THIRUCHULI");
-		// explicitConversions.put("TAMIL NADU_VIRUDHUNAGAR_VEMBAKOTTAI", "");
+		explicitConversions.put("TELANGANA_ADILABAD_NEREDIGONDA", "NEREDIKONDA");
+		explicitConversions.put("TELANGANA_ADILABAD_TANOOR", "TANUR");
+
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KORATLA", "KORUTLA");
+
+		explicitConversions.put("TELANGANA_KHAMMAM_MALKALAPALLI", "MULAKALAPALLI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KALWAKURTHY", "KALWAKURTHI");
+		explicitConversions.put("TELANGANA_NALGONDA_CHINTHAPALLE", "CHINTAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_CHOUTUPPAL", "CHAUTUPPAL");
+		explicitConversions.put("TELANGANA_NALGONDA_KETHEPALLE", "KETHEPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_MATTAMPALLE", "MATHAMPALLI");
+//		explicitConversions.put("TELANGANA_NALGONDA_MIRIALGUDA", "MIRYALAGUDA");
+		explicitConversions.put("TELANGANA_NALGONDA_SURYAPET", "SURIAPET");
+		explicitConversions.put("TELANGANA_NALGONDA_TURKAPALLE", "TURKAPALLI");
+		explicitConversions.put("TELANGANA_RANGA REDDY_BANTWADA", "BANTWARAM");
+		explicitConversions.put("TELANGANA_RANGA REDDY_DHAROOR", "DHARUR");
+		explicitConversions.put("TELANGANA_RANGA REDDY_HAYATNAGAR", "HAYATHNAGAR");
+		explicitConversions.put("TELANGANA_RANGA REDDY_YALAL", "YELAL");
+
+		explicitConversions.put("TELANGANA_WARANGAL_ETURNAGARAM", "ETURUNAGARAM");
+		explicitConversions.put("TELANGANA_WARANGAL_KODAKUNDLA", "KODAKANDLA");
+
+		explicitConversions.put("TELANGANA_WARANGAL_WARADANNAPET", "VARDANNAPET");
+		
 		// explicitConversions.put("TAMIL NADU_VIRUDHUNAGAR_WATRAP", "");
 		// explicitConversions.put("TRIPURA_NORTH TRIPURA_KUMARGHAT", "");
 		// explicitConversions.put("TRIPURA_NORTH TRIPURA_PANISAGAR", "");
@@ -1852,7 +1911,7 @@ public class BlockMapper {
 		// explicitConversions.put("TRIPURA_SOUTH TRIPURA_RAJNAGAR", "");
 		// explicitConversions.put("TRIPURA_WEST TRIPURA_BISHALGARH", "");
 		// explicitConversions.put("TRIPURA_WEST TRIPURA_JIRANIA", "");
-		// explicitConversions.put("TRIPURA_WEST TRIPURA_MOHANPUR", "");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_MOHANPUR-I", "MOHANPUR");
 		// explicitConversions.put("TRIPURA_WEST TRIPURA_TELIAMURA", "");
 		// explicitConversions.put("UTTARAKHAND_DEHRADUN_DOIWALA", "");
 		// explicitConversions.put("UTTARAKHAND_DEHRADUN_FRI AND COLLEGE AREA",
@@ -2288,7 +2347,7 @@ public class BlockMapper {
 		// explicitConversions.put("UTTARPRADESH_SIDDHARTHNAGAR_JOGIA", "");
 		// explicitConversions.put("UTTARPRADESH_SIDDHARTHNAGAR_KHESRAHA", "");
 		// explicitConversions.put("UTTARPRADESH_SIDDHARTHNAGAR_MANWAPUR", "");
-		// explicitConversions.put("UTTARPRADESH_SITAPUR_KASMANDA", "");
+		explicitConversions.put("UTTARPRADESH_SITAPUR_MISRIKH", "MISRIK");
 		// explicitConversions.put("UTTARPRADESH_SITAPUR_KHAIRABAD", "");
 		// explicitConversions.put("UTTARPRADESH_SITAPUR_MACHHREHTA", "");
 		// explicitConversions.put("UTTARPRADESH_SITAPUR_MAHOLI", "");
@@ -2344,6 +2403,10 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_BANKURA_KOTALPUR", "KOTULPUR");
 		explicitConversions.put("WEST BENGAL_BANKURA_MEJIA", "MEJHIA");
 		explicitConversions.put("WEST BENGAL_BANKURA_RANIBANDH", "RANIBUNDH");
+		explicitConversions.put("WEST BENGAL_BANKURA_GANGAJAL GHATI", "GANGAJALGHATI");
+		explicitConversions.put("WEST BENGAL_BANKURA_KHATRA-I", "KHATRA");
+		explicitConversions.put("WEST BENGAL_BANKURA_RAIPUR II", "RAIPUR");
+
 		// explicitConversions.put("WEST BENGAL_BARDAMAN_ANDAL", "");
 		// explicitConversions.put("WEST BENGAL_BARDAMAN_ASANSOL", "");
 		// explicitConversions.put("WEST BENGAL_BARDAMAN_BARDDHAMAN", "");
@@ -2352,8 +2415,32 @@ public class BlockMapper {
 		// explicitConversions.put("WEST BENGAL_BARDAMAN_KULTI", "");
 		explicitConversions.put("WEST BENGAL_BARDAMAN_MANGALKOT", "MANGOLKOTE");
 		explicitConversions.put("WEST BENGAL_BARDAMAN_RAYNA--II", "RAINA - II");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_RAYNA-II", "RAINA - II");
 		explicitConversions.put("WEST BENGAL_BARDAMAN_RAYNA-I", "RAINA - I");
-		// explicitConversions.put("WEST BENGAL_BIRBHUM_DUBRAJPUR", "");
+
+		explicitConversions.put("WEST BENGAL_BARDAMAN_GALSI-I", "GALSI - I");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_GALSI-II", "GALSI - II");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_KALNA-I", "KALNA - I");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_KALNA-II", "KALNA - II");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_KATWA-I", "KATWA - I");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_KATWA-II", "KATWA - II");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_MEMARI-I", "MEMARI- I");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_MEMARI-II", "MEMARI- II");
+
+		explicitConversions.put("WEST BENGAL_BARDAMAN_PURBASTHALI-I", "PURBASTHALI - I");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_PURBASTHALI-II", "PURBASTHALI - II");
+		explicitConversions.put("WEST BENGAL_EASTMEDNIPUR_EGRA-I", "EGRA");
+		explicitConversions.put("WEST BENGAL_EASTMEDNIPUR_EGRA-II", "EGRA");
+
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_CHANDRAKONA-I", "CHANDRAKONA -I");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_CHANDRAKONA-II", "CHANDRAKONA -II");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_DANTAN-I", "DANTAN -I");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_DANTAN-II", "DANTAN -II");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_DASPUR-I", "DASPUR -I");
+		explicitConversions.put("WEST BENGAL_PASHCHIM MEDINIPUR_DASPUR-II", "DASPUR -II");
+		
+		
+		explicitConversions.put("WEST BENGAL_BIRBHUM_BOLPUR-SRINIKETAN", "BOLPUR");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_ILAMBAZAR", "");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_KHAYRASOL", "");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_LABHPUR", "");
@@ -2388,6 +2475,8 @@ public class BlockMapper {
 		// explicitConversions.put("WEST BENGAL_EASTMEDNIPUR_RAMNAGAR-II", "");
 		// explicitConversions.put("WEST BENGAL_EASTMEDNIPUR_SUTAHATA-I", "");
 		explicitConversions.put("WEST BENGAL_HAORA_AMTA-II", "AMTA 2");
+		explicitConversions.put("WEST BENGAL_HAORA_AMTA", "AMTA 1");
+
 		explicitConversions.put("WEST BENGAL_HAORA_SHYAMPUR-I", "SHYAMPUR 1");
 		explicitConversions.put("WEST BENGAL_HAORA_SHYAMPUR-II", "SHYAMPUR 2");
 		explicitConversions.put("WEST BENGAL_HAORA_ULUBERIYA-I", "ULUBERIA 1");
@@ -2415,6 +2504,13 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_KOCHBIHAR_DINHATA - I & II", "DINHATA -I");
 		explicitConversions.put("WEST BENGAL_KOCHBIHAR_KOCHBIHAR - I", "COOCH BEHAR -I");
 		explicitConversions.put("WEST BENGAL_KOCHBIHAR_MEKHLIGANJ", "MEKLIGANJ");
+
+		explicitConversions.put("WEST BENGAL_KOCHBIHAR_MATHABHANGA - I", "MATHABHANGA -I");
+		explicitConversions.put("WEST BENGAL_KOCHBIHAR_MATHABHANGA - II", "MATHABHANGA -II");
+		explicitConversions.put("WEST BENGAL_KOCHBIHAR_TUFANGANJ - I", "TUFANGANJ -I");
+		explicitConversions.put("WEST BENGAL_KOCHBIHAR_TUFANGANJ - II", "TUFANGANJ -II");
+
+		
 		explicitConversions.put("WEST BENGAL_MALDA_BAMONGOLA", "BAMANGOLA");
 		explicitConversions.put("WEST BENGAL_MALDA_GAJOL", "GAZOLE");
 		explicitConversions.put("WEST BENGAL_MALDA_HARISHCHANDRAPUR-I", "HARISCHANDRAPUR -I");
@@ -2422,6 +2518,10 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_MALDA_OLD MALDAH TOWN", "MALDAH(OLD)");
 
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_BAHARAMPUR", "BERHAMPORE");
+
+		explicitConversions.put("WEST BENGAL_MURSIDABAD_BHARATPUR-I", "BHARATPUR -I");
+		explicitConversions.put("WEST BENGAL_MURSIDABAD_BHARATPUR-II", "BHARATPUR -II");
+
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_BARWAN", "BURWAN");
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_JIAGANJ", "MURSHIDABAD JIAGANJ");
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_NOADA", "NAWDA");
@@ -2462,11 +2562,18 @@ public class BlockMapper {
 		// explicitConversions.put("WEST BENGAL_PURULIYA_PARA", "");
 		explicitConversions.put("WEST BENGAL_PURULIYA_PURULIYA-I", "PURULIA -I");
 		explicitConversions.put("WEST BENGAL_PURULIYA_PURULIYA-II", "PURULIA -II");
+		
+		explicitConversions.put("WEST BENGAL_PURULIYA_MANBAZAR-I", "MANBAZAR -I");
+
+		
 		// explicitConversions.put("WEST BENGAL_PURULIYA_RAGHUNATHPUR-II", "");
-		// explicitConversions.put("WEST BENGAL_SOUTH 24 PARGANAS_BASANTI", "");
+		explicitConversions.put("WEST BENGAL_SOUTH 24 PARGANAS_MAGRAHAT-I", "MAGRAHAT -I");
 		explicitConversions.put("WEST BENGAL_SOUTH 24 PARGANAS_KAKDIP", "KAKDWIP");
 		explicitConversions.put("WEST BENGAL_UTTAR_DINAJPUR_GOALPOKHOR-II", "GOALPOKHAR -II");
 		explicitConversions.put("WEST BENGAL_UTTAR_DINAJPUR_KALIGANJ", "KALIAGANJ");
+
+		explicitConversions.put("WEST BENGAL_SOUTH 24 PARGANAS_DIAMONDHARBOUR-I", "DIAMOND HARBOUR -I");
+		explicitConversions.put("WEST BENGAL_SOUTH 24 PARGANAS_DIAMONDHARBOUR-II", "DIAMOND HARBOUR -II");
 
 		// Another set
 		explicitConversions.put("ANDHRA PRADESH_CUDDAPAH_B.KODURU", "B KODURU");
@@ -2496,42 +2603,42 @@ public class BlockMapper {
 
 		// explicitConversions.put("ANDHRA
 		// PRADESH_KARIMNAGAR_BHEEMADEVARAPALLY", "");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_BHEEMADEVARPALLY",
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_BHEEMADEVARPALLY",
 		// "");
 
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_BOINAPALLY", "BOINPALLI");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_CHANDURTHY", "CHANDURTI");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_CHENDURTHY", "CHANDURTI");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_DHARAMPURI(NC)", "DHARMAPURI");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_ELIGEDU(NC)", "");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_ELKATHERTHY", "");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_ELKATHURTHY", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_GOLLAPALLY(NC)", "GOLLAPAALI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_BOINAPALLY", "BOINPALLI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_CHANDURTHY", "CHANDURTI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_CHENDURTHY", "CHANDURTI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_DHARAMPURI(NC)", "DHARMAPURI");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_ELIGEDU(NC)", "");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_ELKATHERTHY", "");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_ELKATHURTHY", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_GOLLAPALLY(NC)", "GOLLAPAALI");
 
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_IBRAHIMPATANAM(NC)", "IBRAHIMPATNAM");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_ILLANTHAKUNTA",
+		explicitConversions.put("TELANGANA_KARIMNAGAR_IBRAHIMPATANAM(NC)", "IBRAHIMPATNAM");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_ILLANTHAKUNTA",
 		// "");
 
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KATHALAPUR", "");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KESHAVAPATANAM(NC)", "KESAVAPATNAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KESHAVAPATNAM", "KESAVAPATNAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KODIMYAL", "KODMIAL");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_KOMIDIYAL", "KODMIAL");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_KATHALAPUR", "");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KESHAVAPATANAM(NC)", "KESAVAPATNAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KESHAVAPATNAM", "KESAVAPATNAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KODIMYAL", "KODMIAL");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_KOMIDIYAL", "KODMIAL");
 
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MEDIPALLY", "MAIDPALLI");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_MEDIPALLY(NC)", "MAIDPALLI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_MEDIPALLY", "MAIDPALLI");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_MEDIPALLY(NC)", "MAIDPALLI");
 
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_SAIDPUR", "SAIDAPUR");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_SRICILLA", "SIRSILLA");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_SULTHANABAD(NC)", "SULTANABAD");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_THIMMAPUR", "TIMMAPURAM");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_VELAGATUR", "VELGATUR");
-		explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_VELGATOOR(NC)", "VELGATUR");
-		// explicitConversions.put("ANDHRA PRADESH_KARIMNAGAR_YELLAREDDYPALLY",
+		explicitConversions.put("TELANGANA_KARIMNAGAR_SAIDPUR", "SAIDAPUR");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_SRICILLA", "SIRSILLA");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_SULTHANABAD(NC)", "SULTANABAD");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_THIMMAPUR", "TIMMAPURAM");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_VELAGATUR", "VELGATUR");
+		explicitConversions.put("TELANGANA_KARIMNAGAR_VELGATOOR(NC)", "VELGATUR");
+		// explicitConversions.put("TELANGANA_KARIMNAGAR_YELLAREDDYPALLY",
 		// "");
 
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_KHAMMANRURAL(NC)", "KHAMMAM RURAL");
-		explicitConversions.put("ANDHRA PRADESH_KHAMMAM_TIRUMALALAYAPELM", "THIRUMALAYAPALEM");
+		explicitConversions.put("TELANGANA_KHAMMAM_KHAMMANRURAL(NC)", "KHAMMAM RURAL");
+		explicitConversions.put("TELANGANA_KHAMMAM_TIRUMALALAYAPELM", "THIRUMALAYAPALEM");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_CHATRAI(NC)", "CHATRAYI");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_G.KONDURU", "GADDAMANUGU KONDURU");
 		explicitConversions.put("ANDHRA PRADESH_KRISHNA_NUZUD", "NUZVID");
@@ -2544,63 +2651,66 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_KURNOOL_SRIVELLA(NC)", "SIRVEL");
 
 		// New set
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_BIJINEPALY", "BIJNAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_C.C.KUNTA", "CHINNA CHINTHAKUNTA");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_DHAROOR(NC)", "DHARUR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_KODAIR", "KODUR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_KOTHAKOTA(NC)", "KOTTAKOTA");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_MAHBOOBNAGAR", "MAHABUBNAGAR");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_MAIDJIL", "MIDJIL");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_NAGARKURNOOL", "NAGAR KARNUL");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_TALKONDAPALLY", "TALAKONDAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_THIMMAJIPET", "TIMMAJIPET");
-		explicitConversions.put("ANDHRA PRADESH_MAHABUBNAGAR_UPPUNUNTHAL", "UPPUNUNTALA");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_GAJEWAL", "GAJWEL");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_JAGADEVPUR", "JAGDEVPUR");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_KOWDIPALLY", "KOWDIPALLE");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_KULCHARAM", "KULSARAM");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_NANGANUR", "NANGNUR");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_SANGARREDDY", "SANGAREDDI");
-		// explicitConversions.put("ANDHRA PRADESH_MEDAK_THOGUTA", "");
-		explicitConversions.put("ANDHRA PRADESH_MEDAK_YEDURTHY", "YELDURTI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_ALAIR", "ALER");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_ATMAKURI", "ATMAKUR(M)");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_B.POCHAMPALLY", "BHUDANPOCHAMPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_CHINTHAPALLY", "CHINTAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_CHIVEMLA", "CHIWEMLA");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_GARIDEPALLY(NC)", "GAREDPALLI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_GUNDLAPALLY", "GUNDLAPALLI");
-		// explicitConversions.put("ANDHRA PRADESH_NALGONDA_JAJIREDDIGUDEM",
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_BIJINEPALY", "BIJNAPALLI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_C.C.KUNTA", "CHINNA CHINTHAKUNTA");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_DHAROOR(NC)", "DHARUR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KODAIR", "KODUR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_KOTHAKOTA(NC)", "KOTTAKOTA");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_MAHBOOBNAGAR", "MAHABUBNAGAR");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_MAIDJIL", "MIDJIL");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_NAGARKURNOOL", "NAGAR KARNUL");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_TALKONDAPALLY", "TALAKONDAPALLI");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_THIMMAJIPET", "TIMMAJIPET");
+		explicitConversions.put("TELANGANA_MAHABUBNAGAR_UPPUNUNTHAL", "UPPUNUNTALA");
+		explicitConversions.put("TELANGANA_MEDAK_GAJEWAL", "GAJWEL");
+		explicitConversions.put("TELANGANA_MEDAK_CHINNAKODUR", "CHINNA KODUR");
+		explicitConversions.put("TELANGANA_MEDAK_MUNPAL", "MUNPALLE");
+
+		explicitConversions.put("TELANGANA_MEDAK_JAGADEVPUR", "JAGDEVPUR");
+		explicitConversions.put("TELANGANA_MEDAK_KOWDIPALLY", "KOWDIPALLE");
+		explicitConversions.put("TELANGANA_MEDAK_KULCHARAM", "KULSARAM");
+		explicitConversions.put("TELANGANA_MEDAK_NANGANUR", "NANGNUR");
+		explicitConversions.put("TELANGANA_MEDAK_SANGARREDDY", "SANGAREDDI");
+		// explicitConversions.put("TELANGANA_MEDAK_THOGUTA", "");
+		explicitConversions.put("TELANGANA_MEDAK_YEDURTHY", "YELDURTI");
+		explicitConversions.put("TELANGANA_NALGONDA_ALAIR", "ALER");
+		explicitConversions.put("TELANGANA_NALGONDA_ATMAKURI", "ATMAKUR(M)");
+		explicitConversions.put("TELANGANA_NALGONDA_B.POCHAMPALLY", "BHUDANPOCHAMPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_CHINTHAPALLY", "CHINTAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_CHIVEMLA", "CHIWEMLA");
+		explicitConversions.put("TELANGANA_NALGONDA_GARIDEPALLY(NC)", "GAREDPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_GUNDLAPALLY", "GUNDLAPALLI");
+		// explicitConversions.put("TELANGANA_NALGONDA_JAJIREDDIGUDEM",
 		// "");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_MOTHEY", "MOTEH");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_NAKERAKAL", "NAKREKAL");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_NIDMANOOR", "NIDAMANUR");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_NUTHANKAL(NC)", "NUTANKAL");
-		// explicitConversions.put("ANDHRA PRADESH_NALGONDA_PAPALLY", "");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_S.NARAYANPUR", "NARAYANPUR");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_THIPPARTHY", "TIPPARTI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_THIRUMALGIRI", "TIRMALGIRI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_THUNGATHURTHY", "TUNGATURTI");
-		explicitConversions.put("ANDHRA PRADESH_NALGONDA_THURKAPALLY", "TURKAPALLI");
+		explicitConversions.put("TELANGANA_NALGONDA_MOTHEY", "MOTEH");
+		explicitConversions.put("TELANGANA_NALGONDA_NAKERAKAL", "NAKREKAL");
+		explicitConversions.put("TELANGANA_NALGONDA_NIDMANOOR", "NIDAMANUR");
+		explicitConversions.put("TELANGANA_NALGONDA_NUTHANKAL(NC)", "NUTANKAL");
+		// explicitConversions.put("TELANGANA_NALGONDA_PAPALLY", "");
+		explicitConversions.put("TELANGANA_NALGONDA_S.NARAYANPUR", "NARAYANPUR");
+		explicitConversions.put("TELANGANA_NALGONDA_THIPPARTHY", "TIPPARTI");
+		explicitConversions.put("TELANGANA_NALGONDA_THIRUMALGIRI", "TIRMALGIRI");
+		explicitConversions.put("TELANGANA_NALGONDA_THUNGATHURTHY", "TUNGATURTI");
+		explicitConversions.put("TELANGANA_NALGONDA_THURKAPALLY", "TURKAPALLI");
 		explicitConversions.put("ANDHRA PRADESH_NELLORE_ANANTSAGARAM(NC)", "ANANTHASAGARAM");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_ARMOOR(C)", "ARMUR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_BHEEMGAL", "BHIMGAL");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_BHIKNOOR", "BIKNUR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_DHARPALLY", "DHARPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_DICHPALLY(NC)", "DICHPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_JAKRANPALLY", "JAKRANPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_KAMMARPALLY", "KAMMARPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_KOTAGIRI(NC)", "KOTAGIR1");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_MAKLOOR(NC)", "MAKLUR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_NAGIREDDYPET", "NAGAREDDIPET");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_RENJAL", "RANJAL");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_SADASHIVANAGAR", "SADASIVANAGAR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_SADASHIVNAGAR", "SADASIVANAGAR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_SIRIKOND", "SIRKONDA");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_SIRIKONDA", "SIRKONDA");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_VAILPOOR(NC)", "VELPUR");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_YEDPALLY(C)", "YEDPALLE");
-		explicitConversions.put("ANDHRA PRADESH_NIZAMABAD_YEDPALLY(NC)", "YEDPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_ARMOOR(C)", "ARMUR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_BHEEMGAL", "BHIMGAL");
+		explicitConversions.put("TELANGANA_NIZAMABAD_BHIKNOOR", "BIKNUR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_DHARPALLY", "DHARPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_DICHPALLY(NC)", "DICHPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_JAKRANPALLY", "JAKRANPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_KAMMARPALLY", "KAMMARPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_KOTAGIRI(NC)", "KOTAGIR1");
+		explicitConversions.put("TELANGANA_NIZAMABAD_MAKLOOR(NC)", "MAKLUR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_NAGIREDDYPET", "NAGAREDDIPET");
+		explicitConversions.put("TELANGANA_NIZAMABAD_RENJAL", "RANJAL");
+		explicitConversions.put("TELANGANA_NIZAMABAD_SADASHIVANAGAR", "SADASIVANAGAR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_SADASHIVNAGAR", "SADASIVANAGAR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_SIRIKOND", "SIRKONDA");
+		explicitConversions.put("TELANGANA_NIZAMABAD_SIRIKONDA", "SIRKONDA");
+		explicitConversions.put("TELANGANA_NIZAMABAD_VAILPOOR(NC)", "VELPUR");
+		explicitConversions.put("TELANGANA_NIZAMABAD_YEDPALLY(C)", "YEDPALLE");
+		explicitConversions.put("TELANGANA_NIZAMABAD_YEDPALLY(NC)", "YEDPALLE");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_ARDHAVEEDU", "ARDHAVIDU");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_CHEEMAKURTHY", "CHIMAKURTI");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_CUMBUM", "KAMBHAM");
@@ -2608,29 +2718,29 @@ public class BlockMapper {
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_KOMAROLE", "KOMAROLU");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_PEDDARAVEEDU", "PEDDARAVIDU");
 		explicitConversions.put("ANDHRA PRADESH_PRAKASAM_PULLACHERUVU(NC)", "PULLALACHERUVU");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_KULAKCHERLA", "KULKACHARLA");
-		// explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_PULAKACHERLA",
+		explicitConversions.put("TELANGANA_RANGA REDDY_KULAKCHERLA", "KULKACHARLA");
+		// explicitConversions.put("TELANGANA_RANGA REDDY_PULAKACHERLA",
 		// "");
-		// explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_RAJENDRANAGAR",
+		// explicitConversions.put("TELANGANA_RANGA REDDY_RAJENDRANAGAR",
 		// "");
-		explicitConversions.put("ANDHRA PRADESH_RANGA REDDY_SAROOMMAGAR", "SAROORNAGAR");
+		explicitConversions.put("TELANGANA_RANGA REDDY_SAROOMMAGAR", "SAROORNAGAR");
 		explicitConversions.put("ANDHRA PRADESH_VIZIANAGARAM_CHEEPURUPALLI", "CHIPURUPALLE");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_DEVARUPPULA", "EVARUPPAL");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_GEESUGONDA", "GISGONDA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_GEESUGONDA(NC)", "GISGONDA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_GEESUGONDA©", "GISGONDA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_HANAMKONDA", "HANMAKONDA");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_HASANPARTHY", "HASANPARTI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_MOGULLAPALLY", "MOGULLAPALLI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_NARSIMHULAPET(NC)", "NARSAMPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_PALAKURTHY", "PALAKURTI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_RAGHUNATHPALLY", "RAGHUNATHPALLI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_RAYAPARTHY", "RAIPARTHI");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_SANGEM", "SANGAM");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_SANGEM(NC)", "SANGAM");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_WARDHANNAPET", "VARDANNAPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_WARDHANNAPET(NC)", "VARDANNAPET");
-		explicitConversions.put("ANDHRA PRADESH_WARANGAL_WARDHANNAPET©", "VARDANNAPET");
+		explicitConversions.put("TELANGANA_WARANGAL_DEVARUPPULA", "EVARUPPAL");
+		explicitConversions.put("TELANGANA_WARANGAL_GEESUGONDA", "GISGONDA");
+		explicitConversions.put("TELANGANA_WARANGAL_GEESUGONDA(NC)", "GISGONDA");
+		explicitConversions.put("TELANGANA_WARANGAL_GEESUGONDA©", "GISGONDA");
+		explicitConversions.put("TELANGANA_WARANGAL_HANAMKONDA", "HANMAKONDA");
+		explicitConversions.put("TELANGANA_WARANGAL_HASANPARTHY", "HASANPARTI");
+		explicitConversions.put("TELANGANA_WARANGAL_MOGULLAPALLY", "MOGULLAPALLI");
+		explicitConversions.put("TELANGANA_WARANGAL_NARSIMHULAPET(NC)", "NARSAMPET");
+		explicitConversions.put("TELANGANA_WARANGAL_PALAKURTHY", "PALAKURTI");
+		explicitConversions.put("TELANGANA_WARANGAL_RAGHUNATHPALLY", "RAGHUNATHPALLI");
+		explicitConversions.put("TELANGANA_WARANGAL_RAYAPARTHY", "RAIPARTHI");
+		explicitConversions.put("TELANGANA_WARANGAL_SANGEM", "SANGAM");
+		explicitConversions.put("TELANGANA_WARANGAL_SANGEM(NC)", "SANGAM");
+		explicitConversions.put("TELANGANA_WARANGAL_WARDHANNAPET", "VARDANNAPET");
+		explicitConversions.put("TELANGANA_WARANGAL_WARDHANNAPET(NC)", "VARDANNAPET");
+		explicitConversions.put("TELANGANA_WARANGAL_WARDHANNAPET©", "VARDANNAPET");
 		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_NALLAJARLA", "NALLAJERLA");
 		explicitConversions.put("ANDHRA PRADESH_WEST GODAVARI_NIDADAVOLU", "NIDADAVOLE");
 
@@ -2725,7 +2835,7 @@ public class BlockMapper {
 		explicitConversions.put("KARNATAKA_BELGAUM_SAUNDATTI(P)", "SAVADATTI");
 		explicitConversions.put("KARNATAKA_BELLARY_H.B.HALLI(NC)", "HAGARIBOMMANAHALLI");
 		explicitConversions.put("KARNATAKA_BELLARY_H.B.HALLI(P-I)", "HAGARIBOMMANAHALLI");
-		// explicitConversions.put("KARNATAKA_BIDAR_BASAVANABAGEVADINC)", "");
+		explicitConversions.put("KARNATAKA_BIDAR_HOMNABAD", "HUMNABAD");
 		explicitConversions.put("KARNATAKA_BIJAPUR_B.BAGEVADI(P)", "BASAVANA BAGEVADI");
 		explicitConversions.put("KARNATAKA_CHAMARAJANAGAR_CHAMRAJNAGARA(NC)", "CHAMARAJANAGAR");
 		explicitConversions.put("KARNATAKA_CHIKBALLAPUR_GAURIBIDALUR", "GOWRIBIDANUR");
@@ -2735,10 +2845,12 @@ public class BlockMapper {
 		explicitConversions.put("KARNATAKA_DAVANGERE_HONNALLI(NC)", "HONNALI");
 		explicitConversions.put("KARNATAKA_HASSAN_CRPATNA(NC)", "CHANNARAYAPATNA");
 		explicitConversions.put("KARNATAKA_KOLAR_BANGARPET", "BANGARAPET");
+		explicitConversions.put("KARNATAKA_HAVERI_RANIBENNUR", "RANIBENNURU");
+
 		explicitConversions.put("KARNATAKA_KOLAR_BANGARPET(NC)", "BANGARAPET");
 		explicitConversions.put("KARNATAKA_MYSORE_KRISHNRAJANAGARA(NC)", "KRISHNARAJA NAGAR");
 		explicitConversions.put("KARNATAKA_RAMNAGAR_CHANNAPATANA(NC)", "CHANNAPATNA");
-		// explicitConversions.put("KARNATAKA_RAMNAGAR_CHICKNAYAKANHALLI", "");
+		explicitConversions.put("KARNATAKA_DAKSHIN KANNADA_BELTANGADI", "BELTHANGADI");
 		explicitConversions.put("KARNATAKA_RAMNAGAR_RANMANAGARAM", "RAMANAGARAM");
 		explicitConversions.put("KARNATAKA_RAMNAGAR_RANMANAGARAM(NC)", "RAMANAGARAM");
 		explicitConversions.put("KARNATAKA_TUMKUR_CHICKNAYAKANHALLI(NC)", "CHIKNAYAKANHALLI");
@@ -2762,6 +2874,8 @@ public class BlockMapper {
 		explicitConversions.put("KERALA_THIRUVANANTHPURAM_CHIRAYINKIL", "CHIRAYINKEEZHU");
 		// explicitConversions.put("KERALA_THIRUVANANTHPURAM_KILMANOOR", "");
 		explicitConversions.put("KERALA_THIRUVANANTHPURAM_THRIUVANANTHA-PURAM(RURAL)", "THIRUVANANTHAPURAM");
+		explicitConversions.put("KERALA_THIRUVANANTHPURAM_THIRUVANANTHAPURAM CORPORATION", "THIRUVANANTHAPURAM");
+
 		explicitConversions.put("KERALA_TRISHUR_KODUNGALLOR", "KODUNGALLUR");
 		// explicitConversions.put("KERALA_TRISHUR_OLLURKARA", "");
 		// explicitConversions.put("KERALA_TRISHUR_THALIKKULAM", "");
@@ -2785,6 +2899,7 @@ public class BlockMapper {
 		explicitConversions.put("MADHYA PRADESH_SHAJAPUR_BAROD", "BAROUD");
 		explicitConversions.put("MADHYA PRADESH_SHAJAPUR_MOHANBARODIA", "MOMAN BARODIY");
 		explicitConversions.put("MADHYA PRADESH_SHIVPURI_KHANNIYADHANA", "KHANIYADHAN");
+		explicitConversions.put("MADHYA PRADESH_SHIVPURI_KHANIYADHANA", "KHANIYADHAN");
 		explicitConversions.put("MADHYA PRADESH_SHIVPURI_PICHOR", "PICHHOR");
 		explicitConversions.put("MADHYA PRADESH_UJJAIN_GHATIA", "GHATIYA");
 		explicitConversions.put("MADHYA PRADESH_UJJAIN_KHACHROD", "KACHROD");
@@ -3678,7 +3793,7 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_BARDAMAN_MAGALKOTE", "MANGOLKOTE");
 		explicitConversions.put("WEST BENGAL_BARDAMAN_MEMARIII", "MEMARI- II");
 		explicitConversions.put("WEST BENGAL_BARDAMAN_MONTESWAR", "MANTESWAR");
-		explicitConversions.put("WEST BENGAL_BARDAMAN_PURBASTHALIII", "PURBASTHALI - II");
+		explicitConversions.put("WEST BENGAL_BARDAMAN_PURBASTHALIII", " - II");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_MURARAIII", "");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_NALHATIII", "");
 		// explicitConversions.put("WEST BENGAL_BIRBHUM_NANOOR", "");
@@ -3694,6 +3809,14 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_HUGLI_POLBA-DADPUR", "POLBA DADPUR");
 		explicitConversions.put("WEST BENGAL_MALDA_HARISHCHANDRAPURII", "HARISCHANDRAPUR -II");
 		explicitConversions.put("WEST BENGAL_MALDA_KALIACHAKI", "KALIACHAK -I");
+		
+		explicitConversions.put("WEST BENGAL_MALDA_KALIACHAK-I", "KALIACHAK -I");
+		explicitConversions.put("WEST BENGAL_MALDA_KALIACHAK-II", "KALIACHAK -II");
+		explicitConversions.put("WEST BENGAL_MALDA_KALIACHAK-III", "KALIACHAK -III");
+		
+		explicitConversions.put("WEST BENGAL_MURSIDABAD_BELDANGA-I", "BELDANGA -I");
+		explicitConversions.put("WEST BENGAL_MURSIDABAD_BELDANGA-II", "BELDANGA -II");
+		
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_BERHAMPUR", "BERHAMPORE");
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_BHAGABANGOLA-I", "BHAGAWANGOLA -I");
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_BHAGABANGOLA-II", "BHAGAWANGOLA -II");
@@ -3707,7 +3830,8 @@ public class BlockMapper {
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_RANINAGARII", "RANINAGAR -II");
 		explicitConversions.put("WEST BENGAL_MURSIDABAD_SUTIII", "SUTI -II");
 		explicitConversions.put("WEST BENGAL_NADIA_KALIGUNJ", "KALIGANJ");
-		// explicitConversions.put("WEST BENGAL_NADIA_KARIMPURI", "");
+		
+		explicitConversions.put("WEST BENGAL_NADIA_KARIMPUR - II", "KARIMPUR -II");
 		explicitConversions.put("WEST BENGAL_NADIA_KARIMPURII", "KARIMPUR -II");
 		// explicitConversions.put("WEST BENGAL_NADIA_TEHATTA-II", "");
 		explicitConversions.put("WEST BENGAL_NADIA_TEHATTAI", "TEHATTA -I");
@@ -3719,11 +3843,9 @@ public class BlockMapper {
 			List<String> masterBlocks) {
 		final String key = statePlusDistrictKey + "_" + blockName;
 		if (explicitConversions.containsKey(key)) {
-			return explicitConversions.get(key);
+			return explicitConversions.get(key).toUpperCase();
 		}
-		if (blockName.equals("GUDURU")) {
-			System.out.println("aashish");
-		}
+
 		if (masterBlocks == null) {
 			// System.err.println("Master blocks empty In " +
 			// statePlusDistrictKey + " block: " + blockName);
